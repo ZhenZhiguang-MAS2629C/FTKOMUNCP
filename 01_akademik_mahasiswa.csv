@@ -1,0 +1,1001 @@
+nim,nama,jenis_kelamin,usia,program_studi,angkatan,asal_daerah,jalur_masuk,status_kerja,jam_belajar_per_minggu,persen_kehadiran,nilai_uts,nilai_uas,jumlah_sks,uang_saku_bulanan,organisasi,ipk,status_akademik
+2400025,Muh. Pakaya,Perempuan,20,Ilmu Komputer,2021,Luwuk,SNBP,Paruh Waktu,3.9,81.23637141261828,81.0,64.8,133,1527000.0,Ya,3.44,Normal
+2500464,Citra Lasari,Perempuan,24,Manajemen,2024,Donggala,Mandiri,Penuh Waktu,15.6,89.1,66.0,61.8,142,1547000.0,Tidak,3.12,Normal
+2300372,Agus Tandiari,Laki-laki,23,Administrasi Publik,2023,Gorontalo,SNBP,Tidak Bekerja,13.2,86.3,63.5,91.9,107,1618000.0,Tidak,3.55,Cumlaude
+2300730,Siti Tandiari,Perempuan,19,Akuntansi,2022,Donggala,Mandiri,Tidak Bekerja,,85.2,80.7,83.5,140,2520000.0,Tidak,4.0,Cumlaude
+2200757,Nur Tandiari,Perempuan,25,Administrasi Bisnis,2021,Luwuk,Mandiri,Paruh Waktu,12.2,77.2,65.7,79.7,123,95000000.0,Tidak,3.81,Cumlaude
+2500357,Putri Tandiari,Perempuan,18,Administrasi Publik,2024,Manado,Mandiri,Tidak Bekerja,3.1,81.4,77.5,61.2,103,1713000.0,Ya,3.18,Normal
+2100565,Dewi Pratama,Laki-laki,21,Akuntansi,2023,Makassar,SNBT,Tidak Bekerja,7.5,78.27737103333735,62.0,73.8,144,1771000.0,Tidak,3.17,Normal
+2100767,Gita Pakaya,Laki-laki,26,Akuntansi,2023,Palu,Mandiri,Paruh Waktu,27.0,210.0,92.7,56.7,97,,Ya,3.5,Cumlaude
+2400642,Muh. Kurniawan,Laki-laki,22, Administrasi Bisnis ,2021,Luwuk,Beasiswa,Penuh Waktu,9.2,98.8,48.0,81.4,134,1931000.0,Tidak,3.46,Normal
+2300607,Sri Tandiari,Laki-laki,24,Manajemen,2020,Kendari,SNBT,Paruh Waktu,9.3,91.1,74.2,49.9,116,890.000,Tidak,3.09,Normal
+2400374,Siti Rahman,Laki-laki,21,Administrasi Bisnis,2020,Donggala,SNBP,Paruh Waktu,18.1,78.3,76.8,78.1,90,1448000.0,Ya,3.81,Cumlaude
+2100095,Budi Rahman,Laki-laki,18,Administrasi Publik,2023,Makassar,SNBP,Tidak Bekerja,8.4,84.6,57.0,81.6,100,,Tidak,3.47,Normal
+2300626,Rahmat Pratama,pria,26,Akuntansi,2021,Donggala,Mandiri,Paruh Waktu,,81.0,83.6,55.9,123,1019000.0,Tidak,3.3,Normal
+2500400,Budi Lamato,Perempuan,20,Ilmu Komputer,2024,Kendari,SNBT,Tidak Bekerja,11.7,85.2,64.8,70.8,140,1322000.0,Ya,3.09,Normal
+2300617,Dewi Daeng,pria,19,Akuntansi,2024,Makassar,SNBP,Tidak Bekerja,29.7,93.21950543265689,70.4,75.8,116,1429000.0,Tidak,3.63,Cumlaude
+2500641,Nur Pakaya,Laki-laki,26,Manajemen,2022,Palu,SNBT,Paruh Waktu,19.7,80.9,81.8,70.7,114,867000.0,Tidak,3.57,Cumlaude
+2500289,Budi Daeng,Laki-laki,22,Ilmu Komputer,2024,Tolitoli,SNBT,Tidak Bekerja,20.6,97.4,63.6,53.8,127,1959000.0,Ya,3.12,Normal
+2200340,Taufik Rahman,Perempuan,24,Akuntansi,2020,Gorontalo,SNBT,Tidak Bekerja,25.8,67.6,75.7,52.7,113,1214000.0,Ya,3.06,Normal
+2400309,Rizky Lapasere,Perempuan,20,ADMINISTRASI BISNIS,2022,Mamuju,SNBT,Tidak Bekerja,9.5,91.5,82.2,61.3,121,1116000.0,Tidak,3.51,Cumlaude
+2300315,Eka Saputra,Laki-laki,25,Administrasi Bisnis,2023,Makassar,SNBT,Paruh Waktu,20.2,71.4,94.3,76.4,110,2203000.0,Tidak,3.73,Cumlaude
+2500484,Rahmat Lapasere,pria,19,Adm. Publik,2020,Makassar,Beasiswa,Paruh Waktu,15.9,84.4,92.5,54.2,112,2458000.0,Ya,3.64,Cumlaude
+2500398,Lestari Pratama,Perempuan,18,Administrasi Bisnis,2020,Manado,Mandiri,Paruh Waktu,,83.6,86.8,68.6,112,1565000.0,Ya,3.54,Cumlaude
+2100697,Lestari Rahman,Perempuan,23,Akuntansi,2020,Kendari,SNBP,Tidak Bekerja,21.3,73.75752056230131,75.8,67.3,129,1916000.0,Ya,3.2,Normal
+2500521,Rizky Kurniawan,Perempuan,26,Ilmu Komputer,2022,Luwuk,Mandiri,Paruh Waktu,11.6,94.5,75.5,70.5,126,1454000.0,Ya,3.54,Cumlaude
+2300941,Andi Mardani,P,26,Administrasi Bisnis,2020,Luwuk,Beasiswa,Tidak Bekerja,18.3,89.7,80.3,76.9,119,1033000.0,Tidak,3.56,Cumlaude
+2200490,Ayu Tandiari,Perempuan,19,Akuntansi,2020,Gorontalo,SNBP,Paruh Waktu,5.8,70.95810866975332,65.5,65.6,99,1499000.0,Ya,3.1,Normal
+2500890,Dewi Daeng,PEREMPUAN,20,Administrasi Publik,2024,Palu,Mandiri,Penuh Waktu,9.8,80.2,77.5,60.2,133,2691000.0,Tidak,3.14,Normal
+2500522,Kurnia Lasari,Laki-laki,25,Administrasi Publik,2024,Palu,SNBT,Tidak Bekerja,14.6,75.0,78.1,59.8,141,1.213.000,Tidak,3.09,Normal
+2500060,Andi Lamato,perempuan,22,Administrasi Publik,2022,Kendari,SNBP,Paruh Waktu,22.0,-15.0,72.0,71.8,141,1962000.0,Ya,2.93,Normal
+2100762,Yusuf Masdin,Laki-laki,18,Administrasi Bisnis,2020,Kendari,SNBT,Paruh Waktu,10.9,100.0,51.1,82.3,101,949000.0,Ya,3.29,Normal
+2300066,Taufik Pakaya,Perempuan,18,Administrasi Publik,2021,Luwuk,SNBT,Tidak Bekerja,15.5,87.3,62.8,67.5,141,1463000.0,Ya,3.09,Normal
+2300747,Ayu Rahman,Perempuan,25,Administrasi Publik,2023,Tolitoli,SNBT,Tidak Bekerja,16.3,75.3,68.6,53.1,113,1082000.0,Tidak,2.87,Normal
+2200790,Fajar Pakaya,Laki-laki,22,Administrasi Publik,2022,NA,SNBP,Tidak Bekerja,14.8,91.7,84.7,80.0,94,2045000.0,Ya,3.72,Cumlaude
+2200277,Rahmat Masdin,Laki-laki,19,Akuntansi,2024,Mamuju,Beasiswa,Paruh Waktu,15.4,89.0,55.8,58.1,92,1290000.0,Tidak,2.67,Normal
+2200664,Ayu Lasari,Laki-laki,19,Administrasi Publik,2021,Palu,SNBP,Paruh Waktu,13.2,79.1,59.5,62.7,102,2354000.0,Ya,2.78,Normal
+2300738,Rahmat Wijaya,Perempuan,25,Administrasi Bisnis,2024,Kendari,SNBT,Penuh Waktu,6.0,87.4,75.2,85.8,120,1407000.0,Tidak,3.64,Cumlaude
+2200803,Ayu Hidayat,perempuan,20,Ilmu Komputer,2021,Poso,SNBP,Tidak Bekerja,11.1,84.0,97.5,85.71822873728959,98,1841000.0,Tidak,4.0,Cumlaude
+2500510,Putri Kurniawan,Laki-laki,22,Administrasi Bisnis,2021,Palu,SNBP,Tidak Bekerja,18.8,86.6,62.9,67.42234088857873,88,1300000.0,Ya,3.34,Normal
+2400888,Dewi Nugroho,Laki-laki,18,Ilmu Komputer,2021,Palu,SNBT,Paruh Waktu,20.3,79.2,,71.9,139,2646000.0,Tidak,3.71,Cumlaude
+2500352,Nur Masdin,Perempuan,24,Manajemen,2020,Gorontalo,SNBT,Paruh Waktu,19.5,76.8,69.1,91.0,134,,Tidak,3.68,Cumlaude
+2400476,Sri Lapasere,Perempuan,23,Manajemen,2020,Tolitoli,SNBP,Paruh Waktu,21.0,75.48256044225859,66.6,57.0,140,1596000.0,Tidak,2.86,Normal
+2300500,Agus Lasari,Perempuan,23,Administrasi Publik,2023,NA,Mandiri,Tidak Bekerja,6.5,85.1,76.7,96.0,116,1231000.0,Tidak,4.0,Cumlaude
+2300214,Sri Pratama,Laki-laki,24,Manajemen,2022,Tolitoli,Mandiri,Tidak Bekerja,10.3,86.2,73.3,70.6,116,1648000.0,Ya,3.25,Normal
+2500914,Rizky Kurniawan,Laki-laki,21,administrasi bisnis,2023,Mamuju,SNBT,Paruh Waktu,8.6,72.0,78.5,68.1922712434021,127,,Ya,3.05,Normal
+2200369,Rahmat Masdin,Perempuan,23,Manajemen,2022,Manado,SNBT,Tidak Bekerja,5.7,70.0,55.8,71.52988919681746,129,2944000.0,Ya,3.09,Normal
+2200513,Putri Pratama,Laki-laki,25,Administrasi Bisnis,2024,Mamuju,SNBP,Tidak Bekerja,13.7,84.5,,82.77230268312816,84,1266000.0,Ya,3.84,Cumlaude
+2100110,Joko Nugroho,Laki-laki,20,Akuntansi,2023,NA,Mandiri,Tidak Bekerja,11.7,82.8,51.2,78.6,86,871000.0,Tidak,2.98,Normal
+2200376,Taufik Masdin,Laki-laki,24,Akuntansi,2024,Poso,SNBT,Tidak Bekerja,16.4,84.8,79.4,68.22096141748388,135,1591000.0,Tidak,3.5,Cumlaude
+2200695,Muh. Pakaya,Perempuan,26,Manajemen ,2022,Donggala,SNBT,Tidak Bekerja,16.0,80.20648665692288,91.9,94.0,117,1208000.0,Tidak,4.0,Cumlaude
+2300121,Fajar Mardani,Perempuan,22,Ilmu Komputer,2023,Palu,SNBT,Paruh Waktu,9.7,84.0,,82.3,101,1289000.0,Ya,3.93,Cumlaude
+2100203,Andi Mardani,Perempuan,21,Akuntansi,2020,Tolitoli,SNBT,Tidak Bekerja,10.6,92.0,80.8,85.9,121,1127000.0,Tidak,3.84,Cumlaude
+2200431,Muh. Wijaya,Perempuan,21,Manajemen,2022,Palu,Mandiri,Tidak Bekerja,7.7,78.9,78.3,92.3,96,1653000.0,Tidak,4.0,Cumlaude
+2500925,Fajar Pakaya,Perempuan,23,Akuntansi,2020,Palu,SNBT,Tidak Bekerja,17.7,75.2,,75.0,120,1.941.000,Tidak,3.15,Normal
+2200645,Gita Wijaya,Laki-laki,19,Akuntansi,2023,Makassar,Mandiri,,7.3,91.7,65.2,52.5975115846638,92,1572000.0,Ya,3.23,Normal
+2400819,Hasan Mardani,Perempuan,25,Manajemen,2023,Luwuk,SNBT,Tidak Bekerja,,90.67801767090137,76.1,54.8,109,1319000.0,Tidak,3.04,Normal
+2400442,Putri Sulistyo,Perempuan,26,Administrasi Publik,2021,Luwuk,Beasiswa,Tidak Bekerja,15.5,85.0,52.8,85.4,93,804000.0,Tidak,3.52,Cumlaude
+2200044,Ayu Nugroho,Perempuan,24,Akuntansi,2020,Manado,Mandiri,Tidak Bekerja,14.4,102.1292927857443,82.4,84.9,140,1883000.0,Tidak,4.0,Cumlaude
+2200906,Putri Wijaya,Laki-laki,26,Administrasi Publik,2021,Gorontalo,SNBT,Paruh Waktu,20.1,86.5,68.9,72.87788166608078,133,944000.0,Tidak,3.75,Cumlaude
+2500243,Lestari Masdin,Perempuan,21,Administrasi Bisnis,2023,Kendari,Mandiri,Tidak Bekerja,14.9,95.5,60.2,66.2,141,2052000.0,Ya,2.98,Normal
+2100482,Wahyu Daeng,Laki-laki,21,Administrasi Bisnis,2021,Mamuju,SNBT,Paruh Waktu,16.4,88.1,69.8,95.29131348194448,107,1502000.0,Ya,3.66,Cumlaude
+2200718,Gita Rahman,Perempuan,19,Ilmu Komputer,2020,Manado,Beasiswa,Paruh Waktu,13.6,89.1,,77.8,140,1628000.0,Tidak,3.65,Cumlaude
+2200104,Nur Tandiari,Perempuan,25,Manajemen,2023,Makassar,Beasiswa,Tidak Bekerja,17.2,88.51479551637016,62.6,61.9,103,1974000.0,Ya,3.13,Normal
+2400265,Kurnia Pakaya,Laki-laki,21,Ilmu Komputer,2020,Tolitoli,Mandiri,Tidak Bekerja,12.5,77.5,,62.4,132,1890000.0,Ya,2.96,Normal
+2300107,Lestari Lasari,Laki-laki,23,Administrasi Publik,2020,Gorontalo,Mandiri,Penuh Waktu,8.9,97.4,74.6,87.7,137,1328000.0,Tidak,3.94,Cumlaude
+2300082,Citra Wijaya,Perempuan,20,Administrasi Publik,2020,Manado,SNBP,Paruh Waktu,22.8,86.5,80.7,72.5,136,1084000.0,Tidak,3.7,Cumlaude
+2200742,Muh. Pratama,Perempuan,18,Akuntansi,2024,Mamuju,SNBT,Tidak Bekerja,13.2,94.0,57.8,74.2,91,1970000.0,Ya,3.53,Cumlaude
+2300636,Nur Nugroho,Laki-laki,26,Akuntansi,2020,Tolitoli,Mandiri,Tidak Bekerja,16.6,82.0,81.7,78.5,115,1683000.0,Tidak,3.56,Cumlaude
+2200610,Sri Nugroho,Perempuan,18,Ilmu Komputer,2020,Palu,SNBT,Penuh Waktu,12.1,80.0,50.8,67.8,85,1033000.0,Ya,2.56,Normal
+2200829,Muh. Rahman,Laki-laki,25,Administrasi Publik,2020,Mamuju,Mandiri,Paruh Waktu,13.1,98.9,,90.7,90,1480000.0,Ya,3.86,Cumlaude
+2100911,Yusuf Lapasere,Perempuan,18,Manajemen,2023,Luwuk,Mandiri,Tidak Bekerja,11.8,86.6,52.2,69.3,134,1523000.0,Tidak,2.89,Normal
+2500179,Hasan Saputra,Perempuan,21,Administrasi Publik,2024,Gorontalo,SNBT,Tidak Bekerja,13.0,75.0,77.6,74.48512341006844,112,1213000.0,Ya,3.44,Normal
+2200123,Dewi Pakaya,Laki-laki,23,Administrasi Publik,2021,Luwuk,SNBT,Tidak Bekerja,16.1,81.4,80.4,67.6,100,997000.0,Tidak,3.28,Normal
+2300105,Citra Sulistyo,Laki-laki,19,Ilmu Komputer,2023,Gorontalo,Mandiri,Tidak Bekerja,10.4,86.6,66.3,75.45154521280332,128,1062000.0,Ya,3.6,Cumlaude
+2200586,Nur Lamato,Perempuan,24,Ilmu Komputer,2023,Manado,Beasiswa,Tidak Bekerja,19.0,94.5,48.1,82.3,87,2052000.0,Tidak,3.03,Normal
+2300092,Putri Daeng,Perempuan,23,Akuntansi,2021,Makassar,SNBP,,20.3,81.1,63.0,87.0,128,1536000.0,Ya,3.64,Cumlaude
+2100863,Kurnia Nugroho,Laki-laki,22,Ilmu Komputer,2024,Luwuk,Mandiri,Tidak Bekerja,20.1,100.0,72.0,36.60229305271407,140,1935000.0,Ya,2.76,Normal
+2100292,Kurnia Saputra,Laki-laki,18,Administrasi Bisnis,2024,Gorontalo,Mandiri,Tidak Bekerja,9.1,83.93805216948121,59.9,94.3,139,1111000.0,Ya,3.73,Cumlaude
+2100164,Agus Pratama,Laki-laki,23,Administrasi Publik,2020,Poso,SNBP,Paruh Waktu,,87.3,60.1,52.7,135,885000.0,Tidak,2.87,Normal
+2400361,Budi Pratama,Laki-laki,26,Manajemen,2022,Makassar,Mandiri,Tidak Bekerja,15.0,85.2,89.3,73.2,91,1369000.0,Ya,3.81,Cumlaude
+2500530,Eka Lapasere,Wanita,20,Akuntansi,2020,Kendari,SNBT,Tidak Bekerja,13.5,78.1,79.1,78.3,115,988000.0,Tidak,3.64,Cumlaude
+2200830,Putri Lamato,Perempuan,26,akuntansi,2022,Tolitoli,SNBT,Tidak Bekerja,14.9,71.2,,65.4,94,1033000.0,Ya,2.89,Normal
+2200424,Rizky Daeng,pria,24,Adm. Publik,2021,Kendari,SNBT,Paruh Waktu,10.7,79.9,75.2,61.5,116,1462000.0,Ya,3.17,Normal
+2500600,Dewi Daeng,Laki-laki,22,Manajemen,2023,NA,Mandiri,Tidak Bekerja,21.2,76.2,79.6,66.7,138,2145000.0,Tidak,3.17,Normal
+2200056,Rizky Mardani,Perempuan,24,Administrasi Publik,2023,Tolitoli,SNBT,Tidak Bekerja,,88.3,69.4,44.464631612304544,85,1391000.0,Ya,2.56,Normal
+2300177,Rahmat Sulistyo,Perempuan,25,Administrasi Publik,2022,Gorontalo,Mandiri,Tidak Bekerja,19.1,95.03802820990931,58.3,62.9,89,1586000.0,Tidak,3.05,Normal
+2100002,Hasan Tandiari,Perempuan,24,Manajemen,2023,Donggala,SNBP,Paruh Waktu,15.4,80.08354280784575,,87.7,107,1.636.000,Ya,3.68,Cumlaude
+2300093,Rahmat Lamato,Laki-laki,23,Akuntansi,2021,Palu,Mandiri,Tidak Bekerja,12.4,68.0,50.2,76.1,140,1434000.0,Tidak,3.04,Normal
+2200633,Agus Mardani,Perempuan,26,Ilmu Komputer,2023,Manado,SNBT,,18.4,96.5,57.9,82.7,138,1279000.0,Ya,3.27,Normal
+2100461,Andi Kurniawan,Laki-laki,20,Ilmu Komputer,2020,Mamuju,SNBP,Paruh Waktu,8.3,93.7,84.0,85.87084382881083,86,,Tidak,3.89,Cumlaude
+2100864,Gita Pakaya,Perempuan,20,Administrasi Publik,2024,Gorontalo,SNBP,Paruh Waktu,9.1,98.7,88.8,71.8,97,1301000.0,Ya,3.79,Cumlaude
+2400915,Muh. Lapasere,Laki-laki,18,Ilmu Komputer,2023,Luwuk,SNBT,,9.2,96.17553260928412,50.9,75.1,128,3751000.0,Tidak,3.33,Normal
+2200306,Indah Tandiari,Perempuan,24,Administrasi Bisnis,2024,Makassar,Mandiri,Tidak Bekerja,8.7,90.3,64.7,94.6,91,2284000.0,Ya,4.0,Cumlaude
+2100595,Nur Pratama,Perempuan,24,Akuntansi,2021,Palu,SNBP,Paruh Waktu,16.5,73.2,66.1,90.8,120,943000.0,Tidak,3.62,Cumlaude
+2200640,Dewi Lapasere,Perempuan,26,Ilmu Komputer,2022,NA,SNBT,Paruh Waktu,5.5,92.29735928837424,82.3,71.63603320504124,95,,Ya,3.85,Cumlaude
+2100311,Kurnia Masdin,Perempuan,20,AP,2024,Mamuju,Beasiswa,Penuh Waktu,11.2,77.2,70.4,77.9,105,964000.0,Ya,3.22,Normal
+2400700,Citra Hidayat,Laki-laki,22,Administrasi Bisnis,2020,NA,Mandiri,Paruh Waktu,11.0,79.6,74.1,79.1,81,1268000.0,Tidak,3.59,Cumlaude
+2500255,Muh. Lapasere,Laki-laki,22,Manajemen,2020,Luwuk,Mandiri,Penuh Waktu,12.4,81.4,93.9,64.0,118,1891000.0,Tidak,3.67,Cumlaude
+2300828,Joko Lasari,Laki-laki,26,Administrasi Publik,2023,Kendari,SNBP,Paruh Waktu,21.9,84.6,72.8,72.6,142,1265000.0,Tidak,3.15,Normal
+2100952,Hasan Mardani,Perempuan,25,Ilmu Komputer,2020,Manado,SNBP,Paruh Waktu,16.3,84.1,91.9,67.3,121,2104000.0,Ya,3.82,Cumlaude
+2400087,Putri Lapasere,Laki-laki,26,Ilmu Komputer,2021,Kendari,Beasiswa,Penuh Waktu,12.9,94.6,70.3,60.5,133,1314000.0,Ya,3.17,Normal
+2400781,Nur Lamato,Laki2,25,Administrasi Publik,2020,Manado,SNBP,Tidak Bekerja,15.9,90.3,,72.0,103,1625000.0,Tidak,4.0,Cumlaude
+2300707,Indah Nugroho,Laki-laki,18,Akuntansi,2020,NA,SNBP,Tidak Bekerja,10.8,78.4,59.6,77.2,108,1325000.0,Tidak,3.01,Normal
+2400407,Eka Lapasere,Laki-laki,23,Akuntansi,2023,Kendari,Mandiri,Tidak Bekerja,17.9,85.9,63.8,64.0,130,1027000.0,Tidak,2.93,Normal
+2300691,Eka Lasari,Perempuan,26,Administrasi Publik,2024,Manado,SNBT,Tidak Bekerja,23.7,76.89508843059303,56.6,65.2,144,942000.0,Ya,2.95,Normal
+2300533,Taufik Sulistyo,Laki-laki,19,Manajemen,2020,Luwuk,Mandiri,Tidak Bekerja,7.4,83.4,73.8,67.1,113,1820000.0,Ya,3.19,Normal
+2100824,Budi Wijaya,laki laki,23,Manajemen,2022,Manado,SNBP,Penuh Waktu,18.5,87.1,75.8,81.8,135,1176000.0,Tidak,3.71,Cumlaude
+2200771,Joko Tandiari,Perempuan,26,Administrasi Publik,2024,Gorontalo,SNBT,Tidak Bekerja,8.4,88.91712768948535,64.4,88.2,137,860000.0,Tidak,3.47,Normal
+2200731,Budi Lapasere,Laki-laki,19,Administrasi Publik,2023,Gorontalo,Mandiri,Tidak Bekerja,13.6,84.3,72.4,94.3,123,2238000.0,Ya,4.0,Cumlaude
+2300958,Taufik Nugroho,Perempuan,22,Administrasi Bisnis,2022,Luwuk,SNBP,Tidak Bekerja,9.5,80.3,90.2,83.0,133,1926000.0,Ya,3.89,Cumlaude
+2500031,Siti Tandiari,Perempuan,25,Manajemen,2021,Manado,SNBT,Tidak Bekerja,21.0,88.9,79.2,80.6,123,2506000.0,Ya,3.69,Cumlaude
+2100456,Gita Masdin,Perempuan,26,Administrasi Bisnis,2024,Palu,SNBT,Paruh Waktu,14.7,96.6,84.3,78.4,136,1989000.0,Tidak,4.0,Cumlaude
+2300447,Indah Lasari,Perempuan,20,Manajemen,2022,Poso,SNBT,Tidak Bekerja,18.8,80.2,77.0,71.7,99,1250000.0,Ya,3.68,Cumlaude
+2200210,Siti Kurniawan,Laki2,19,Akuntansi,2023,Palu,SNBP,Tidak Bekerja,11.5,76.2,86.2,72.4,88,1514000.0,Tidak,3.61,Cumlaude
+2400189,Ayu Daeng,P,19,Manajemen,2023,NA,Mandiri,Paruh Waktu,6.2,85.1,65.9,61.2,101,2000000.0,Tidak,3.11,Normal
+2300239,Dewi Lamato,Perempuan,24,Akuntansi,2022,Mamuju,Beasiswa,Tidak Bekerja,13.3,93.6,,68.6,118,1239000.0,Tidak,3.46,Normal
+2300796,Fajar Sulistyo,laki laki,22,Administrasi Publik,2023,Makassar,Mandiri,Tidak Bekerja,20.1,88.1,66.9,72.67580884593266,109,1569000.0,Tidak,3.04,Normal
+2300202,Eka Masdin,Laki-laki,24,Administrasi Bisnis,2022,Mamuju,SNBT,Paruh Waktu,16.3,98.1,78.4,63.81041771220999,101,1664000.0,Ya,3.2,Normal
+2300591,Budi Tandiari,Laki-laki,26,AKUNTANSI,2022,Donggala,SNBT,Tidak Bekerja,15.1,80.1,84.9,69.4,101,1117000.0,Tidak,3.64,Cumlaude
+2100874,Rahmat Lasari,Laki-laki,20,Administrasi Publik,2020,Gorontalo,SNBT,Paruh Waktu,15.2,80.01301813657216,53.8,69.6,108,1350000.0,Ya,2.9,Normal
+2100782,Dewi Pakaya,Perempuan,18,Administrasi Bisnis,2024,Makassar,Beasiswa,Paruh Waktu,12.0,77.9,,75.1,144,1491000.0,Ya,3.26,Normal
+2100502,Wahyu Pratama,Laki-laki,23,ADMINISTRASI BISNIS,2020,Manado,SNBP,Paruh Waktu,,89.6,77.1,80.09064862473346,144,674.000,Tidak,3.41,Normal
+2500948,Wahyu Saputra,Perempuan,20,Manajemen,2024,NA,SNBP,Tidak Bekerja,10.5,95.4,63.4,75.53642532140888,142,1003000.0,Ya,3.39,Normal
+2500622,Rahmat Lapasere,Laki-laki,21,Administrasi Bisnis,2021,Poso,SNBP,Tidak Bekerja,8.2,79.5,76.2,69.8,140,2289000.0,Tidak,3.62,Cumlaude
+2500046,Lestari Rahman,Perempuan,18,Administrasi Bisnis,2023,Manado,SNBT,Tidak Bekerja,9.8,83.2,85.3,78.9,142,1438000.0,Tidak,3.67,Cumlaude
+2300041,Gita Kurniawan,Laki-laki,19,Ilmu Komputer,2023,Luwuk,Mandiri,Paruh Waktu,15.4,84.3,86.6,72.8,112,2054000.0,Tidak,3.68,Cumlaude
+2400402,Citra Nugroho,Laki-laki,25,Administrasi Publik,2021,Makassar,SNBP,Tidak Bekerja,14.8,88.6,82.5,79.3,88,1121000.0,Ya,3.6,Cumlaude
+2500745,Dewi Daeng,Laki2,21,Administrasi Bisnis,2020,Makassar,SNBT,Paruh Waktu,24.1,61.9,62.7,64.5,115,964000.0,Tidak,2.95,Normal
+2100542,Ayu Masdin,Perempuan,25,Manajemen,2021,Palu,SNBT,Paruh Waktu,8.5,77.1,91.7,59.8,87,1142000.0,Tidak,3.44,Normal
+2400361,Budi Pratama,Laki-laki,26,Manajemen,2022,Makassar,Mandiri,Tidak Bekerja,15.0,85.2,89.3,73.2,91,1369000.0,Ya,3.81,Cumlaude
+2200853,Joko Masdin,Perempuan,25,ilmu komputer,2020,NA,SNBT,Tidak Bekerja,14.2,83.1,55.1,69.4,106,1748000.0,Tidak,2.9,Normal
+2500262,Putri Hidayat,Laki-laki,18,Administrasi Publik,2023,Makassar,Mandiri,Tidak Bekerja,18.5,70.5,,68.9,118,2858000.0,Tidak,2.85,Normal
+2500679,Gita Nugroho,Perempuan,26,Ilmu Komputer,2022,Makassar,SNBT,Paruh Waktu,9.9,85.8,68.5,55.9,96,1443000.0,Ya,2.92,Normal
+2500562,Nur Rahman,Laki-laki,26,AP,2020,Kendari,Mandiri,Tidak Bekerja,14.4,89.5,64.5,75.8,87,1704000.0,Ya,3.38,Normal
+2500896,Ayu Masdin,Perempuan,22,Ilmu Komputer,2022,NA,SNBP,Tidak Bekerja,13.8,59.521842014550664,56.3,55.4,119,1886000.0,Ya,2.42,Normal
+2100492,Sri Mardani,Perempuan,24,Ilmu Komputer,2023,NA,Mandiri,Penuh Waktu,9.2,92.3,67.7,50.0,101,1531000.0,Ya,2.79,Normal
+2300877,Eka Hidayat,Perempuan,25,Ilmu Komputer,2024,Luwuk,Mandiri,,14.1,89.7,67.1,73.3,135,1632000.0,Ya,3.42,Normal
+2300143,Andi Kurniawan,Perempuan,23,Ilmu Komputer,2021,Donggala,SNBP,Paruh Waktu,21.8,82.7,59.1,77.6,104,2476000.0,Tidak,3.28,Normal
+2500201,Ayu Tandiari,Laki-laki,23,Ilmu Komputer,2020,Manado,Mandiri,Tidak Bekerja,15.3,66.8,57.4,79.9,91,635000.0,Tidak,3.07,Normal
+2200909,Taufik Sulistyo,PEREMPUAN,19,Manajemen,2020,Manado,Mandiri,Tidak Bekerja,18.0,91.7,40.1,93.56021201960174,91,796000.0,Tidak,3.08,Normal
+2200135,Indah Lamato,Laki-laki,26,Akuntansi,2023,Manado,Mandiri,Tidak Bekerja,20.5,100.0,61.9,72.7,124,1451000.0,Ya,3.55,Cumlaude
+2100865,Taufik Lamato,Laki-laki,21,Ilmu Komputer,2021,Gorontalo,SNBP,Paruh Waktu,22.9,69.3,72.8,82.9,103,1154000.0,Ya,3.7,Cumlaude
+2100317,Indah Nugroho,Laki-laki,19,Manajemen,2020,Poso,SNBP,Tidak Bekerja,11.2,92.2,58.3,81.1,98,792000.0,Tidak,3.31,Normal
+2300597,Andi Hidayat,Perempuan,21,Akuntansi,2023,Gorontalo,Mandiri,Paruh Waktu,11.2,78.1,75.0,71.9,144,1468000.0,Ya,3.58,Cumlaude
+2300282,Agus Lasari,Perempuan,21,Manajemen,2022,Luwuk,SNBP,,11.5,91.1,69.6,69.7,114,1724000.0,Tidak,3.39,Normal
+2500148,Muh. Lapasere,Perempuan,19,Administrasi Bisnis,2022,Kendari,SNBT,Penuh Waktu,9.1,82.3,68.1,47.0,141,1341000.0,Tidak,2.77,Normal
+2300635,Andi Mardani,Laki2,26,Administrasi Bisnis,2021,Donggala,SNBT,Tidak Bekerja,15.3,79.7,78.0,72.7,87,1194000.0,Tidak,3.93,Cumlaude
+2400573,Citra Lapasere,Laki-laki,18,Ilmu Komputer,2020,Manado,Beasiswa,Tidak Bekerja,12.8,78.5,86.3,75.8,135,630000.0,Ya,3.9,Cumlaude
+2300625,Yusuf Sulistyo,Perempuan,24,Ilmu Komputer,2024,Manado,Beasiswa,Tidak Bekerja,6.0,82.5,75.3,77.1,144,1354000.0,Ya,3.64,Cumlaude
+2400271,Wahyu Nugroho,laki laki,24,Akuntansi,2022,Tolitoli,SNBT,Tidak Bekerja,13.2,76.3,55.8,59.2,102,1341000.0,Tidak,2.54,Normal
+2100430,Rizky Rahman,Perempuan,26,Administrasi Publik,2023,Palu,Beasiswa,Paruh Waktu,8.3,94.9,67.9,62.5,92,2018000.0,Tidak,3.17,Normal
+2100809,Rizky Rahman,Perempuan,23,Administrasi Bisnis,2024,Manado,SNBP,Paruh Waktu,9.4,74.7,52.2,82.2,94,1792000.0,Tidak,3.33,Normal
+2500537,Sri Kurniawan,Laki-laki,23,Administrasi Publik,2020,Luwuk,Mandiri,Paruh Waktu,16.5,97.75980097908476,79.1,72.9,140,3152000.0,Tidak,3.57,Cumlaude
+2300344,Rahmat Wijaya,Perempuan,24,Manajemen,2022,Manado,SNBT,,21.4,86.5,,74.8,116,1277000.0,Tidak,3.42,Normal
+2300777,Indah Nugroho,Laki-laki,23,Manajemen,2023,Makassar,Mandiri,Tidak Bekerja,16.0,88.9,57.1,85.30007334099885,106,843000.0,Ya,3.6,Cumlaude
+2500800,Citra Wijaya,Laki-laki,26,Manajemen,2020,Gorontalo,SNBP,Tidak Bekerja,11.5,81.5,59.3,56.4,105,1406000.0,Ya,2.67,Normal
+2500966,Indah Hidayat,L,24,Manajemen,2020,Kendari,Mandiri,,10.5,88.7,86.5,75.9,112,1500000.0,Tidak,3.92,Cumlaude
+2100154,Muh. Kurniawan,Perempuan,19,Ilmu Komputer,2024,Luwuk,SNBT,Tidak Bekerja,15.5,100.0,60.0,69.0,106,1976000.0,Tidak,3.36,Normal
+2100355,Sri Mardani,Perempuan,18,Ilmu Komputer,2024,Mamuju,SNBP,Paruh Waktu,20.6,90.6,,88.0,127,1229000.0,Ya,3.76,Cumlaude
+2200821,Andi Lasari,Perempuan,24,Ilmu Komputer,2024,Kendari,Mandiri,Tidak Bekerja,17.1,73.8,71.3,83.9,83,2582000.0,Tidak,3.6,Cumlaude
+2200069,Kurnia Masdin,Laki-laki,26,administrasi bisnis,2024,Donggala,SNBP,Tidak Bekerja,7.0,84.7,67.8,75.9,126,1206000.0,Tidak,3.22,Normal
+2300682,Citra Saputra,laki laki,18,Administrasi Bisnis,2022,NA,Mandiri,Paruh Waktu,14.3,87.0,80.0,71.6,127,2953000.0,Tidak,3.6,Cumlaude
+2300720,Andi Lapasere,Laki-laki,25,Ilmu Komputer,2021,Luwuk,SNBP,Tidak Bekerja,23.2,92.2,72.9,58.4,107,1166000.0,Ya,3.16,Normal
+2300057,Dewi Rahman,Perempuan,25,Ilmu Komputer,2021,Mamuju,SNBP,Tidak Bekerja,5.7,88.4,75.0,65.5,129,1698000.0,Tidak,3.12,Normal
+2100293,Gita Nugroho,Laki-laki,26,Akuntansi,2020,Donggala,SNBP,Paruh Waktu,12.0,82.9,,84.8,141,1176000.0,Ya,3.13,Normal
+2400648,Siti Mardani,Perempuan,23,Administrasi Publik,2021,Tolitoli,SNBT,Tidak Bekerja,10.8,79.8,69.2,64.0,95,2695000.0,Ya,3.28,Normal
+2200434,Hasan Lapasere,Laki-laki,23,Akuntansi,2022,Tolitoli,SNBT,Tidak Bekerja,22.2,89.59349729598394,79.6,59.744154532265576,107,1138000.0,Ya,3.14,Normal
+2200004,Wahyu Nugroho,Perempuan,26,Administrasi Publik,2023,Manado,Beasiswa,Paruh Waktu,14.2,82.2,60.2,71.7,84,1080000.0,Ya,3.28,Normal
+2300582,Putri Pratama,Perempuan,19,Administrasi Publik,2023,Palu,SNBT,Penuh Waktu,16.6,87.3,76.1,44.4,127,1034000.0,Tidak,2.71,Normal
+2200752,Lestari Lasari,Laki-laki,20,Administrasi Bisnis,2022,NA,Mandiri,Paruh Waktu,5.3,95.1,92.0,65.6,125,2280000.0,Ya,3.75,Cumlaude
+2400409,Dewi Sulistyo,Perempuan,19,Akuntansi,2021,Mamuju,SNBT,Tidak Bekerja,13.5,84.8,82.1,83.4,107,642000.0,Tidak,3.85,Cumlaude
+2500129,Dewi Tandiari,Laki-laki,26,Akuntansi,2020,Manado,SNBT,Tidak Bekerja,10.5,77.4,72.2,69.0,126,1075000.0,Tidak,3.42,Normal
+2300694,Rahmat Pratama,Perempuan,18,Administrasi Publik,2021,Luwuk,Beasiswa,Tidak Bekerja,12.8,76.13411400711632,86.2,72.1,94,1.218.000,Tidak,3.57,Cumlaude
+2100548,Nur Daeng,Laki-laki,23,Manajemen,2024,Makassar,Mandiri,Tidak Bekerja,15.0,83.6,89.4,58.8,109,1028000.0,Tidak,3.56,Cumlaude
+2400067,Rahmat Mardani,Laki-laki,24, Manajemen ,2024,Palu,SNBP,Tidak Bekerja,10.0,73.9,76.8,76.7,94,1176000.0,Ya,3.55,Cumlaude
+2300843,Wahyu Lasari,Perempuan,20,Ilmu Komputer,2022,NA,Mandiri,Tidak Bekerja,,93.8,93.9,78.9,112,1650000.0,Ya,4.0,Cumlaude
+2300235,Gita Hidayat,Laki-laki,21,Administrasi Publik,2023,Luwuk,Mandiri,Tidak Bekerja,20.0,71.1,95.9,54.4,91,888000.0,Ya,3.49,Normal
+2400163,Gita Wijaya,Perempuan,21,Akuntansi,2022,Makassar,Mandiri,Paruh Waktu,10.9,87.5,,38.8,140,1387000.0,Tidak,2.55,Normal
+2100330,Indah Sulistyo,Perempuan,25,Akuntansi,2022,Kendari,Mandiri,Tidak Bekerja,18.2,91.7,65.8,61.6,98,,Tidak,3.22,Normal
+2100144,Dewi Pratama,Laki-laki,22,Administrasi Bisnis,2022,Mamuju,SNBT,Paruh Waktu,15.5,76.1,98.5,94.5,93,2164000.0,Ya,4.0,Cumlaude
+2100931,Taufik Saputra,Perempuan,22,Ilmu Komputer,2023,NA,SNBT,,10.7,89.0,82.3,56.673212564688974,95,1692000.0,Ya,3.23,Normal
+2100926,Hasan Daeng,Laki-laki,19,Ilmu Komputer,2024,Luwuk,SNBP,Paruh Waktu,11.6,76.0,63.0,69.9,135,835000.0,Ya,3.27,Normal
+2100891,Hasan Hidayat,Perempuan,18,Akuntansi,2023,Palu,SNBP,Tidak Bekerja,7.7,76.3,76.3,60.0,137,2424000.0,Tidak,3.25,Normal
+2300564,Taufik Lamato,Laki-laki,19,Ilmu Komputer,2023,Gorontalo,SNBT,Paruh Waktu,17.9,75.1,,73.4827136030855,126,1178000.0,Ya,3.8,Cumlaude
+2100512,Ayu Saputra,Perempuan,19,Akuntansi,2024,Palu,Mandiri,Tidak Bekerja,13.4,88.3,75.7,59.7,95,717000.0,Tidak,3.33,Normal
+2300427,Dewi Masdin,Perempuan,18,Ilmu Komputer,2020,Tolitoli,SNBP,Paruh Waktu,8.6,87.9,82.2,43.83789861429288,141,2270000.0,Ya,3.2,Normal
+2300232,Dewi Saputra,Perempuan,18,Akuntansi,2024,Makassar,Mandiri,Paruh Waktu,18.8,86.96728107349409,72.4,79.3,117,1438000.0,Ya,3.85,Cumlaude
+2100390,Rizky Hidayat,Laki-laki,25,Manajemen,2023,Poso,Mandiri,Tidak Bekerja,24.6,85.3,65.8,57.3,134,899000.0,Tidak,3.15,Normal
+2200576,Dewi Pratama,Perempuan,21,Manajemen,2021,Luwuk,SNBP,Paruh Waktu,16.7,85.4,67.2,50.0,137,1370000.0,Tidak,2.87,Normal
+2200134,Sri Lapasere,Perempuan,20,Administrasi Bisnis,2024,Makassar,Mandiri,Tidak Bekerja,9.2,80.1,69.5,51.1,141,974000.0,Tidak,2.81,Normal
+2100250,Joko Pakaya,Perempuan,23,Administrasi Bisnis,2024,NA,Mandiri,Paruh Waktu,9.4,88.6,89.8,60.5,139,2401000.0,Tidak,3.15,Normal
+2500274,Taufik Lapasere,Laki-laki,25,Manajemen,2023,Manado,Mandiri,Tidak Bekerja,11.1,78.4,79.0,87.5,128,1447000.0,Tidak,3.91,Cumlaude
+2100183,Kurnia Hidayat,Laki-laki,21,Ilmu Komputer,2020,Palu,SNBT,Tidak Bekerja,17.8,91.7,77.5,88.4,96,1936000.0,Ya,3.65,Cumlaude
+2500823,Sri Daeng,Laki-laki,19,Administrasi Bisnis,2024,Donggala,SNBT,Penuh Waktu,11.0,82.0,81.9,65.18954101105123,135,939000.0,Ya,3.16,Normal
+2500148,Muh. Lapasere,Perempuan,19,Administrasi Bisnis,2022,Kendari,SNBT,Penuh Waktu,9.1,82.3,68.1,47.0,141,1341000.0,Tidak,2.77,Normal
+2200463,Rizky Pakaya,Laki-laki,18,Administrasi Bisnis,2023,Tolitoli,SNBT,Tidak Bekerja,12.8,91.4,77.7,74.3,110,1552000.0,Tidak,3.61,Cumlaude
+2400278,Rahmat Rahman,Perempuan,25,Administrasi Bisnis,2020,Poso,SNBP,Paruh Waktu,8.7,103.4119011148456,72.3,63.4,125,1392000.0,Ya,3.45,Normal
+2300449,Lestari Lamato,Laki-laki,24,Ilmu Komputer,2022,Tolitoli,SNBP,Tidak Bekerja,,95.2,69.5,82.7,127,1888000.0,Tidak,3.9,Cumlaude
+2400221,Joko Kurniawan,perempuan,20, Akuntansi ,2022,Kendari,Mandiri,Paruh Waktu,9.6,80.1,58.4,48.7,88,1993000.0,Ya,2.83,Normal
+2200741,Rahmat Masdin,Laki-laki,25,Administrasi Bisnis,2020,Makassar,Mandiri,Tidak Bekerja,16.1,89.2,71.6,74.8,134,1.166.000,Tidak,3.5,Cumlaude
+2500572,Andi Pratama,Perempuan,18,AP,2024,Poso,Mandiri,Tidak Bekerja,13.3,77.2,53.4,66.0,140,2127000.0,Ya,2.9,Normal
+2500832,Dewi Lapasere,Laki-laki,20,Administrasi Bisnis,2023,Makassar,SNBT,Penuh Waktu,7.8,92.7,69.1,69.78099164231658,125,1.946.000,Tidak,3.68,Cumlaude
+2400797,Citra Mardani,Laki-laki,20,Administrasi Publik,2023,Makassar,Mandiri,Tidak Bekerja,12.7,92.2,64.5,61.3,104,1115000.0,Tidak,2.81,Normal
+2300049,Nur Wijaya,Laki-laki,18,Ilmu Komputer,2021,Donggala,SNBT,Tidak Bekerja,12.2,83.98986551846475,76.6,58.4,96,651000.0,Ya,3.27,Normal
+2500867,Dewi Nugroho,Laki-laki,25,Administrasi Bisnis,2024,Gorontalo,SNBT,Penuh Waktu,8.0,99.8,63.5,37.26727488795899,126,1402000.0,Tidak,2.82,Normal
+2100514,Dewi Daeng,Perempuan,26,Administrasi Bisnis,2021,Makassar,SNBP,Paruh Waktu,20.5,86.88358580016828,87.4,79.5,101,1936000.0,Ya,3.97,Cumlaude
+2500844,Gita Lamato,Laki-laki,18,Manajemen,2023,Poso,SNBP,Tidak Bekerja,12.9,76.7,97.4,70.9,99,3058000.0,Ya,3.87,Cumlaude
+2400026,Nur Masdin,Laki-laki,24,Akuntansi,2023,Donggala,Mandiri,Penuh Waktu,14.9,76.06930347543877,61.4,64.5,137,1175000.0,Ya,2.82,Normal
+2300336,Sri Rahman,Perempuan,21,Akuntansi,2023,Poso,SNBT,Tidak Bekerja,7.9,87.5,73.7,58.6,134,1791000.0,Tidak,3.05,Normal
+2200299,Kurnia Daeng,Laki-laki,26,Manajemen,2024,Makassar,SNBT,Paruh Waktu,19.4,91.9,65.1,74.48446364630554,106,1705000.0,Tidak,3.16,Normal
+2100454,Lestari Nugroho,Laki-laki,21,Manajemen,2021,Manado,SNBP,Penuh Waktu,22.0,93.7219054787412,67.0,56.3,142,1178000.0,Tidak,3.2,Normal
+2200716,Citra Kurniawan,Perempuan,23,Ilmu Komputer,2022,Tolitoli,SNBP,Tidak Bekerja,19.1,99.8,45.2,43.7,109,795000.0,Ya,2.58,Normal
+2400187,Kurnia Lapasere,Perempuan,19,Administrasi Publik,2023,Donggala,SNBT,Tidak Bekerja,23.8,80.73890633720552,51.0,62.4,130,1102000.0,Ya,2.92,Normal
+2400651,Joko Hidayat,laki laki,25,Ilmu Komputer,2021,Kendari,SNBT,Paruh Waktu,18.3,88.0,63.5,44.79117899748729,93,1.964.000,Tidak,2.78,Normal
+2100856,Kurnia Pakaya,Laki-laki,21,Akuntansi,2023,Mamuju,Mandiri,Tidak Bekerja,11.8,74.5,71.6,68.7,142,1474000.0,Tidak,3.14,Normal
+2100761,Lestari Rahman,Perempuan,26,Akuntansi,2021,NA,SNBT,Tidak Bekerja,15.6,91.6,81.3,63.7,118,1.396.000,Tidak,3.29,Normal
+2300587,Putri Masdin,Laki-laki,18, Administrasi Bisnis ,2024,Makassar,Beasiswa,Tidak Bekerja,18.6,79.9,89.0,93.0,142,1605000.0,Tidak,4.0,Cumlaude
+2100375,Joko Nugroho,Laki-laki,25,Administrasi Bisnis,2024,Manado,Mandiri,Tidak Bekerja,15.4,80.0,,62.33746308530878,108,1677000.0,Tidak,2.57,Normal
+2200531,Ayu Sulistyo,Laki-laki,23,Administrasi Bisnis,2020,Kendari,Mandiri,Penuh Waktu,10.1,87.4,67.2,53.9,101,1790000.0,Tidak,2.92,Normal
+2300073,Yusuf Kurniawan,Perempuan,25,Administrasi Publik,2022,Manado,Beasiswa,Paruh Waktu,14.9,85.7,68.0,77.2,101,1910000.0,Ya,3.49,Normal
+2500455,Sri Wijaya,Perempuan,22,Akuntansi,2023,Poso,SNBT,Paruh Waktu,,73.1,62.1,64.1,93,1192000.0,Tidak,3.02,Normal
+2200425,Yusuf Lasari,Laki-laki,20,Administrasi Publik,2021,NA,SNBT,,11.4,92.0,,80.8,89,,Ya,3.41,Normal
+2500483,Rizky Hidayat,Laki-laki,24,Administrasi Bisnis,2020,Tolitoli,Mandiri,Tidak Bekerja,,89.2,93.1,77.5,117,2118000.0,Ya,4.0,Cumlaude
+2200932,Dewi Lapasere,Laki-laki,18,Akuntansi,2022,Kendari,Mandiri,,14.9,83.43965853254569,81.0,64.4,99,1287000.0,Tidak,3.19,Normal
+2200325,Sri Lapasere,Laki-laki,21,Ilmu Komputer,2023,Manado,Beasiswa,Tidak Bekerja,17.5,91.5,81.9,50.4,143,789.000,Tidak,3.36,Normal
+2400410,Citra Lasari,Perempuan,25,Manajemen,2024,Tolitoli,SNBT,Tidak Bekerja,13.9,85.0,82.1,68.3,85,1800000.0,Tidak,3.5,Cumlaude
+2200237,Eka Pratama,Perempuan,25,Akuntansi,2020,Tolitoli,SNBP,Tidak Bekerja,23.5,135.0,58.5,71.7,107,1959000.0,Tidak,3.25,Normal
+2100316,Rizky Mardani,Perempuan,26, Administrasi Bisnis ,2024,Kendari,Mandiri,Tidak Bekerja,17.1,85.1336375071482,85.9,67.30425664153213,141,1603000.0,Ya,3.71,Cumlaude
+2100096,Ayu Lasari,Perempuan,20,Akuntansi,2022,Makassar,Beasiswa,Tidak Bekerja,11.9,92.6,72.7,68.7,88,1958000.0,Ya,3.22,Normal
+2400298,Dewi Hidayat,Laki-laki,23,Administrasi Publik,2023,Makassar,SNBP,Tidak Bekerja,22.8,84.1,80.9,86.3,138,1782000.0,Ya,3.73,Cumlaude
+2300437,Lestari Lasari,Perempuan,23,Akuntansi,2021,Tolitoli,SNBT,Tidak Bekerja,15.7,94.7,91.1,68.3,91,1628000.0,Tidak,3.78,Cumlaude
+2200039,Taufik Masdin,Laki-laki,24,Akuntansi,2020,Gorontalo,SNBT,,19.6,87.1,64.1,76.4,139,1565000.0,Ya,3.28,Normal
+2500775,Siti Lamato,Laki-laki,20,Manajemen,2023,Tolitoli,SNBT,Tidak Bekerja,13.8,77.10561584768419,72.4,66.19590518934939,89,,Tidak,2.95,Normal
+2400687,Joko Pratama,Perempuan,23,Administrasi Publik,2022,Makassar,SNBT,Tidak Bekerja,16.7,96.6,66.1,60.4,122,2192000.0,Tidak,3.18,Normal
+2100351,Fajar Hidayat,Perempuan,20,Ilmu Komputer,2024,Manado,SNBP,Paruh Waktu,9.0,87.1,62.0,72.3,117,1.341.000,Ya,3.21,Normal
+2500098,Putri Rahman,PEREMPUAN,26,Administrasi Bisnis,2022,Tolitoli,Mandiri,Tidak Bekerja,16.0,94.46753788487965,68.2,69.6,133,1349000.0,Ya,3.42,Normal
+2200247,Wahyu Mardani,Laki-laki,23,Administrasi Publik,2022,Palu,Mandiri,Paruh Waktu,21.0,72.7,66.3,83.5,96,939000.0,Ya,3.35,Normal
+2300732,Lestari Rahman,Laki-laki,18,Administrasi Publik,2021,Kendari,SNBT,Tidak Bekerja,17.4,95.8,74.9,70.6,121,1018000.0,Ya,3.59,Cumlaude
+2400791,Rizky Pakaya,Wanita,21,Akuntansi,2024,Mamuju,Beasiswa,Tidak Bekerja,16.3,82.8,60.3,74.2,115,1704000.0,Tidak,3.21,Normal
+2500569,Ayu Pratama,Perempuan,20,Manajemen,2020,Palu,SNBT,Tidak Bekerja,,89.2,51.1,70.1,92,1646000.0,Ya,2.87,Normal
+2300715,Siti Wijaya,Perempuan,21,Administrasi Bisnis,2024,Luwuk,SNBP,Penuh Waktu,17.6,92.5,77.8,91.2,126,2308000.0,Ya,4.0,Cumlaude
+2500646,Citra Daeng,Laki-laki,24, Akuntansi ,2022,Kendari,SNBP,Tidak Bekerja,13.5,85.8,56.5,79.0,81,1828000.0,Ya,3.47,Normal
+2400272,Ayu Sulistyo,Perempuan,18,Manajemen,2023,Makassar,Mandiri,,6.6,82.4,61.2,55.26735982479843,121,866000.0,Tidak,2.66,Normal
+2500063,Yusuf Rahman,Laki-laki,23,Adm. Publik,2024,Kendari,Mandiri,Tidak Bekerja,12.3,77.4,81.5,71.2,109,1053000.0,Ya,3.62,Cumlaude
+2400011,Gita Sulistyo,Laki-laki,20,Ilmu Komputer,2024,Luwuk,Mandiri,Tidak Bekerja,8.1,92.52337578252073,67.2,72.32486148873494,115,1.218.000,Ya,3.33,Normal
+2500857,Taufik Lapasere,Perempuan,22,Manajemen,2024,Palu,SNBP,Paruh Waktu,15.1,83.4,60.3,87.7,104,1189000.0,Tidak,3.39,Normal
+2400532,Gita Kurniawan,PEREMPUAN,22,Manajemen,2021,Manado,Mandiri,Paruh Waktu,19.9,70.6,67.5,71.7,97,933000.0,Tidak,3.04,Normal
+2200949,Sri Hidayat,Laki-laki,18,Manajemen,2021,Manado,SNBP,Penuh Waktu,,89.0,61.5,91.1,120,1782000.0,Tidak,3.93,Cumlaude
+2500684,Indah Daeng,Laki-laki,20,Ilmu Komputer,2020,Palu,Mandiri,Tidak Bekerja,23.5,89.8,77.9,81.2,90,1.998.000,Tidak,3.71,Cumlaude
+2400712,Citra Masdin,Perempuan,24,Administrasi Publik,2022,Manado,Beasiswa,,12.6,95.2,,66.2,144,,Ya,3.31,Normal
+2300649,Yusuf Nugroho,Perempuan,20,Administrasi Bisnis,2021,Poso,SNBT,Tidak Bekerja,9.1,76.3,76.6,75.5,128,669000.0,Ya,3.42,Normal
+2300259,Lestari Tandiari,Perempuan,24,Akuntansi,2020,Poso,SNBP,Tidak Bekerja,16.0,85.5,47.8,80.6,117,1257000.0,Ya,2.94,Normal
+2500749,Putri Saputra,Perempuan,24,Ilmu Komputer,2024,Manado,Mandiri,,14.2,85.5040613786537,77.0,81.1,104,1484000.0,Ya,3.59,Cumlaude
+2100304,Siti Hidayat,pria,23,Manajemen,2021,Palu,Beasiswa,Tidak Bekerja,13.2,88.3,74.1,76.3,133,2048000.0,Tidak,3.36,Normal
+2400811,Lestari Nugroho,Laki-laki,19,Administrasi Publik,2021,Luwuk,SNBT,Tidak Bekerja,9.0,78.2,82.1,66.8,138,1492000.0,Ya,3.28,Normal
+2500677,Fajar Kurniawan,Laki-laki,24,Akuntansi,2021,Kendari,SNBP,Tidak Bekerja,,95.1,61.7,60.0,100,1726000.0,Tidak,3.03,Normal
+2100503,Hasan Masdin,Perempuan,22,Administrasi Bisnis,2020,Gorontalo,SNBT,,21.7,84.2,85.6,67.7,127,2384000.0,Ya,3.6,Cumlaude
+2400191,Hasan Hidayat,Laki-laki,26,Ilmu Komputer,2021,Kendari,SNBT,Tidak Bekerja,6.2,97.67231364700878,64.0,78.80254017411346,89,1288000.0,Ya,3.52,Cumlaude
+2500419,Siti Nugroho,Perempuan,19,Akuntansi,2021,Poso,Beasiswa,Tidak Bekerja,,90.34309358649847,92.7,70.8,98,1339000.0,Tidak,3.83,Cumlaude
+2300339,Lestari Sulistyo,Perempuan,24,Akuntansi,2020,Donggala,SNBT,,13.4,95.3,70.8,54.5,137,4356000.0,Ya,2.96,Normal
+2200168,Yusuf Kurniawan,P,23,Akuntansi,2020,Palu,SNBP,Tidak Bekerja,16.8,83.8,,74.7,134,1549000.0,Tidak,3.13,Normal
+2100300,Putri Rahman,Laki-laki,23,Ilmu Komputer,2020,Tolitoli,SNBT,Penuh Waktu,12.8,86.28787265543352,57.6,75.7,109,2672000.0,Tidak,3.15,Normal
+2300887,Dewi Lapasere,Perempuan,25,Adm. Publik,2021,Kendari,Mandiri,Tidak Bekerja,19.2,75.3,81.7,59.1,119,1878000.0,Tidak,3.16,Normal
+2400815,Putri Pratama,Laki-laki,18,Akuntansi,2023,Gorontalo,Mandiri,Paruh Waktu,17.6,99.17666281960999,73.2,71.6,126,1768000.0,Ya,3.35,Normal
+2200295,Yusuf Mardani,Laki-laki,23,Administrasi Publik,2021,Makassar,SNBP,Tidak Bekerja,17.9,83.49235057067018,93.3,78.1,135,1914000.0,Tidak,4.0,Cumlaude
+2100960,Budi Kurniawan,PEREMPUAN,21,Akuntansi,2022,Poso,Mandiri,Penuh Waktu,23.7,80.9,88.3,68.2,102,1946000.0,Ya,3.58,Cumlaude
+2300188,Budi Saputra,Laki-laki,18,Manajemen,2022,Palu,SNBT,Tidak Bekerja,10.7,88.50260276935622,67.8,81.31694455283687,122,901000.0,Ya,3.53,Cumlaude
+2400845,Agus Rahman,Perempuan,20,Manajemen,2024,Manado,Mandiri,Tidak Bekerja,,92.89213935555003,50.0,67.7689551806246,89,1548000.0,Tidak,2.77,Normal
+2100331,Ayu Pratama,Laki-laki,22,Ilmu Komputer,2022,Luwuk,Mandiri,Tidak Bekerja,13.4,91.4,65.6,76.46209474844105,84,2192000.0,Tidak,3.66,Cumlaude
+2500349,Fajar Lasari,Perempuan,22,Manajemen,2024,Gorontalo,SNBT,Tidak Bekerja,14.5,82.0,62.1,60.416153091469525,94,2065000.0,Tidak,3.14,Normal
+2200557,Lestari Saputra,Laki-laki,21,Manajemen,2020,Kendari,Beasiswa,Paruh Waktu,7.8,82.7,78.5,64.6,101,1636000.0,Tidak,3.65,Cumlaude
+2300550,Rahmat Mardani,Perempuan,22,Ilmu Komputer,2022,Palu,SNBP,Paruh Waktu,,77.3,57.3,73.7,119,1097000.0,Ya,7.2,Normal
+2400194,Hasan Pakaya,Laki-laki,22,Akuntansi,2023,Mamuju,Beasiswa,Tidak Bekerja,7.8,96.0,73.9,60.4,137,2273000.0,Tidak,3.1,Normal
+2100540,Nur Hidayat,Perempuan,20,Akuntansi,2022,Luwuk,SNBT,Paruh Waktu,14.8,72.8,60.9,76.2,126,1482000.0,Ya,3.21,Normal
+2100563,Lestari Saputra,Laki-laki,25,Akuntansi,2021,Mamuju,SNBT,Paruh Waktu,22.3,91.1,60.0,71.6420957430284,139,1230000.0,Ya,3.17,Normal
+2100831,Nur Masdin,Perempuan,67,Akuntansi,2024,NA,SNBP,Tidak Bekerja,14.3,92.6,76.0,86.2,128,1370000.0,Tidak,3.75,Cumlaude
+2100413,Agus Lamato,Perempuan,21,Administrasi Bisnis,2023,Tolitoli,Beasiswa,Tidak Bekerja,9.7,75.04844319603703,48.5,60.36455537682416,130,1967000.0,Tidak,2.42,Normal
+2100837,Putri Wijaya,Perempuan,18,Administrasi Publik,2023,Makassar,SNBP,Penuh Waktu,17.0,88.0,80.0,66.2,85,1241000.0,Ya,3.32,Normal
+2100869,Muh. Pakaya,Perempuan,18,akuntansi,2023,Kendari,SNBP,Tidak Bekerja,3.4,85.4,72.5,78.0,96,880000.0,Ya,3.61,Cumlaude
+2400217,Kurnia Pakaya,Laki2,20,Akuntansi,2024,Makassar,Mandiri,,20.3,91.4,73.6,86.5,143,1179000.0,Tidak,3.52,Cumlaude
+2200356,Taufik Lamato,PEREMPUAN,18,Administrasi Bisnis,2021,Donggala,SNBP,Paruh Waktu,15.2,91.6,61.3,59.0,140,1656000.0,Ya,2.84,Normal
+2100192,Agus Sulistyo,Laki-laki,23,Ilmu Komputer,2020,Donggala,Mandiri,Paruh Waktu,10.9,72.8,86.0,72.0,104,1180000.0,Tidak,3.68,Cumlaude
+2500149,Yusuf Rahman,Perempuan,22,Ilmu Komputer,2022,Manado,Mandiri,Tidak Bekerja,,94.1,64.0,43.0,94,1147000.0,Ya,2.68,Normal
+2400566,Gita Sulistyo,Perempuan,19,Administrasi Bisnis,2023,Manado,SNBT,Paruh Waktu,17.2,82.4,72.4,69.68134526043181,109,1211000.0,Ya,3.56,Cumlaude
+2100568,Yusuf Mardani,Perempuan,21,Manajemen,2024,Poso,SNBP,Penuh Waktu,,79.1,62.5,79.1,81,1059000.0,Tidak,3.27,Normal
+2300769,Putri Lasari,Perempuan,20,Ilmu Komputer,2023,Gorontalo,SNBT,Tidak Bekerja,3.0,80.3,83.2,79.4,116,763000.0,Tidak,3.78,Cumlaude
+2400554,Sri Tandiari,Wanita,21,Ilmu Komputer,2020,Mamuju,SNBT,Tidak Bekerja,13.7,92.6,88.6,52.9,111,1525000.0,Ya,3.7,Cumlaude
+2400474,Fajar Daeng,Perempuan,25,Ilmu Komputer,2021,Palu,SNBT,Penuh Waktu,13.7,83.4,67.1,69.5,101,,Ya,3.08,Normal
+2300457,Budi Kurniawan,Perempuan,18,Administrasi Publik,2024,Mamuju,SNBP,Paruh Waktu,10.7,73.74940068304186,60.3,65.3,109,2354000.0,Ya,3.11,Normal
+2200746,Nur Daeng,Laki-laki,21,Akuntansi,2022,Kendari,SNBP,Tidak Bekerja,10.6,86.0,59.5,79.6,123,1326000.0,Ya,3.18,Normal
+2300655,Dewi Lamato,laki laki,23,Akuntansi,2023,Poso,Mandiri,Tidak Bekerja,8.0,89.1,65.8,76.4,86,1753000.0,Ya,3.33,Normal
+2500396,Indah Lamato,Laki-laki,19,Administrasi Bisnis,2021,Poso,SNBT,Tidak Bekerja,11.0,79.1,68.9,61.1,129,1441000.0,Ya,2.95,Normal
+2100324,Rizky Lamato,Perempuan,21,Manajemen,2024,NA,SNBT,Tidak Bekerja,14.2,83.2,71.4,76.6,135,2356000.0,Tidak,3.62,Cumlaude
+2400318,Gita Mardani,Perempuan,26,AKUNTANSI,2024,Makassar,SNBP,Paruh Waktu,10.2,100.0,71.2,82.6,80,1711000.0,Tidak,3.71,Cumlaude
+2400371,Fajar Tandiari,Perempuan,22,Administrasi Bisnis,2020,Palu,SNBP,Tidak Bekerja,15.9,82.9,74.7,84.9,131,1488000.0,Ya,3.78,Cumlaude
+2300453,Putri Wijaya,Laki-laki,26,Administrasi Bisnis,2020,NA,Mandiri,Tidak Bekerja,14.1,89.47802808372155,72.5,64.3,88,1583000.0,Tidak,3.38,Normal
+2200307,Budi Lasari,Laki-laki,22,Ilmu Komputer,2024,Luwuk,SNBP,Tidak Bekerja,23.2,90.3,77.9,70.1,108,1250000.0,Tidak,3.46,Normal
+2400022,Muh. Masdin,Laki-laki,22,Ilmu Komputer,2020,Luwuk,SNBP,Tidak Bekerja,15.6,83.1,88.9,83.2,103,926000.0,Tidak,3.98,Cumlaude
+2200620,Siti Lapasere,Perempuan,23,Akuntansi,2024,Palu,SNBP,Tidak Bekerja,16.2,95.5,57.6,75.1,142,,Tidak,3.27,Normal
+2100965,Joko Hidayat,Perempuan,19,Administrasi Bisnis,2022,Manado,SNBT,Paruh Waktu,14.8,74.7,,66.2,142,1238000.0,Tidak,3.29,Normal
+2200961,Siti Saputra,Perempuan,18,Administrasi Bisnis,2023,Palu,SNBP,Tidak Bekerja,10.7,83.7,73.5,78.6,99,1523000.0,Ya,3.59,Cumlaude
+2500670,Ayu Hidayat,Perempuan,20,Manajemen,2021,Luwuk,Beasiswa,Paruh Waktu,8.4,77.4,78.0,67.2,126,1419000.0,Ya,3.54,Cumlaude
+2100006,Yusuf Lamato,Perempuan,21,Ilmu Komputer,2024,Manado,SNBT,Tidak Bekerja,11.1,84.1,64.8,72.1,92,1638000.0,Ya,3.43,Normal
+2200477,Muh. Pakaya,Laki-laki,20,Administrasi Bisnis,2021,Luwuk,SNBT,Tidak Bekerja,10.6,91.3,77.3,59.9,133,1186000.0,Ya,3.21,Normal
+2100158,Siti Lapasere,Perempuan,18,Administrasi Bisnis,2020,Donggala,Mandiri,Paruh Waktu,16.7,93.8,65.4,48.4,85,1548000.0,Ya,2.83,Normal
+2200508,Eka Tandiari,Perempuan,19,administrasi bisnis,2023,Tolitoli,Mandiri,Paruh Waktu,8.4,85.5,56.8,61.3,118,1467000.0,Tidak,2.95,Normal
+2100128,Dewi Pakaya,Perempuan,19,Administrasi Bisnis,2022,Donggala,SNBP,Paruh Waktu,19.3,81.7,83.7,76.4,90,2383000.0,Tidak,3.57,Cumlaude
+2200665,Yusuf Sulistyo,Laki-laki,25,Administrasi Bisnis,2022,Luwuk,SNBT,Paruh Waktu,16.6,86.7,82.7,59.0,125,1535000.0,Tidak,3.48,Normal
+2500825,Joko Saputra,Laki-laki,24,Manajemen,2022,Donggala,Beasiswa,Tidak Bekerja,7.3,94.1,69.6,64.6,126,1275000.0,Tidak,3.46,Normal
+2400346,Fajar Hidayat,L,26,Administrasi Publik,2020,Gorontalo,SNBT,Paruh Waktu,15.6,92.4,79.3,77.6,127,1206000.0,Ya,3.73,Cumlaude
+2200822,Andi Daeng,pria,21,Administrasi Publik,2023,NA,SNBP,Paruh Waktu,10.7,92.9,91.0,77.66688446205774,106,1481000.0,Tidak,3.75,Cumlaude
+2500662,Nur Kurniawan,Perempuan,21,Administrasi Bisnis,2022,Donggala,Beasiswa,Tidak Bekerja,14.4,86.7,70.9,45.3,144,2365000.0,Ya,2.93,Normal
+2200801,Andi Wijaya,laki laki,25,Manajemen,2022,Poso,SNBT,Paruh Waktu,11.3,66.4,79.9,77.2,123,2087000.0,Ya,3.38,Normal
+2300523,Dewi Saputra,Perempuan,22,Akuntansi,2021,Luwuk,Mandiri,Tidak Bekerja,13.8,82.78256334977961,71.3,52.3,110,1851000.0,Ya,3.04,Normal
+2300472,Muh. Lamato,Perempuan,23,Administrasi Publik,2023,Gorontalo,Mandiri,Penuh Waktu,22.0,88.8,44.0,59.1,104,609000.0,Ya,2.57,Normal
+2200258,Siti Mardani,Wanita,22,Ilmu Komputer,2020,Manado,SNBP,Paruh Waktu,16.1,91.6,28.1,75.4,118,1179000.0,Tidak,2.93,Normal
+2400171,Lestari Tandiari,perempuan,18,Administrasi Publik,2020,Tolitoli,SNBP,Paruh Waktu,18.5,75.2,66.3,64.4,138,,Tidak,2.77,Normal
+2500847,Budi Hidayat,Perempuan,22,Manajemen,2021,Poso,Mandiri,Paruh Waktu,5.6,70.6,70.5,62.4,121,1588000.0,Ya,2.95,Normal
+2100970,Yusuf Masdin,Laki-laki,24,Administrasi Publik,2021,Kendari,SNBP,Paruh Waktu,21.0,90.6,80.8,67.6,97,1294000.0,Ya,3.58,Cumlaude
+2400833,Lestari Lasari,Laki-laki,25,Ilmu Komputer,2021,Gorontalo,SNBT,Tidak Bekerja,15.9,102.94866991965806,76.8,61.701385669043326,129,2858000.0,Ya,3.15,Normal
+2500629,Wahyu Lapasere,Perempuan,26,Ilmu Komputer,2023,Palu,SNBP,Tidak Bekerja,19.9,93.6,70.3,48.5,90,1243000.0,Ya,3.1,Normal
+2300981,Joko Sulistyo,Perempuan,22,Administrasi Publik,2023,Tolitoli,SNBT,Penuh Waktu,14.8,90.4,79.2,67.5,115,2636000.0,Ya,3.58,Cumlaude
+2500956,Gita Sulistyo,Laki-laki,24,Administrasi Bisnis,2024,Poso,Mandiri,Paruh Waktu,16.3,90.9,51.8,76.1,93,1592000.0,Ya,3.5,Cumlaude
+2100588,Budi Nugroho,Perempuan,18,Administrasi Publik,2021,Gorontalo,SNBT,Tidak Bekerja,11.1,72.7,59.6,60.9,94,1619000.0,Tidak,2.66,Normal
+2300910,Siti Sulistyo,Laki-laki,21,Ilmu Komputer,2020,Luwuk,SNBT,Penuh Waktu,11.8,91.9485023620307,76.4,71.02489509002008,81,1029000.0,Tidak,3.38,Normal
+2300033,Rizky Daeng,Laki-laki,18,Administrasi Bisnis,2024,Donggala,Mandiri,Penuh Waktu,12.8,92.9,81.0,63.57968937145574,126,1368000.0,Tidak,3.74,Cumlaude
+2100743,Siti Mardani,Laki-laki,21,Akuntansi,2023,Makassar,Beasiswa,Paruh Waktu,13.2,76.6,56.1,67.5,97,1388000.0,Ya,2.94,Normal
+2300602,Nur Lamato,Laki-laki,21,Akuntansi ,2024,Palu,Mandiri,Penuh Waktu,7.9,85.9,69.5,80.2,81,1816000.0,Ya,3.4,Normal
+2100169,Andi Tandiari,Perempuan,23,Manajemen,2021,Manado,Beasiswa,Tidak Bekerja,21.1,85.1,66.2,57.713698239097745,139,2191000.0,Ya,3.02,Normal
+2100153,Sri Pakaya,Laki-laki,25,Administrasi Bisnis,2023,Donggala,SNBT,Tidak Bekerja,15.3,83.7,,63.6,86,1939000.0,Tidak,3.35,Normal
+2300470,Hasan Wijaya,Perempuan,25,Ilmu Komputer,2023,Poso,Mandiri,Paruh Waktu,12.1,89.40061320981498,74.5,64.0,106,1266000.0,Tidak,3.28,Normal
+2500071,Taufik Daeng,laki laki,21,Administrasi Bisnis,2024,Manado,SNBP,Paruh Waktu,19.5,89.7,71.9,69.1,94,1878000.0,Tidak,3.29,Normal
+2400827,Andi Saputra,Laki-laki,23,Manajemen,2023,Makassar,SNBT,Paruh Waktu,11.2,81.4,80.5,67.7,115,1916000.0,Tidak,3.37,Normal
+2500120,Andi Mardani,Laki-laki,20,Ilmu Komputer,2023,Makassar,SNBT,Paruh Waktu,15.2,72.5,73.3,74.2,126,,Tidak,3.44,Normal
+2100656,Wahyu Sulistyo,Laki-laki,25,Ilmu Komputer,2021,Manado,Beasiswa,Tidak Bekerja,1.4,94.5,80.7,55.7,133,,Tidak,3.44,Normal
+2300334,Hasan Rahman,Perempuan,19,Administrasi Publik,2024,Kendari,SNBP,Tidak Bekerja,12.6,79.5,69.1,89.9,92,1955000.0,Ya,3.81,Cumlaude
+2300070,Siti Hidayat,Perempuan,22,Manajemen,2020,Tolitoli,Mandiri,Paruh Waktu,6.0,88.1,60.3,55.6,85,1442000.0,Tidak,2.71,Normal
+2400294,Sri Pakaya,Laki-laki,25,Manajemen,2024,Gorontalo,Mandiri,Tidak Bekerja,14.9,91.5,83.4,82.1,107,,Ya,3.83,Cumlaude
+2300088,Dewi Masdin,Perempuan,24,Administrasi Publik,2023,Poso,Mandiri,Tidak Bekerja,13.3,77.0,80.5,80.6,94,1402000.0,Ya,3.54,Cumlaude
+2300614,Fajar Mardani,Laki-laki,24,Administrasi Publik,2022,Gorontalo,Mandiri,Paruh Waktu,,80.7,82.5,52.1,144,1745000.0,Ya,3.32,Normal
+2500729,Rahmat Masdin,Laki-laki,20,Ilmu Komputer,2024,Mamuju,Beasiswa,Tidak Bekerja,18.3,91.2117022020764,,68.0,135,3162000.0,Tidak,3.08,Normal
+2500536,Hasan Lasari,perempuan,22,Akuntansi,2024,NA,Beasiswa,Paruh Waktu,19.4,89.8,78.7,67.0,126,2559000.0,Tidak,3.56,Cumlaude
+2500240,Muh. Pakaya,Perempuan,21,Administrasi Publik,2021,Mamuju,SNBT,Tidak Bekerja,16.8,77.8,74.9,75.3,117,827000.0,Ya,3.6,Cumlaude
+2300804,Andi Saputra,Perempuan,21,Akuntansi,2020,Tolitoli,SNBP,Paruh Waktu,17.6,90.6,62.9,83.4,91,1742000.0,Tidak,3.46,Normal
+2300598,Yusuf Kurniawan,Laki-laki,23,Akuntansi,2024,Luwuk,SNBP,Tidak Bekerja,13.9,80.9,64.3,76.0,109,1599000.0,Ya,3.11,Normal
+2300467,Taufik Mardani,Laki-laki,25,AP,2020,Tolitoli,Mandiri,Tidak Bekerja,12.1,90.49573290154201,97.7,63.8,110,1754000.0,Tidak,3.74,Cumlaude
+2100117,Citra Nugroho,Laki-laki,24,akuntansi,2023,Kendari,SNBP,Tidak Bekerja,23.1,75.2,68.4,68.6,89,941000.0,Tidak,3.33,Normal
+2500556,Hasan Sulistyo,Perempuan,19,Ilmu Komputer,2023,Gorontalo,SNBT,Tidak Bekerja,19.4,78.8408844387579,52.3,53.1,136,2270000.0,Ya,2.45,Normal
+2300074,Citra Tandiari,Perempuan,19,administrasi bisnis,2022,Poso,Mandiri,Tidak Bekerja,14.2,87.9,,78.2,109,2546000.0,Ya,3.54,Cumlaude
+2300387,Muh. Saputra,Laki-laki,18,ilmu komputer,2020,NA,SNBT,Tidak Bekerja,13.9,91.2695039728671,85.7,54.283797548357974,123,,Ya,3.19,Normal
+2500737,Nur Nugroho,Perempuan,20,Akuntansi,2022,Gorontalo,SNBP,Tidak Bekerja,21.6,86.1,52.9,72.7,81,2473000.0,Ya,2.98,Normal
+2100552,Sri Daeng,Laki-laki,22,Manajemen,2024,Kendari,SNBP,Tidak Bekerja,11.7,84.8,67.7,72.1,132,1456000.0,Tidak,3.38,Normal
+2300488,Muh. Lamato,Laki-laki,25,Akuntansi,2024,Luwuk,Beasiswa,Paruh Waktu,11.5,75.6,54.1,60.3786103951084,88,1285000.0,Ya,2.8,Normal
+2500333,Andi Nugroho,Laki-laki,24,Administrasi Publik,2022,Luwuk,Mandiri,Paruh Waktu,,90.9299449988125,64.5,58.856739154715726,132,924000.0,Ya,2.95,Normal
+2400862,Nur Hidayat,Perempuan,18,Ilmu Komputer,2021,Tolitoli,SNBT,Tidak Bekerja,22.6,72.9,91.5,68.7,90,1342000.0,Tidak,3.68,Cumlaude
+2500744,Dewi Pakaya,Perempuan,18,Akuntansi,2023,NA,Beasiswa,Tidak Bekerja,11.2,78.0,77.7,70.3,117,772000.0,Ya,3.3,Normal
+2200963,Fajar Kurniawan,pria,18,Administrasi Publik,2022,Kendari,SNBP,Paruh Waktu,15.4,85.6,91.7,72.2,98,1230000.0,Tidak,3.79,Cumlaude
+2400881,Putri Saputra,Perempuan,26,Manajemen,2022,Mamuju,SNBT,Tidak Bekerja,13.0,71.5,61.2,63.7,131,2081000.0,Tidak,3.23,Normal
+2500150,Yusuf Nugroho,Perempuan,24,Administrasi Bisnis,2020,Luwuk,SNBT,Tidak Bekerja,9.3,91.3,73.4,80.3,107,2165000.0,Ya,3.74,Cumlaude
+2100541,Putri Sulistyo,perempuan,25, Administrasi Bisnis ,2024,Kendari,Beasiswa,Tidak Bekerja,7.6,90.4,76.8,69.17322481036305,129,2379000.0,Ya,3.33,Normal
+2300378,Agus Rahman,laki laki,24,Ilmu Komputer,2020,NA,SNBP,Paruh Waktu,4.0,72.8,58.6,63.9,87,1796000.0,Ya,3.08,Normal
+2200180,Andi Pakaya,Laki-laki,25,Administrasi Publik,2021,Manado,SNBP,Penuh Waktu,20.6,65.2,79.4,60.8,138,1220000.0,Ya,2.97,Normal
+2200291,Rahmat Pakaya,Perempuan,25,Administrasi Bisnis,2021,Tolitoli,Mandiri,Tidak Bekerja,9.8,90.0,75.4,62.2740194449737,123,1690000.0,Tidak,2.96,Normal
+2100268,Hasan Lapasere,pria,26,Akuntansi,2023,Kendari,SNBT,Paruh Waktu,9.0,94.6,77.5,44.4,124,1683000.0,Tidak,3.06,Normal
+2100535,Lestari Nugroho,Laki-laki,25,Manajemen,2020,NA,Mandiri,Penuh Waktu,12.8,100.0,54.2,63.7,133,1383000.0,Ya,3.19,Normal
+2200341,Eka Hidayat,Laki-laki,18,Ilmu Komputer,2021,Manado,Beasiswa,Tidak Bekerja,14.2,75.8,58.3,63.6,111,903000.0,Tidak,2.57,Normal
+2500320,Joko Rahman,Perempuan,21,Ilmu Komputer,2023,Gorontalo,Mandiri,Tidak Bekerja,9.0,97.7,73.7,56.8,144,2020000.0,Ya,3.06,Normal
+2100709,Gita Kurniawan,Laki-laki,20,Administrasi Publik,2022,Makassar,SNBT,Paruh Waktu,8.4,67.3,69.1,51.39537499706037,95,2055000.0,Tidak,2.78,Normal
+2100381,Dewi Lasari,Perempuan,19,Administrasi Bisnis,2022,NA,SNBP,Paruh Waktu,15.7,77.4,86.5,72.4,98,2028000.0,Ya,3.8,Cumlaude
+2100538,Budi Rahman,Perempuan,21,Akuntansi,2022,Makassar,SNBP,Paruh Waktu,15.1,78.9,73.3,78.7,97,1077000.0,Tidak,3.61,Cumlaude
+2200755,Fajar Kurniawan,Laki-laki,18,Manajemen,2020,NA,Beasiswa,Paruh Waktu,21.0,75.26213505831741,71.3,82.23194322230513,120,1699000.0,Ya,3.48,Normal
+2300257,Putri Daeng,Perempuan,24,Akuntansi,2022,Manado,SNBT,Paruh Waktu,16.1,64.51834486093003,93.2,82.95062840615891,102,2211000.0,Tidak,4.0,Cumlaude
+2500021,Nur Lamato,Perempuan,23,Manajemen,2024,Makassar,SNBT,Paruh Waktu,8.3,78.5,86.0,46.4,130,1739000.0,Tidak,3.14,Normal
+2500448,Sri Pakaya,Perempuan,25,Ilmu Komputer,2021,Tolitoli,SNBP,Paruh Waktu,13.6,98.2,85.6,61.3,112,1113000.0,Tidak,3.6,Cumlaude
+2500795,Muh. Saputra,Laki-laki,26,Ilmu Komputer,2020,Gorontalo,Mandiri,Tidak Bekerja,7.5,66.2,70.5,76.0,137,1502000.0,Ya,3.5,Cumlaude
+2500624,Yusuf Nugroho,Laki-laki,26,administrasi bisnis,2021,Kendari,SNBT,Tidak Bekerja,,85.3,63.1,72.5,122,1572000.0,Ya,3.37,Normal
+2200717,Nur Lamato,Laki-laki,22,Ilmu Komp.,2020,Poso,SNBP,Tidak Bekerja,20.0,92.3,81.3,100.0,90,1227000.0,Tidak,4.0,Cumlaude
+2200584,Eka Lamato,Laki-laki,20,Manajemen,2020,Kendari,SNBT,Paruh Waktu,20.0,79.38306281461894,60.6,82.3,139,1465000.0,Tidak,3.33,Normal
+2100118,Ayu Lapasere,Laki-laki,19,Administrasi Bisnis,2020,Gorontalo,SNBP,Tidak Bekerja,11.6,91.2,63.2,78.24825574515253,142,1006000.0,Tidak,3.21,Normal
+2400854,Andi Sulistyo,Perempuan,22,Akuntansi,2020,Kendari,Mandiri,Tidak Bekerja,15.7,76.7,60.1,78.5,111,1215000.0,Tidak,3.16,Normal
+2500643,Siti Pakaya,Laki-laki,21,Administrasi Bisnis,2021,Poso,Mandiri,Tidak Bekerja,12.1,100.0,64.0,64.7,85,1828000.0,Tidak,3.19,Normal
+2200433,Eka Kurniawan,Laki2,22,Manajemen,2023,Luwuk,Mandiri,Tidak Bekerja,13.6,81.5,66.9,96.27651293176365,125,2112000.0,Ya,3.7,Cumlaude
+2300174,Rahmat Daeng,Perempuan,19,Adm. Publik,2023,Palu,SNBT,Paruh Waktu,6.5,96.88857236393441,60.4,89.96083423100566,80,2.518.000,Tidak,3.52,Cumlaude
+2400097,Budi Wijaya,Laki-laki,23,Manajemen,2023,Manado,SNBT,Paruh Waktu,12.9,88.9,63.6,67.5,91,2316000.0,Tidak,2.99,Normal
+2100297,Taufik Saputra,Perempuan,25,Ilmu Komputer,2021,Manado,SNBT,Paruh Waktu,13.0,95.3,69.9,57.0,124,1209000.0,Tidak,2.92,Normal
+2100612,Agus Pakaya,Laki-laki,22,Administrasi Bisnis,2022,Kendari,SNBT,Tidak Bekerja,19.9,80.7,80.0,86.5,123,963000.0,Ya,3.85,Cumlaude
+2400253,Nur Lapasere,Perempuan,25,Ilmu Komputer,2021,Poso,SNBP,Paruh Waktu,17.8,80.57596053116617,69.9,60.982770817689925,117,1271000.0,Ya,2.97,Normal
+2300516,Citra Sulistyo,Perempuan,19,Akuntansi,2022,Mamuju,Mandiri,,15.6,65.6,75.4,60.9,95,1183000.0,Tidak,3.1,Normal
+2400772,Putri Nugroho,Laki-laki,19,Administrasi Publik,2023,Poso,Mandiri,Tidak Bekerja,16.6,95.6,72.9,67.5,93,2429000.0,Tidak,3.24,Normal
+2300109,Rizky Tandiari,Laki-laki,20,Administrasi Publik,2023,Manado,SNBT,Paruh Waktu,6.2,85.0,93.4,50.5,134,965000.0,Tidak,3.37,Normal
+2500155,Lestari Wijaya,Laki-laki,24,Manajemen,2022,Mamuju,Mandiri,Paruh Waktu,,98.0,67.5,64.34420750941183,113,1303000.0,Ya,3.37,Normal
+2100127,Rahmat Hidayat,Laki-laki,26,Akuntansi,2023,Tolitoli,Beasiswa,Paruh Waktu,10.2,88.6,50.4,69.6,95,1197000.0,Ya,2.86,Normal
+2200849,Sri Tandiari,Laki-laki,20,Adm. Publik,2023,Manado,Mandiri,Paruh Waktu,24.3,76.2,73.2,82.6,110,1205000.0,Tidak,3.52,Cumlaude
+2400318,Gita Mardani,Perempuan,26,AKUNTANSI,2024,Makassar,SNBP,Paruh Waktu,10.2,100.0,71.2,82.6,80,1711000.0,Tidak,3.71,Cumlaude
+2300207,Lestari Pakaya,Laki-laki,19,Akuntansi,2020,Donggala,SNBT,Tidak Bekerja,22.1,88.1,67.4,64.2,117,1519000.0,Tidak,3.17,Normal
+2500062,Wahyu Lamato,Perempuan,21,Akuntansi,2024,Tolitoli,Mandiri,Penuh Waktu,14.8,94.9,70.2,73.7,82,1027000.0,Tidak,3.45,Normal
+2300305,Dewi Saputra,Laki-laki,24,Administrasi Publik,2024,Manado,SNBP,Penuh Waktu,22.8,77.9,80.3,84.6,111,1494000.0,Ya,3.87,Cumlaude
+2400137,Fajar Pakaya,Perempuan,23,Ilmu Komputer,2021,Donggala,SNBT,Penuh Waktu,17.6,73.9,50.0,50.2,97,1683000.0,Tidak,2.33,Normal
+2400481,Citra Hidayat,Perempuan,23, Administrasi Bisnis ,2024,Tolitoli,SNBP,Penuh Waktu,12.6,65.1498945963942,74.5,69.1,111,1711000.0,Tidak,3.34,Normal
+2200736,Ayu Saputra,Perempuan,18,Manajemen,2020,Manado,SNBP,Tidak Bekerja,11.1,81.6,70.4,90.1,106,1170000.0,Ya,3.69,Cumlaude
+2300423,Nur Wijaya,Perempuan,21,Akuntansi,2021,Kendari,SNBT,Tidak Bekerja,16.2,98.5176888188353,87.0,71.23003729605277,132,1971000.0,Tidak,3.69,Cumlaude
+2100866,Eka Pakaya,Perempuan,26,Administrasi Bisnis,2024,Poso,SNBT,Tidak Bekerja,18.7,87.0270914009042,71.2,78.8,101,1775000.0,Ya,3.47,Normal
+2100020,Lestari Nugroho,Perempuan,24,Manajemen,2023,Kendari,Mandiri,Tidak Bekerja,16.0,81.3,94.1,76.1,91,1412000.0,Ya,3.97,Cumlaude
+2400561,Rizky Lasari,Perempuan,21,ADMINISTRASI BISNIS,2023,Tolitoli,Mandiri,Tidak Bekerja,15.0,84.7,73.9,66.9,143,1613000.0,Ya,3.27,Normal
+2100817,Citra Pratama,Perempuan,20,Akuntansi,2022,Palu,Mandiri,Paruh Waktu,10.5,98.5,85.1,73.0,135,1717000.0,Tidak,3.62,Cumlaude
+2200905,Muh. Wijaya,Laki-laki,18,Akuntansi,2021,Gorontalo,Mandiri,Tidak Bekerja,12.0,81.3,72.2,74.0,108,1963000.0,Ya,3.3,Normal
+2100220,Fajar Kurniawan,Perempuan,22,Administrasi Bisnis,2023,NA,Beasiswa,Tidak Bekerja,10.8,83.4715302978857,81.4,79.10701099467929,98,1.362.000,Tidak,3.37,Normal
+2200405,Yusuf Masdin,Laki-laki,24,Manajemen,2021,Luwuk,SNBT,Tidak Bekerja,,98.7,79.1,68.09172029693651,92,685000.0,Tidak,3.61,Cumlaude
+2400101,Sri Hidayat,L,25,Manajemen,2024,Tolitoli,SNBP,Tidak Bekerja,,84.1,69.4,51.3,140,1482000.0,Tidak,2.79,Normal
+2300835,Budi Lamato,Laki-laki,24,Akuntansi,2022,Gorontalo,SNBT,Tidak Bekerja,22.5,72.8,66.3,88.34642150476408,95,933000.0,Ya,3.21,Normal
+2300778,Kurnia Lamato,Perempuan,21,Manajemen,2022,Manado,Mandiri,Paruh Waktu,14.0,89.88396179000767,85.8,88.4,80,,Ya,4.0,Cumlaude
+2400411,Taufik Pakaya,Perempuan,21,Administrasi Bisnis,2022,Gorontalo,SNBP,,10.7,73.4,63.5,64.0,88,965000.0,Ya,2.88,Normal
+2200139,Andi Tandiari,Perempuan,20,Manajemen,2023,NA,SNBT,Tidak Bekerja,9.2,68.8,81.9,42.4,82,2333000.0,Ya,2.5,Normal
+2200223,Muh. Rahman,Laki-laki,25,Manajemen,2020,Mamuju,SNBP,Tidak Bekerja,19.0,81.8,66.0,67.1,85,1333000.0,Tidak,2.74,Normal
+2300668,Wahyu Tandiari,Laki-laki,25,Akuntansi,2022,Luwuk,Beasiswa,Paruh Waktu,14.3,87.1,63.7,56.5,81,1712000.0,Ya,2.58,Normal
+2200784,Sri Hidayat,laki laki,22,Akuntansi,2024,NA,Mandiri,Tidak Bekerja,16.8,84.6,,53.0,99,500.0,Tidak,3.35,Normal
+2400907,Andi Lasari,laki laki,21,Ilmu Komputer,2024,Luwuk,SNBT,Paruh Waktu,11.9,72.9,80.3,79.0,108,1239000.0,Tidak,3.56,Cumlaude
+2500393,Lestari Nugroho,Laki-laki,24,Manajemen,2020,Donggala,Beasiswa,,5.5,76.3,82.1,90.32043981182089,141,1763000.0,Tidak,3.76,Cumlaude
+2500365,Citra Tandiari,Laki-laki,26,Administrasi Bisnis,2021,Donggala,Mandiri,Paruh Waktu,12.6,88.7,61.6,65.8,116,1558000.0,Ya,3.02,Normal
+2200962,Lestari Kurniawan,Laki-laki,20,Administrasi Bisnis,2022,Gorontalo,SNBP,Tidak Bekerja,5.3,81.5,74.3,70.7,123,1379000.0,Tidak,3.48,Normal
+2200288,Kurnia Saputra,Perempuan,25,Manajemen,2020,Gorontalo,SNBP,Tidak Bekerja,21.1,74.14076973438709,66.5,82.4,112,,Tidak,3.71,Cumlaude
+2300696,Wahyu Masdin,Perempuan,22,Ilmu Komputer,2022,Palu,Mandiri,Paruh Waktu,13.6,79.2,55.6,89.2,140,1336000.0,Ya,3.57,Cumlaude
+2300852,Eka Pratama,Perempuan,19,Administrasi Publik,2022,Manado,SNBT,Paruh Waktu,14.6,92.9,79.7,65.3,100,1428000.0,Tidak,3.18,Normal
+2400205,Budi Lasari,Perempuan,20,Manajemen,2020,Palu,SNBT,Tidak Bekerja,25.6,89.3,73.6,82.0,135,1748000.0,Ya,3.76,Cumlaude
+2500930,Budi Tandiari,Perempuan,19,Administrasi Bisnis,2020,Gorontalo,Mandiri,Tidak Bekerja,12.0,86.2,73.9,66.8,84,1287000.0,Ya,3.33,Normal
+2200875,Andi Hidayat,Perempuan,24,Akuntansi ,2024,Palu,Mandiri,Tidak Bekerja,11.6,86.3,65.9,62.8,113,1029000.0,Tidak,3.23,Normal
+2400814,Sri Masdin,Perempuan,18,Administrasi Publik,2023,Kendari,SNBT,Tidak Bekerja,12.8,91.4,74.9,65.2,133,2760000.0,Ya,3.51,Cumlaude
+2200974,Budi Pakaya,Perempuan,26,Administrasi Publik,2023,Tolitoli,SNBT,Paruh Waktu,,97.6,81.5,82.9,122,1503000.0,Ya,4.0,Cumlaude
+2200713,Kurnia Kurniawan,Laki-laki,18,Administrasi Publik,2020,Mamuju,SNBP,Paruh Waktu,11.8,81.3,68.4,80.8,81,1129000.0,Ya,3.45,Normal
+2300360,Rizky Saputra,Perempuan,24,Manajemen,2020,Mamuju,Mandiri,Paruh Waktu,2.7,91.5,,77.6,97,1454000.0,Ya,3.76,Cumlaude
+2400014,Agus Lamato,pria,150,Ilmu Komputer,2022,Poso,SNBT,Paruh Waktu,16.4,92.7,68.9,74.7,137,1321000.0,Tidak,3.64,Cumlaude
+2100592,Fajar Tandiari,Laki-laki,18,Administrasi Publik,2024,Manado,SNBT,Paruh Waktu,17.6,87.1,87.7,79.8,102,,Tidak,4.0,Cumlaude
+2200061,Andi Nugroho,Laki-laki,22,Akuntansi,2023,Gorontalo,SNBT,Tidak Bekerja,16.3,89.2,63.0,86.9,142,,Ya,3.49,Normal
+2100686,Indah Lamato,Laki-laki,23,Akuntansi,2022,Manado,SNBP,Tidak Bekerja,11.7,89.39438851280744,58.2,86.8140918151367,136,842000.0,Tidak,3.07,Normal
+2500959,Rizky Sulistyo,Perempuan,25,Akuntansi,2021,Tolitoli,Mandiri,Paruh Waktu,17.0,90.0,85.3,100.0,87,1009000.0,Ya,4.0,Cumlaude
+2500181,Taufik Masdin,Laki-laki,18,Administrasi Bisnis,2023,NA,SNBT,Tidak Bekerja,15.0,72.9,66.7,72.6,89,1650000.0,Tidak,3.37,Normal
+2100631,Lestari Saputra,Perempuan,25,Akuntansi,2024,Mamuju,Mandiri,Paruh Waktu,13.3,76.8,77.5,65.0,129,1469000.0,Tidak,3.38,Normal
+2200083,Lestari Mardani,Laki-laki,23,MANAJEMEN,2023,NA,Mandiri,Paruh Waktu,11.4,81.6,78.8,73.0,141,1821000.0,Ya,3.74,Cumlaude
+2400124,Taufik Rahman,Perempuan,25,Administrasi Publik,2022,Tolitoli,SNBP,,8.2,94.46089063114393,73.8,83.31743503483328,121,1355000.0,Tidak,3.51,Cumlaude
+2400634,Indah Masdin,perempuan,26,Manajemen,2022,Palu,SNBP,Tidak Bekerja,6.9,90.8,77.0,82.0,142,2080000.0,Tidak,3.81,Cumlaude
+2200773,Budi Pakaya,L,24,Administrasi Bisnis,2024,Kendari,SNBT,Tidak Bekerja,12.3,88.23669289915226,85.6,72.30424097654827,85,1910000.0,Tidak,3.57,Cumlaude
+2500382,Gita Tandiari,Perempuan,20,Administrasi Bisnis,2021,Gorontalo,SNBT,Paruh Waktu,,82.0,79.5,68.8,89,,Tidak,3.32,Normal
+2300519,Indah Nugroho,Perempuan,26,Akuntansi ,2021,Poso,Beasiswa,Tidak Bekerja,18.3,77.2,43.2,47.3,138,1922000.0,Tidak,2.05,Normal
+2400599,Indah Tandiari,Laki-laki,25,Akuntansi,2023,Manado,Beasiswa,Penuh Waktu,17.7,75.8,67.4,59.9,100,,Ya,3.18,Normal
+2200287,Rizky Masdin,Perempuan,23,Manajemen,2020,Palu,SNBT,Tidak Bekerja,11.3,93.2,73.3,47.9,85,1695000.0,Ya,2.85,Normal
+2100395,Siti Lapasere,Laki-laki,21,Administrasi Bisnis,2020,Mamuju,Mandiri,Tidak Bekerja,18.3,83.6,70.9,80.4,109,1777000.0,Tidak,3.66,Cumlaude
+2200611,Joko Tandiari,Laki-laki,21,Administrasi Publik,2022,Luwuk,Mandiri,Paruh Waktu,13.9,84.7,71.8,81.04490437831281,144,1838000.0,Ya,3.84,Cumlaude
+2500077,Sri Tandiari,Laki-laki,22,Administrasi Bisnis,2022,Makassar,SNBT,Paruh Waktu,,88.3,75.7,82.0,134,1840000.0,Tidak,3.68,Cumlaude
+2200184,Ayu Lamato,Laki-laki,19,Adm. Publik,2020,Donggala,SNBT,Tidak Bekerja,5.1,89.1,94.8,83.6,142,1909000.0,Ya,4.0,Cumlaude
+2500726,Taufik Daeng,Perempuan,23,Administrasi Bisnis ,2023,Donggala,SNBT,Paruh Waktu,7.7,83.0,51.8,65.5,85,1.151.000,Tidak,2.74,Normal
+2300055,Citra Pakaya,Laki-laki,21,Ilmu Komputer,2021,Mamuju,SNBT,,7.8,73.0,78.0,73.02552187278786,92,1899000.0,Tidak,3.37,Normal
+2200710,Dewi Pakaya,Laki-laki,21,Ilmu Komputer,2022,Kendari,SNBT,Paruh Waktu,16.8,95.0,85.2,61.9234030410988,118,1.686.000,Tidak,3.45,Normal
+2500485,Fajar Masdin,Perempuan,19,Ilmu Komputer,2022,Palu,SNBT,Paruh Waktu,17.0,84.9,96.5,70.1,121,2070000.0,Ya,3.56,Cumlaude
+2500627,Lestari Tandiari,Perempuan,23,Akuntansi,2022,Kendari,SNBT,Tidak Bekerja,10.9,81.8,84.1,92.3,142,2457000.0,Ya,3.91,Cumlaude
+2300165,Fajar Pratama,P,18,Akuntansi,2023,Gorontalo,SNBT,Tidak Bekerja,15.7,69.47410721788734,59.7,70.5,130,1706000.0,Tidak,2.8,Normal
+2300436,Agus Saputra,Laki-laki,26,Administrasi Bisnis,2021,NA,SNBP,Tidak Bekerja,19.3,78.0,53.1,72.6,138,1424000.0,Ya,2.86,Normal
+2300916,Kurnia Wijaya,Laki-laki,22,Ilmu Komputer,2022,Gorontalo,SNBT,Tidak Bekerja,11.6,90.6,69.3,76.2,126,1111000.0,Tidak,3.33,Normal
+2200793,Taufik Hidayat,Perempuan,24,Manajemen,2020,Kendari,SNBT,Tidak Bekerja,18.9,80.8,,73.2,83,1307000.0,Tidak,2.96,Normal
+2500267,Eka Pakaya,Laki-laki,22,Ilmu Komputer,2024,Tolitoli,SNBP,Tidak Bekerja,11.3,83.3,71.4,90.8,123,780000.0,Tidak,3.74,Cumlaude
+2300115,Dewi Rahman,Laki-laki,23,Manajemen,2024,Poso,SNBP,Tidak Bekerja,20.0,84.2,60.7,78.2,140,1.688.000,Tidak,3.35,Normal
+2500170,Wahyu Hidayat,pria,26,Administrasi Publik,2022,Kendari,SNBT,Tidak Bekerja,8.2,81.7,,99.9,100,1522000.0,Ya,3.94,Cumlaude
+2100310,Kurnia Mardani,Laki-laki,22,Administrasi Bisnis,2023,Mamuju,SNBP,Tidak Bekerja,11.6,78.8,,40.51065924916171,90,2199000.0,Tidak,3.01,Normal
+2200658,Putri Saputra,Perempuan,18,Ilmu Komputer,2021,Gorontalo,Beasiswa,Penuh Waktu,12.3,89.27896149388451,100.0,77.8,91,1663000.0,Ya,4.0,Cumlaude
+2200420,Siti Daeng,Perempuan,19,Akuntansi,2021,Mamuju,SNBP,Paruh Waktu,7.7,99.1,72.5,66.4,118,2201000.0,Tidak,3.37,Normal
+2400198,Taufik Masdin,Perempuan,19,Ilmu Komputer,2021,Manado,SNBP,Tidak Bekerja,11.5,86.6,60.1,75.61109412263444,108,2768000.0,Ya,3.26,Normal
+2100807,Putri Wijaya,Perempuan,25,Administrasi Bisnis,2024,Makassar,Beasiswa,Tidak Bekerja,,79.7,78.7,77.2,84,1377000.0,Tidak,3.57,Cumlaude
+2400667,Citra Nugroho,Perempuan,24,Administrasi Publik,2024,Donggala,Mandiri,Tidak Bekerja,13.7,84.1,64.1,78.7,117,1582000.0,Tidak,3.25,Normal
+2300983,Andi Tandiari,Laki-laki,26,Akuntansi,2020,Palu,SNBP,Tidak Bekerja,8.7,86.2,63.7,56.2,105,1341000.0,Ya,2.84,Normal
+2300780,Agus Lapasere,Perempuan,21,Ilmu Komputer,2023,Kendari,SNBT,Tidak Bekerja,8.4,84.5,73.3,62.7,107,854.000,Tidak,3.23,Normal
+2500218,Joko Wijaya,Perempuan,24,Akuntansi,2021,NA,SNBT,Tidak Bekerja,17.2,86.4,62.8,72.7,99,1983000.0,Ya,3.37,Normal
+2100211,Wahyu Wijaya,Laki-laki,26,Manajemen,2023,Makassar,SNBT,Tidak Bekerja,15.5,81.1,90.4,78.5,119,1007000.0,Ya,3.79,Cumlaude
+2400759,Gita Lamato,Laki-laki,23,Manajemen,2020,Manado,SNBT,Penuh Waktu,,77.70863935430292,85.6,56.96487581721957,141,1392000.0,Tidak,3.35,Normal
+2300130,Fajar Pratama,Laki-laki,23,Administrasi Bisnis,2022,Palu,SNBT,Penuh Waktu,5.8,99.6,57.2,56.7,100,,Ya,3.04,Normal
+2300394,Muh. Wijaya,Perempuan,19, Akuntansi ,2022,Mamuju,SNBP,Paruh Waktu,19.2,91.64122155484318,64.7,85.9,120,1872000.0,Tidak,3.54,Cumlaude
+2400475,Fajar Rahman,Perempuan,24,Manajemen,2021,Luwuk,SNBT,Penuh Waktu,23.8,96.3,86.1,92.5,137,1716000.0,Ya,4.0,Cumlaude
+2300199,Rahmat Kurniawan,Laki-laki,18,Administrasi Bisnis,2021,Makassar,Mandiri,Tidak Bekerja,20.8,87.6,77.3,71.5,93,747000.0,Ya,3.45,Normal
+2300054,Nur Masdin,Laki-laki,19,Manajemen,2024,Makassar,SNBP,Tidak Bekerja,12.4,76.6,70.4,72.0,129,1241000.0,Tidak,3.21,Normal
+2200895,Agus Rahman,Laki-laki,23,Akuntansi,2022,Donggala,Mandiri,Tidak Bekerja,15.8,78.5,91.1,59.2,144,1738000.0,Ya,3.5,Cumlaude
+2100593,Ayu Lamato,Laki-laki,23,Akuntansi,2024,Kendari,Mandiri,Tidak Bekerja,8.5,85.1,81.0,100.0,118,2113000.0,Tidak,4.0,Cumlaude
+2300539,Joko Lasari,Laki-laki,19,Administrasi Publik,2024,Kendari,SNBT,Paruh Waktu,22.3,75.8,73.0,61.0,129,921000.0,Tidak,3.24,Normal
+2100964,Muh. Lapasere,Perempuan,-20,Akuntansi,2021,Gorontalo,SNBT,Tidak Bekerja,20.9,92.1,75.4,58.34061280393871,116,,Tidak,3.43,Normal
+2300559,Gita Lasari,Perempuan,19,Ilmu Komputer,2023,Donggala,Mandiri,Tidak Bekerja,18.4,93.2,81.8,64.2,109,1576000.0,Ya,3.52,Cumlaude
+2500571,Kurnia Kurniawan,Laki-laki,23,Akuntansi,2022,Poso,SNBT,Tidak Bekerja,15.0,74.3,90.4,70.1,107,1212000.0,Tidak,3.68,Cumlaude
+2500570,Nur Daeng,Perempuan,25,Manajemen,2021,Mamuju,Mandiri,Tidak Bekerja,27.1,92.6,80.1,72.7,99,1276000.0,Tidak,3.68,Cumlaude
+2300671,Andi Kurniawan,Perempuan,21,Ilmu Komputer,2021,Kendari,SNBP,Tidak Bekerja,20.8,94.2,76.8,95.6,112,,Ya,3.96,Cumlaude
+2200329,Citra Lasari,Perempuan,24, Akuntansi ,2024,Kendari,Mandiri,Tidak Bekerja,23.5,85.8,64.8,75.9,97,1457000.0,Tidak,3.32,Normal
+2300719,Taufik Saputra,Laki-laki,24,Manajemen,2020,Kendari,Mandiri,Paruh Waktu,19.1,98.8,61.3,67.5,111,1510000.0,Tidak,3.29,Normal
+2300763,Indah Lapasere,Laki-laki,19,Administrasi Publik,2020,Poso,Mandiri,,13.5,86.9,59.4,66.5,99,1178000.0,Tidak,3.52,Cumlaude
+2100497,Joko Lasari,Laki-laki,24,Ilmu Komputer,2022,Mamuju,SNBP,,13.9,76.7,,88.2,113,2149000.0,Ya,3.49,Normal
+2200397,Putri Nugroho,Laki-laki,22,Adm. Publik,2021,Palu,SNBT,Tidak Bekerja,12.4,95.0,81.4,96.95114649518925,126,1674000.0,Ya,3.91,Cumlaude
+2500545,Agus Wijaya,Perempuan,21,Manajemen,2021,Poso,SNBP,Tidak Bekerja,13.7,92.5,64.6,57.6,102,894000.0,Tidak,3.16,Normal
+2400606,Hasan Lasari,Perempuan,20,Administrasi Publik,2021,Tolitoli,SNBP,Paruh Waktu,,90.5,80.5,60.37674193714638,109,1676000.0,Ya,3.45,Normal
+2500147,Yusuf Wijaya,laki laki,19,Manajemen,2020,Makassar,Mandiri,Tidak Bekerja,12.3,80.2,82.0,84.1,95,2289000.0,Ya,3.79,Cumlaude
+2400279,Nur Mardani,Perempuan,20,Manajemen,2023,Kendari,Beasiswa,Tidak Bekerja,14.7,85.6634866579732,67.3,82.4,128,1557000.0,Ya,3.48,Normal
+2400950,Gita Sulistyo,Laki-laki,23,Manajemen,2020,Kendari,Beasiswa,Tidak Bekerja,6.5,94.5,73.1,91.29706964365214,140,1913000.0,Tidak,3.94,Cumlaude
+2200254,Kurnia Masdin,Laki-laki,25,Administrasi Publik,2023,Makassar,SNBP,Tidak Bekerja,2.6,84.7,65.1,97.99391223812792,120,1528000.0,Ya,3.87,Cumlaude
+2500353,Taufik Saputra,Laki-laki,19,Ilmu Komputer,2020,Tolitoli,SNBT,Penuh Waktu,21.1,76.8,93.9,83.6,141,1715000.0,Tidak,4.0,Cumlaude
+2200431,Muh. Wijaya,Perempuan,21,Manajemen,2022,Palu,Mandiri,Tidak Bekerja,7.7,78.9,78.3,92.3,96,1653000.0,Tidak,4.0,Cumlaude
+2100053,Putri Lasari,Perempuan,20,Ilmu Komputer,2023,Manado,SNBP,Paruh Waktu,20.6,79.4,71.1,49.9,126,1737000.0,Ya,4.85,Normal
+2300392,Taufik Daeng,Perempuan,23,Administrasi Publik,2020,Tolitoli,SNBT,,19.6,89.9,66.9,59.6,135,2102000.0,Ya,2.79,Normal
+2100650,Dewi Wijaya,Perempuan,19,Manajemen,2023,Kendari,SNBT,Paruh Waktu,8.2,80.9,69.8,59.4,141,1042000.0,Ya,2.89,Normal
+2100779,Muh. Tandiari,Perempuan,21,Manajemen,2022,Palu,SNBT,Tidak Bekerja,9.9,95.6,83.5,59.3,99,2335000.0,Ya,3.4,Normal
+2200230,Taufik Hidayat,Laki-laki,22,Administrasi Publik,2024,Poso,Mandiri,Paruh Waktu,16.6,72.0,98.5,77.6,96,938000.0,Tidak,4.0,Cumlaude
+2300551,Lestari Sulistyo,Perempuan,26,Administrasi Publik,2021,Makassar,Mandiri,Paruh Waktu,9.9,86.2,71.7,75.2,135,1.608.000,Tidak,3.19,Normal
+2300146,Kurnia Nugroho,Laki-laki,25,Administrasi Bisnis,2021,Poso,Beasiswa,Paruh Waktu,8.5,74.7,73.0,58.1,137,1.537.000,Ya,3.26,Normal
+2500913,Hasan Hidayat,Laki-laki,18,Administrasi Publik,2023,Manado,Mandiri,Penuh Waktu,15.9,86.6,69.9,57.5,88,1772000.0,Ya,2.75,Normal
+2400861,Muh. Masdin,PEREMPUAN,19,Akuntansi,2022,Palu,SNBP,Tidak Bekerja,19.7,91.11016893695773,72.3,49.6,130,1042000.0,Tidak,3.11,Normal
+2400798,Muh. Saputra,Perempuan,23,Administrasi Bisnis,2021,Gorontalo,Mandiri,Tidak Bekerja,15.9,90.4,72.1,70.7,122,1493000.0,Ya,3.55,Cumlaude
+2200528,Fajar Pratama,Perempuan,22,Akuntansi,2024,Poso,Beasiswa,Tidak Bekerja,13.8,94.3,88.8,74.2,134,641.000,Tidak,3.92,Cumlaude
+2400654,Siti Lamato,Perempuan,19,Administrasi Bisnis,2021,Kendari,SNBT,Paruh Waktu,11.2,78.9,,50.52588204393685,126,1583000.0,Ya,3.44,Normal
+2100086,Kurnia Kurniawan,Laki-laki,23,Administrasi Publik,2023,Mamuju,Beasiswa,Paruh Waktu,8.0,80.43091224253368,78.7,81.1,114,1741000.0,Tidak,3.69,Cumlaude
+2200219,Agus Rahman,Perempuan,19,Administrasi Publik,2021,Luwuk,SNBT,Paruh Waktu,21.2,96.93862332598735,68.5,60.6,111,1540000.0,Ya,3.22,Normal
+2400296,Citra Rahman,Perempuan,23,Akuntansi,2021,Kendari,SNBP,Paruh Waktu,22.4,75.9,70.5,47.42608946263159,128,2500000.0,Tidak,2.79,Normal
+2300785,Hasan Lapasere,Perempuan,24,Ilmu Komputer,2023,Tolitoli,SNBT,Tidak Bekerja,14.0,82.9,75.7,58.53881346718779,123,2018000.0,Ya,3.09,Normal
+2200724,Rizky Tandiari,Laki-laki,22,Administrasi Bisnis,2023,Gorontalo,SNBT,,,90.3,86.6,82.7,101,3452000.0,Tidak,4.0,Cumlaude
+2500301,Yusuf Lasari,Perempuan,18,Administrasi Bisnis,2021,Poso,SNBT,Paruh Waktu,7.0,89.54310590542707,79.6,60.1,122,1238000.0,Tidak,3.24,Normal
+2200399,Indah Kurniawan,Laki-laki,23,Administrasi Publik,2020,Makassar,Mandiri,Tidak Bekerja,18.2,79.8,64.4,68.7,85,1511000.0,Ya,3.3,Normal
+2100162,Taufik Lapasere,Perempuan,25,Akuntansi,2020,Luwuk,Beasiswa,Paruh Waktu,9.9,74.5,82.1,62.7,92,917000.0,Ya,3.3,Normal
+2500971,Joko Pakaya,perempuan,23,Manajemen,2024,Donggala,SNBP,Tidak Bekerja,17.1,86.22555142552629,77.7,94.3,140,1130000.0,Tidak,3.91,Cumlaude
+2100768,Fajar Lamato,L,18,Ilmu Komputer,2021,NA,SNBP,Tidak Bekerja,11.0,94.2,69.4,72.0,128,1872000.0,Ya,3.71,Cumlaude
+2500347,Indah Mardani,Perempuan,18,Manajemen,2023,Poso,SNBP,Tidak Bekerja,13.9,77.23325529886844,67.1,56.5,110,,Tidak,2.81,Normal
+2400280,Ayu Lapasere,Perempuan,25,Akuntansi,2022,NA,Mandiri,Paruh Waktu,16.7,87.8,78.7,78.2,116,1928000.0,Tidak,3.54,Cumlaude
+2200652,Dewi Tandiari,Laki-laki,18,Manajemen,2022,Gorontalo,SNBP,Tidak Bekerja,17.5,81.1,80.8,68.6,133,1792000.0,Ya,3.3,Normal
+2400802,Ayu Lapasere,Perempuan,18,Ilmu Komputer,2020,Donggala,SNBP,Tidak Bekerja,15.1,75.7,55.1,61.8,110,,Ya,2.64,Normal
+2200009,Andi Masdin,Laki-laki,23,Manajemen,2024,Kendari,Mandiri,Paruh Waktu,12.9,84.03801529580517,72.1,61.4,110,969000.0,Tidak,3.31,Normal
+2300270,Indah Kurniawan,Perempuan,26,Administrasi Bisnis,2022,Mamuju,SNBP,Penuh Waktu,10.0,84.7,71.4,65.5,101,1354000.0,Ya,3.51,Cumlaude
+2300708,Muh. Pratama,Laki-laki,25,Akuntansi,2024,Luwuk,SNBT,Tidak Bekerja,16.9,86.1,71.9,74.5,141,1468000.0,Ya,3.41,Normal
+2200494,Ayu Pakaya,Laki-laki,21,Administrasi Publik,2021,Mamuju,Mandiri,Tidak Bekerja,14.5,74.1,73.0,67.8,140,2039000.0,Tidak,3.46,Normal
+2100285,Eka Lapasere,Laki-laki,26,Administrasi Bisnis,2023,Luwuk,SNBT,Tidak Bekerja,11.0,64.87206160097871,64.0,84.8,104,2260000.0,Ya,3.51,Cumlaude
+2100444,Nur Sulistyo,Laki-laki,25,Akuntansi,2022,Mamuju,Mandiri,Paruh Waktu,,73.7,84.2,85.8,81,1021000.0,Ya,4.0,Cumlaude
+2500954,Agus Hidayat,Laki-laki,25,Administrasi Bisnis,2020,Poso,Beasiswa,Tidak Bekerja,15.8,87.5,74.9,81.4,101,1264000.0,Ya,3.42,Normal
+2500674,Indah Nugroho,Laki-laki,25,Administrasi Bisnis,2024,Luwuk,Mandiri,Tidak Bekerja,13.8,85.9,63.9,71.88570117256663,116,976000.0,Tidak,3.45,Normal
+2100858,Budi Tandiari,Laki-laki,24,Administrasi Bisnis,2022,Kendari,Beasiswa,Paruh Waktu,24.5,96.4,74.4,77.6,86,2272000.0,Ya,3.4,Normal
+2300099,Rizky Saputra,Laki-laki,25,Manajemen,2024,NA,SNBT,Tidak Bekerja,14.6,85.8,73.9,76.7,118,816000.0,Tidak,3.57,Cumlaude
+2500616,Indah Kurniawan,P,20,Akuntansi,2020,Tolitoli,Beasiswa,Paruh Waktu,15.8,86.9,69.1,73.4,80,1.041.000,Ya,3.26,Normal
+2100495,Hasan Pratama,Laki-laki,19,Akuntansi,2023,Kendari,Mandiri,Paruh Waktu,13.0,95.2,86.8,74.5,97,1471000.0,Ya,4.0,Cumlaude
+2200432,Sri Nugroho,Perempuan,20,Administrasi Publik,2020,Mamuju,SNBT,Tidak Bekerja,19.4,85.0,64.8,57.1,87,1702000.0,Ya,3.04,Normal
+2400946,Dewi Rahman,Perempuan,22,Administrasi Publik,2023,Tolitoli,Mandiri,Tidak Bekerja,7.3,81.27331758638887,74.3,58.8,104,1678000.0,Ya,3.06,Normal
+2100166,Dewi Wijaya,Laki-laki,18,Administrasi Publik,2023,Donggala,Mandiri,,21.9,88.18641418047682,56.4,62.3,121,936000.0,Ya,2.95,Normal
+2200161,Kurnia Saputra,Perempuan,25,Administrasi Publik,2020,Tolitoli,SNBT,Tidak Bekerja,11.1,77.6,76.3,54.71214297570814,104,1372000.0,Ya,3.39,Normal
+2400136,Joko Lapasere,Perempuan,20,Ilmu Komputer,2022,Makassar,SNBT,Tidak Bekerja,14.9,80.7,90.2,73.6,113,1468000.0,Tidak,3.57,Cumlaude
+2100638,Siti Kurniawan,PEREMPUAN,24,Manajemen,2021,Tolitoli,SNBP,Paruh Waktu,19.1,87.4,72.2,55.05758432616062,110,1295000.0,Ya,2.86,Normal
+2500016,Citra Kurniawan,perempuan,21,Administrasi Bisnis,2024,Manado,SNBP,Paruh Waktu,16.8,76.0,88.5,68.1,143,2517000.0,Tidak,3.73,Cumlaude
+2300113,Putri Pratama,Laki-laki,23,Administrasi Publik,2020,Donggala,Beasiswa,,22.6,100.0,66.0,49.6,143,1944000.0,Tidak,2.85,Normal
+2200007,Dewi Kurniawan,Perempuan,26,Ilmu Komputer,2023,Palu,SNBP,Tidak Bekerja,19.0,83.9,50.0,70.9,82,1664000.0,Ya,2.74,Normal
+2500195,Kurnia Rahman,Laki-laki,22,Akuntansi,2023,Mamuju,Beasiswa,Tidak Bekerja,14.6,81.7,83.5,81.0,93,1998000.0,Ya,3.86,Cumlaude
+2500750,Dewi Wijaya,Laki-laki,22,Ilmu Komputer,2024,Manado,SNBP,Tidak Bekerja,,77.3,65.1,59.3,94,1497000.0,Ya,2.96,Normal
+2300173,Hasan Tandiari,Perempuan,25,MANAJEMEN,2023,Tolitoli,Mandiri,Tidak Bekerja,14.2,74.1,72.9,74.0,133,1460000.0,Ya,3.46,Normal
+2200870,Hasan Tandiari,Laki-laki,19,Akuntansi,2023,Poso,SNBT,Penuh Waktu,,77.8,75.5,80.0,134,1749000.0,Tidak,3.2,Normal
+2400860,Kurnia Pratama,Perempuan,24,Ilmu Komputer,2022,NA,Mandiri,Tidak Bekerja,15.5,103.0980053391667,73.1,81.2,117,1353000.0,Ya,3.57,Cumlaude
+2100788,Yusuf Pakaya,Laki-laki,22,Akuntansi,2022,Makassar,SNBP,Paruh Waktu,10.8,96.2,56.2,62.5,94,1867000.0,Ya,3.07,Normal
+2200473,Putri Lasari,Laki-laki,25,Ilmu Komputer,2022,Poso,SNBT,Paruh Waktu,11.6,88.8,85.3,77.0413968202632,88,1281000.0,Ya,3.84,Cumlaude
+2400204,Sri Tandiari,Laki-laki,22,Administrasi Bisnis,2020,Manado,Beasiswa,Tidak Bekerja,12.9,83.4,81.5,46.3,94,1358000.0,Ya,3.01,Normal
+2400935,Citra Wijaya,Laki-laki,21,Administrasi Bisnis,2021,Tolitoli,Mandiri,Tidak Bekerja,8.6,83.4,61.8,68.2,84,2545000.0,Tidak,3.08,Normal
+2400647,Fajar Wijaya,Perempuan,26, Akuntansi ,2021,Gorontalo,SNBT,Tidak Bekerja,8.9,74.1,62.1,55.1,97,2322000.0,Ya,2.59,Normal
+2500485,Fajar Masdin,Perempuan,19,Ilmu Komputer,2022,Palu,SNBT,Paruh Waktu,17.0,84.9,96.5,70.1,121,2070000.0,Ya,3.56,Cumlaude
+2100898,Putri Sulistyo,Perempuan,26,Akuntansi,2020,Donggala,Beasiswa,Paruh Waktu,15.6,85.2,78.6,69.4,122,1459000.0,Tidak,3.22,Normal
+2100685,Gita Lapasere,Perempuan,26,Administrasi Publik,2022,Gorontalo,SNBP,Tidak Bekerja,15.1,96.7,72.3,85.2,81,1472000.0,Tidak,3.99,Cumlaude
+2400003,Wahyu Masdin,Perempuan,19,Administrasi Bisnis,2022,Mamuju,SNBT,Tidak Bekerja,14.3,85.1,81.0,76.4,129,1276000.0,Ya,3.67,Cumlaude
+2400377,Citra Rahman,Perempuan,21,AKUNTANSI,2021,Donggala,SNBP,Tidak Bekerja,6.9,74.1457333978761,74.6,66.1,101,1421000.0,Ya,3.39,Normal
+2500733,Taufik Pakaya,Perempuan,20,Akuntansi,2022,Manado,SNBT,Tidak Bekerja,,89.6,72.2,51.4,108,2977000.0,Ya,2.98,Normal
+2500358,Eka Lapasere,Perempuan,21,Administrasi Publik,2022,Poso,SNBT,Paruh Waktu,9.3,82.2,61.4,70.7,95,1705000.0,Ya,3.13,Normal
+2200908,Eka Rahman,Laki-laki,26,Administrasi Bisnis,2023,Luwuk,SNBP,Paruh Waktu,19.9,75.9,79.9,53.4,133,1922000.0,Ya,3.06,Normal
+2500276,Kurnia Pratama,Laki-laki,22,Akuntansi,2023,Kendari,Mandiri,Tidak Bekerja,12.5,84.2,81.9,83.9,130,1.269.000,Ya,3.99,Cumlaude
+2300266,Putri Pakaya,Perempuan,18,Manajemen,2020,Tolitoli,SNBT,,18.6,78.1,64.5,74.1295459922749,129,1095000.0,Ya,3.07,Normal
+2500627,Lestari Tandiari,Perempuan,23,Akuntansi,2022,Kendari,SNBT,Tidak Bekerja,10.9,81.8,84.1,92.3,142,2457000.0,Ya,3.91,Cumlaude
+2200229,Fajar Lapasere,Laki-laki,18,Akuntansi,2022,Palu,Beasiswa,Paruh Waktu,7.6,83.9,78.0,77.2,123,1.815.000,Ya,3.51,Cumlaude
+2400920,Agus Wijaya,pria,22,Ilmu Komputer,2022,Donggala,SNBT,Tidak Bekerja,9.3,98.2,65.0,65.2,114,955000.0,Ya,3.3,Normal
+2200722,Ayu Lapasere,Laki-laki,24,Ilmu Komputer,2020,Donggala,SNBP,Paruh Waktu,18.6,87.6,59.3,87.6,106,836000.0,Ya,3.33,Normal
+2400445,Andi Daeng,pria,24,Administrasi Publik,2024,Manado,Mandiri,Paruh Waktu,7.9,82.9,94.8,68.5,126,1341000.0,Tidak,3.89,Cumlaude
+2400373,Putri Mardani,Perempuan,23,Administrasi Bisnis,2024,Luwuk,SNBP,Tidak Bekerja,11.7,76.7,83.0,59.4,111,,Tidak,3.43,Normal
+2400601,Lestari Lamato,Perempuan,22,Manajemen,2022,Makassar,SNBP,Tidak Bekerja,19.3,88.3042758483565,89.9,54.1,119,1090000.0,Tidak,3.48,Normal
+2100618,Andi Rahman,Perempuan,21,Ilmu Komputer,2022,Tolitoli,Beasiswa,Tidak Bekerja,12.4,90.2,49.3,77.1,87,4493000.0,Tidak,3.27,Normal
+2400116,Hasan Saputra,Perempuan,24,Administrasi Bisnis,2020,Makassar,SNBT,Tidak Bekerja,6.9,82.5,,52.2,114,899000.0,Ya,3.0,Normal
+2400222,Lestari Hidayat,Laki-laki,21,Administrasi Bisnis,2020,Palu,SNBP,Tidak Bekerja,12.1,99.0,80.8,55.3,119,1012000.0,Tidak,3.18,Normal
+2200458,Citra Lasari,Perempuan,20,Akuntansi,2022,Kendari,Mandiri,Tidak Bekerja,17.9,99.3,71.7,73.6,104,1129000.0,Ya,3.23,Normal
+2400200,Gita Lasari,Perempuan,24,Administrasi Publik,2024,Poso,Beasiswa,Tidak Bekerja,14.4,87.3,47.5,60.6,108,1694000.0,Ya,2.6,Normal
+2300549,Siti Kurniawan,Laki-laki,22,Administrasi Publik,2024,Tolitoli,Mandiri,Paruh Waktu,22.5,78.4,89.1,80.1,139,1612000.0,Ya,3.77,Cumlaude
+2500681,Lestari Sulistyo,Perempuan,22,Administrasi Publik,2023,Gorontalo,SNBP,Tidak Bekerja,4.3,68.9,78.5,58.4,102,1877000.0,Ya,3.24,Normal
+2100342,Agus Hidayat,Laki-laki,25,Ilmu Komputer,2022,Gorontalo,Beasiswa,Paruh Waktu,14.9,85.5,81.3,70.8,94,1871000.0,Tidak,3.69,Cumlaude
+2300982,Lestari Nugroho,Laki-laki,18,Administrasi Publik,2024,Makassar,SNBP,Tidak Bekerja,14.8,80.5,56.4,64.6,137,1.766.000,Ya,2.97,Normal
+2300777,Indah Nugroho,Laki-laki,23,Manajemen,2023,Makassar,Mandiri,Tidak Bekerja,16.0,88.9,57.1,85.30007334099885,106,843000.0,Ya,3.6,Cumlaude
+2200774,Agus Kurniawan,Laki-laki,26,Manajemen,2022,Manado,SNBP,Penuh Waktu,10.4,89.1,67.0,55.0,108,1.248.000,Tidak,2.72,Normal
+2100973,Muh. Sulistyo,Laki-laki,21,Administrasi Publik,2020,Tolitoli,SNBT,Paruh Waktu,13.5,85.26726305534594,,79.4,134,958000.0,Ya,3.72,Cumlaude
+2300391,Dewi Hidayat,Perempuan,19,Ilmu Komputer,2024,Kendari,SNBT,Tidak Bekerja,1.5,74.3,71.4,85.2,111,1857000.0,Tidak,3.54,Cumlaude
+2200794,Indah Pakaya,Perempuan,21,Ilmu Komputer,2022,Tolitoli,SNBP,Tidak Bekerja,,76.20990533848781,56.5,56.9,132,2455000.0,Ya,2.76,Normal
+2500517,Indah Nugroho,Laki-laki,22,Administrasi Bisnis,2021,NA,SNBP,Paruh Waktu,26.1,92.2,67.9,52.4,135,1551000.0,Tidak,3.18,Normal
+2300479,Putri Lamato,Laki-laki,22,Administrasi Publik,2024,Mamuju,Beasiswa,Tidak Bekerja,15.3,82.2,62.7,72.5,93,1222000.0,Ya,2.91,Normal
+2300034,Dewi Nugroho,Perempuan,24,AP,2021,Kendari,SNBP,Tidak Bekerja,10.4,93.2,70.3,84.00963021207568,87,1333000.0,Ya,3.58,Cumlaude
+2200714,Joko Hidayat,pria,22,Administrasi Publik,2020,Mamuju,SNBT,Paruh Waktu,20.6,84.4,58.0,90.83308040438237,111,1774000.0,Tidak,3.3,Normal
+2400008,Dewi Nugroho,Perempuan,20,Administrasi Publik,2020,Gorontalo,Mandiri,Tidak Bekerja,20.4,75.2,,69.4,87,888000.0,Tidak,2.85,Normal
+2300526,Siti Sulistyo,Laki-laki,20,Manajemen,2023,Donggala,SNBP,Tidak Bekerja,11.9,89.37057201815887,86.3,78.8,121,1906000.0,Ya,3.86,Cumlaude
+2500972,Agus Nugroho,laki laki,21,Administrasi Bisnis,2024,Poso,SNBP,Tidak Bekerja,16.4,87.3,84.1,81.6,126,,Ya,3.83,Cumlaude
+2400319,Indah Sulistyo,Laki-laki,24,Akuntansi,2020,Palu,SNBP,,21.0,84.8,62.5,63.1,107,2508000.0,Ya,3.0,Normal
+2100440,Gita Lamato,Laki-laki,18,Ilmu Komputer,2020,Palu,Mandiri,,25.1,92.01797541407097,64.5,52.9,138,1519000.0,Ya,2.93,Normal
+2300525,Siti Kurniawan,Perempuan,18,Administrasi Publik,2021,Kendari,SNBT,Tidak Bekerja,18.3,78.9,64.7,82.2,116,1170000.0,Tidak,3.43,Normal
+2400899,Siti Wijaya,Laki-laki,18,Manajemen,2021,Poso,SNBT,Tidak Bekerja,6.0,90.1,67.7,53.1,89,1540000.0,Tidak,2.85,Normal
+2100348,Eka Nugroho,Laki-laki,23,Manajemen,2021,Luwuk,SNBP,Tidak Bekerja,13.7,88.8,46.4,74.7,87,775000.0,Tidak,3.37,Normal
+2400094,Taufik Sulistyo,Perempuan,24,Akuntansi,2022,Poso,SNBT,Tidak Bekerja,8.7,95.43900822750221,50.4,84.7,125,1622000.0,Tidak,3.39,Normal
+2500543,Rahmat Wijaya,Perempuan,22,Administrasi Bisnis,2024,Mamuju,SNBT,Tidak Bekerja,7.1,74.4,59.5,72.7,138,1821000.0,Ya,3.17,Normal
+2400692,Eka Rahman,P,21, Administrasi Bisnis ,2023,Tolitoli,SNBP,Paruh Waktu,16.2,89.5,73.6,68.8,104,1250000.0,Tidak,3.37,Normal
+2400209,Andi Rahman,Perempuan,24,Manajemen,2024,Manado,SNBP,Tidak Bekerja,15.2,87.9,,69.8734613064858,135,1836000.0,Tidak,3.53,Cumlaude
+2400175,Eka Lasari,Laki-laki,19,Akuntansi,2020,Makassar,Mandiri,Paruh Waktu,10.5,86.8,65.1,65.8,128,829000.0,Tidak,3.28,Normal
+2400480,Andi Mardani,Perempuan,26,Ilmu Komputer,2022,Palu,SNBP,Paruh Waktu,10.2,89.6,82.9,76.22312425447724,127,,Ya,3.49,Normal
+2400281,Budi Sulistyo,Laki-laki,18,Ilmu Komputer,2023,Donggala,SNBT,Tidak Bekerja,7.5,81.7,82.7,70.4,125,2005000.0,Tidak,3.28,Normal
+2400106,Joko Lasari,Perempuan,22,Ilmu Komputer,2023,Gorontalo,SNBT,Paruh Waktu,18.3,79.13549471954978,58.6,74.5,128,631.000,Ya,3.01,Normal
+2200957,Gita Masdin,Perempuan,21,Manajemen,2022,Donggala,SNBP,Tidak Bekerja,5.6,88.0,73.2,73.5,87,1432000.0,Tidak,3.36,Normal
+2100251,Rahmat Daeng,Laki-laki,25,Manajemen,2024,Makassar,SNBP,,,69.6,53.4,65.3,134,1382000.0,Ya,2.62,Normal
+2100937,Eka Lasari,Perempuan,19,Manajemen,2020,Kendari,Mandiri,Tidak Bekerja,13.3,98.9,59.0,48.2,106,1249000.0,Ya,2.77,Normal
+2400389,Indah Mardani,Laki-laki,20,Adm. Publik,2023,Mamuju,Mandiri,Paruh Waktu,12.1,90.9,62.9,78.2,132,1308000.0,Ya,3.49,Normal
+2500955,Fajar Lasari,Laki-laki,24,Ilmu Komputer,2020,Mamuju,SNBP,Tidak Bekerja,13.9,86.45114120616532,93.2,57.965795335970235,123,1489000.0,Ya,3.75,Cumlaude
+2400936,Gita Saputra,Perempuan,25,Akuntansi,2023,Donggala,SNBP,Paruh Waktu,9.4,69.45443912248561,78.9,65.4,122,1.675.000,Tidak,3.06,Normal
+2400327,Rahmat Lapasere,Perempuan,20,Manajemen,2022,Tolitoli,SNBT,Penuh Waktu,19.7,85.9,60.4,89.9,92,,Ya,3.54,Cumlaude
+2400012,Indah Mardani,Laki-laki,19,Administrasi Bisnis,2021,Manado,Mandiri,Paruh Waktu,17.6,93.41027682304656,71.5,60.9,137,1587000.0,Ya,3.01,Normal
+2500806,Andi Pratama,Perempuan,23,Ilmu Komputer,2021,Kendari,Mandiri,Tidak Bekerja,13.2,94.1,70.6,53.7,81,1231000.0,Ya,2.82,Normal
+2200615,Sri Kurniawan,Laki-laki,21,Administrasi Publik,2024,Manado,Mandiri,Tidak Bekerja,27.3,75.3,60.6,77.1,121,2055000.0,Ya,3.25,Normal
+2400711,Rahmat Tandiari,Perempuan,20,Ilmu Komputer,2022,Palu,SNBT,Paruh Waktu,22.0,89.4,78.6,62.510887075097216,126,1554000.0,Tidak,3.61,Cumlaude
+2400213,Taufik Lasari,Laki-laki,21,Akuntansi,2022,Gorontalo,SNBT,Tidak Bekerja,16.9,80.3,56.1,68.1,86,,Ya,3.04,Normal
+2200216,Agus Sulistyo,PEREMPUAN,19,Administrasi Publik,2024,Tolitoli,SNBP,Paruh Waktu,,95.3,64.3,72.80386331409296,80,844000.0,Ya,3.22,Normal
+2500663,Eka Pakaya,Laki-laki,19,Akuntansi,2024,NA,SNBP,Tidak Bekerja,10.8,92.21823520557841,70.0,66.4,101,1186000.0,Tidak,3.37,Normal
+2300613,Gita Nugroho,Perempuan,20,Administrasi Bisnis,2021,Kendari,SNBT,Paruh Waktu,14.3,84.9,64.2,49.8,125,2980000.0,Ya,2.76,Normal
+2200422,Sri Lapasere,Laki-laki,24,Administrasi Bisnis,2023,Mamuju,SNBP,Paruh Waktu,15.3,73.4,87.4,81.9,112,1119000.0,Tidak,3.92,Cumlaude
+2400567,Dewi Nugroho,Perempuan,25,Ilmu Komputer,2022,Poso,Mandiri,Paruh Waktu,,71.6,67.0,65.1,120,1117000.0,Ya,3.07,Normal
+2200421,Muh. Daeng,Perempuan,25,Administrasi Bisnis,2023,Kendari,SNBP,Tidak Bekerja,12.0,73.7,71.7,49.5,126,2413000.0,Ya,2.95,Normal
+2200068,Eka Saputra,perempuan,25,Manajemen,2024,Manado,Beasiswa,Paruh Waktu,14.9,96.6,43.3,72.9,90,2337000.0,Tidak,2.93,Normal
+2100553,Andi Tandiari,Laki-laki,24,Administrasi Bisnis,2022,NA,SNBP,Tidak Bekerja,,77.8,84.8,55.8,104,1666000.0,Ya,3.34,Normal
+2200085,Sri Masdin,L,18,Ilmu Komputer,2020,Donggala,Mandiri,Tidak Bekerja,11.7,69.84922851751885,73.0,59.4,125,1065000.0,Ya,3.0,Normal
+2200140,Indah Tandiari,Laki-laki,23,Manajemen,2024,Poso,SNBT,Tidak Bekerja,13.6,90.95654699099806,58.2,73.4,144,833000.0,Ya,3.47,Normal
+2300466,Rizky Wijaya,Perempuan,26,Administrasi Publik,2021,Poso,Beasiswa,Tidak Bekerja,12.3,98.1,64.6,56.4,121,1961000.0,Tidak,3.19,Normal
+2100429,Rizky Saputra,Perempuan,18, Manajemen ,2021,Gorontalo,SNBP,Paruh Waktu,19.9,73.9,90.9,81.9,139,1942000.0,Tidak,3.89,Cumlaude
+2500417,Joko Masdin,Perempuan,18,Administrasi Bisnis,2022,Mamuju,SNBT,Paruh Waktu,16.8,89.43086744169253,71.8,70.1,84,1113000.0,Ya,3.26,Normal
+2500740,Rizky Hidayat,Laki-laki,26,Administrasi Publik,2020,Tolitoli,Beasiswa,Tidak Bekerja,14.8,86.8,77.8,76.0,134,871000.0,Tidak,3.52,Cumlaude
+2500196,Lestari Mardani,L,19,Administrasi Bisnis,2022,Donggala,SNBP,Paruh Waktu,14.1,79.8,81.9,55.494659815135506,121,3060000.0,Tidak,3.52,Cumlaude
+2500834,Wahyu Daeng,Perempuan,23,Akuntansi,2024,Palu,Mandiri,Paruh Waktu,18.2,96.62868971664949,64.6,97.8,86,689000.0,Tidak,4.0,Cumlaude
+2100284,Taufik Pakaya,Perempuan,23,Akuntansi,2023,Donggala,SNBT,Tidak Bekerja,15.8,85.6,80.6,55.2,142,759000.0,Tidak,3.55,Cumlaude
+2400111,Fajar Lapasere,Perempuan,26,Manajemen,2020,NA,SNBP,,13.6,88.67470151487296,66.3,53.9,107,1273000.0,Ya,2.71,Normal
+2300544,Yusuf Kurniawan,Perempuan,23,Administrasi Publik,2020,Luwuk,SNBT,Tidak Bekerja,14.0,93.3,66.9,62.3,132,1291000.0,Ya,3.06,Normal
+2100903,Fajar Pratama,Perempuan,22,Administrasi Bisnis,2020,Donggala,Beasiswa,Paruh Waktu,6.8,100.0,,70.3,90,615000.0,Tidak,3.67,Cumlaude
+2200902,Ayu Pratama,pria,21,Ilmu Komputer,2020,Palu,SNBT,Penuh Waktu,16.7,85.1,,76.2,80,1077000.0,Ya,3.04,Normal
+2200499,Andi Lapasere,Laki-laki,21,Administrasi Publik,2020,Mamuju,Beasiswa,Tidak Bekerja,10.6,93.5,74.2,48.0,121,1634000.0,Tidak,2.97,Normal
+2200290,Ayu Pratama,Perempuan,24,Administrasi Publik,2024,Mamuju,SNBP,Tidak Bekerja,11.2,86.9,80.4,78.0,115,,Ya,3.79,Cumlaude
+2300388,Rizky Nugroho,Perempuan,22,Akuntansi,2024,Gorontalo,SNBT,Tidak Bekerja,19.2,100.0,90.6,66.5,94,,Ya,3.76,Cumlaude
+2200359,Eka Wijaya,Laki-laki,19,Administrasi Publik,2021,Tolitoli,SNBP,Paruh Waktu,16.8,68.2,82.0,88.26599149111819,115,589000.0,Tidak,3.54,Cumlaude
+2500406,Taufik Saputra,Perempuan,21,Manajemen,2021,Manado,SNBP,Penuh Waktu,18.1,74.2,73.6,62.5,127,2133000.0,Ya,3.19,Normal
+2200364,Fajar Rahman,Laki-laki,25,Administrasi Bisnis,2021,Mamuju,SNBT,Tidak Bekerja,9.0,86.2,54.7,71.8,144,1819000.0,Tidak,3.27,Normal
+2200524,Gita Rahman,Laki-laki,18,Ilmu Komputer,2020,Gorontalo,SNBT,,9.5,89.7,,60.1,82,3.669.000,Ya,3.4,Normal
+2200574,Rahmat Hidayat,Perempuan,18,Administrasi Bisnis,2022,Palu,SNBT,,17.3,94.9,45.3,51.3,129,792000.0,Ya,2.46,Normal
+2100751,Agus Masdin,Perempuan,24,Akuntansi,2022,Gorontalo,SNBT,Tidak Bekerja,16.8,92.9,68.6,77.37634696322203,116,2426000.0,Tidak,3.46,Normal
+2400112,Sri Masdin,Perempuan,18, Administrasi Bisnis ,2021,Gorontalo,SNBT,Tidak Bekerja,21.5,89.7,80.0,76.2,131,1085000.0,Tidak,3.77,Cumlaude
+2100102,Fajar Lasari,Laki-laki,26,Manajemen,2020,NA,Mandiri,Paruh Waktu,17.3,97.4,93.2,69.0,87,1692000.0,Ya,3.74,Cumlaude
+2300414,Yusuf Pratama,Perempuan,25,Administrasi Bisnis,2022,Manado,Mandiri,,,79.33858603315603,69.3,63.8,109,,Ya,3.22,Normal
+2400589,Rizky Mardani,Perempuan,23,Akuntansi,2021,Tolitoli,Beasiswa,Penuh Waktu,17.7,62.3,81.6,98.4,103,,Tidak,3.81,Cumlaude
+2100190,Rizky Wijaya,Perempuan,21,Administrasi Bisnis,2022,Tolitoli,SNBT,Penuh Waktu,17.1,82.5,58.8,52.1,133,1165000.0,Ya,2.63,Normal
+2400894,Agus Tandiari,Laki-laki,21,Akuntansi,2022,Kendari,SNBP,Paruh Waktu,16.4,86.0,69.8,60.7,121,1978000.0,Ya,3.34,Normal
+2200934,Dewi Sulistyo,Laki-laki,25,Administrasi Bisnis,2022,Manado,SNBT,Tidak Bekerja,26.7,75.9,80.6,78.3,92,1906000.0,Tidak,3.39,Normal
+2100052,Putri Pakaya,PEREMPUAN,21,Manajemen,2024,Palu,SNBT,Tidak Bekerja,16.7,75.6,74.1,74.3,135,1313000.0,Tidak,3.31,Normal
+2100028,Wahyu Daeng,Laki-laki,21,Ilmu Komputer,2021,Kendari,SNBT,Paruh Waktu,16.5,64.79712161273747,79.3,68.6,126,1767000.0,Tidak,3.41,Normal
+2400065,Yusuf Wijaya,PEREMPUAN,18,Akuntansi,2020,Poso,SNBT,Penuh Waktu,14.1,70.6,53.7,73.5,83,1160000.0,Tidak,2.98,Normal
+2300770,Hasan Daeng,Perempuan,25,Ilmu Komputer,2024,Tolitoli,Beasiswa,Penuh Waktu,14.5,81.9,61.9,89.6,141,1.671.000,Tidak,3.44,Normal
+2300879,Eka Sulistyo,Laki-laki,22,Administrasi Bisnis,2021,Makassar,Mandiri,Tidak Bekerja,18.9,92.0,,64.4,99,2428000.0,Tidak,3.82,Cumlaude
+2200594,Indah Daeng,Perempuan,21,Ilmu Komputer,2024,Gorontalo,SNBP,Tidak Bekerja,8.4,97.1,61.4,70.3,124,1521000.0,Ya,3.28,Normal
+2400308,Taufik Daeng,Perempuan,18,Administrasi Bisnis,2024,NA,SNBT,Tidak Bekerja,11.7,85.6,67.4,78.66065330182032,138,2410000.0,Tidak,3.43,Normal
+2400386,Joko Mardani,Perempuan,26,AP,2020,Poso,SNBT,Penuh Waktu,13.8,79.0,79.5,52.6,82,1106000.0,Tidak,2.92,Normal
+2200354,Joko Daeng,Laki-laki,19,Administrasi Publik,2024,Tolitoli,Beasiswa,Paruh Waktu,17.7,100.0,65.8,78.9,121,,Ya,3.89,Cumlaude
+2100938,Lestari Saputra,Laki-laki,18,Adm. Publik,2022,Makassar,Mandiri,Penuh Waktu,18.4,63.0,47.3,68.8,126,1195000.0,Tidak,2.88,Normal
+2200159,Joko Pratama,Perempuan,24,Administrasi Publik,2024,Gorontalo,Beasiswa,Paruh Waktu,15.0,99.2,57.3,50.9,130,1168000.0,Tidak,2.85,Normal
+2200186,Ayu Pakaya,Perempuan,24,Akuntansi,2021,Palu,SNBT,,17.2,90.8,64.2,68.5,101,,Tidak,3.15,Normal
+2400244,Rizky Pratama,Perempuan,20,Ilmu Komputer,2022,Gorontalo,SNBP,Paruh Waktu,18.0,93.8,,45.2,135,1265000.0,Tidak,2.63,Normal
+2500786,Wahyu Lapasere,laki laki,24,Manajemen,2023,Kendari,SNBT,Paruh Waktu,12.6,94.17009950568618,59.0,81.1,111,1.681.000,Tidak,3.33,Normal
+2500901,Dewi Sulistyo,Laki-laki,19,Administrasi Publik,2023,Tolitoli,Mandiri,Paruh Waktu,20.3,75.6,66.9,83.0,121,1425000.0,Ya,3.45,Normal
+2100157,Andi Kurniawan,Laki-laki,25,Administrasi Publik,2024,Palu,Beasiswa,Paruh Waktu,24.5,97.1,83.5,70.15125699330274,133,1460000.0,Ya,3.54,Cumlaude
+2200126,Wahyu Pakaya,Perempuan,25,Administrasi Bisnis,2021,Gorontalo,SNBT,Paruh Waktu,13.3,96.6,85.8,78.0,131,1472000.0,Ya,3.88,Cumlaude
+2200322,Nur Lamato,Laki-laki,19,Administrasi Bisnis,2024,Gorontalo,SNBP,Tidak Bekerja,20.7,94.9,69.1,72.7,96,1539000.0,Ya,3.21,Normal
+2200783,Dewi Wijaya,Perempuan,23,Administrasi Bisnis,2023,Mamuju,SNBT,Paruh Waktu,9.1,75.5,73.0,76.9,108,1603000.0,Tidak,3.62,Cumlaude
+2200212,Muh. Sulistyo,Perempuan,20,Manajemen,2024,Donggala,SNBP,Tidak Bekerja,17.4,90.60496058863707,77.9,82.8,83,2660000.0,Ya,3.38,Normal
+2200103,Muh. Pakaya,Perempuan,19,Administrasi Bisnis,2021,Makassar,SNBP,Tidak Bekerja,14.4,99.1,,48.87730117298532,84,966000.0,Ya,3.22,Normal
+2100701,Yusuf Kurniawan,Perempuan,23,Adm. Publik,2023,Donggala,SNBP,Tidak Bekerja,14.2,88.9,87.8,81.7,101,,Tidak,3.9,Cumlaude
+2100520,Agus Tandiari,Perempuan,26,Ilmu Komputer,2020,Luwuk,SNBP,Paruh Waktu,10.7,84.3,82.7,77.4,89,1787000.0,Tidak,3.62,Cumlaude
+2400893,Muh. Mardani,Perempuan,25,Administrasi Bisnis,2022,Poso,SNBT,,14.6,77.6,90.5,79.5,120,1596000.0,Tidak,3.8,Cumlaude
+2300228,Agus Saputra,Perempuan,23,Ilmu Komputer,2023,Manado,SNBP,Paruh Waktu,10.6,70.4,81.4,79.1,141,676000.0,Tidak,3.65,Cumlaude
+2200917,Citra Rahman,Perempuan,26,Administrasi Publik,2020,Donggala,SNBP,Tidak Bekerja,13.2,95.32989091886122,93.0,63.77737040430251,113,965000.0,Tidak,3.71,Cumlaude
+2100182,Nur Pakaya,Perempuan,26,Akuntansi,2023,Manado,SNBP,Tidak Bekerja,17.0,75.8,62.4,50.5,107,2330000.0,Tidak,2.64,Normal
+2400702,Taufik Wijaya,Laki2,25,Administrasi Bisnis,2024,Palu,SNBT,Tidak Bekerja,20.1,98.6,57.2,51.7,109,,Ya,2.89,Normal
+2200728,Rahmat Masdin,Perempuan,25,Administrasi Bisnis,2020,Gorontalo,Mandiri,Paruh Waktu,11.5,79.13199396459595,57.7,47.9,122,2184000.0,Tidak,2.63,Normal
+2200197,Putri Nugroho,perempuan,18,Administrasi Bisnis,2021,Kendari,Mandiri,Paruh Waktu,12.9,77.0,80.1,70.3,83,2486000.0,Tidak,3.28,Normal
+2100841,Kurnia Masdin,Perempuan,18,Administrasi Publik,2024,Luwuk,SNBP,Tidak Bekerja,23.8,83.5,66.5,70.8,138,1731000.0,Tidak,3.38,Normal
+2100462,Yusuf Wijaya,Perempuan,19,Ilmu Komputer,2024,Luwuk,SNBP,Paruh Waktu,6.7,80.1,72.8,84.8,123,2768000.0,Ya,3.41,Normal
+2200451,Budi Rahman,Wanita,26,Administrasi Bisnis,2024,NA,Mandiri,Tidak Bekerja,9.1,93.1,66.1,62.0,80,1495000.0,Ya,3.34,Normal
+2500953,Eka Pratama,Laki-laki,18,Administrasi Publik,2023,Gorontalo,SNBP,Tidak Bekerja,8.0,88.4,52.3,84.9,88,1732000.0,Ya,3.42,Normal
+2400976,Citra Daeng,Wanita,22,Ilmu Komputer,2021,Luwuk,Beasiswa,Tidak Bekerja,,92.7,66.7,65.6,99,1963000.0,Tidak,3.28,Normal
+2200826,Ayu Rahman,Perempuan,25,Akuntansi,2021,Kendari,SNBT,Tidak Bekerja,9.9,90.4,90.4,71.0,130,1386000.0,Tidak,3.72,Cumlaude
+2200486,Taufik Pratama,Laki-laki,21,Manajemen,2023,Kendari,SNBT,Tidak Bekerja,13.6,77.4,73.8,51.8,99,1626000.0,Ya,2.85,Normal
+2500050,Joko Lapasere,Perempuan,23,Ilmu Komputer,2020,Palu,SNBP,Tidak Bekerja,12.2,88.1,75.9,56.1,134,1611000.0,Tidak,3.14,Normal
+2200415,Agus Lapasere,Laki-laki,24,Administrasi Publik,2024,Donggala,SNBT,Penuh Waktu,13.9,82.9,81.6,86.6,133,2032000.0,Ya,3.93,Cumlaude
+2500676,Gita Lapasere,Perempuan,25,Manajemen,2021,Donggala,SNBT,Tidak Bekerja,9.0,97.0,74.4,57.1,111,1797000.0,Ya,3.43,Normal
+2100366,Rahmat Tandiari,Laki-laki,23,Ilmu Komputer,2020,Kendari,Mandiri,Tidak Bekerja,12.6,94.2,97.4,81.2,103,1737000.0,Ya,4.0,Cumlaude
+2200534,Siti Pakaya,Perempuan,20,Administrasi Publik,2022,Gorontalo,SNBP,Penuh Waktu,12.4,83.4,69.7,75.1,82,,Ya,3.96,Cumlaude
+2500234,Lestari Kurniawan,Perempuan,19,Manajemen,2024,Poso,Beasiswa,Tidak Bekerja,15.1,83.9,75.0,63.8,127,1180000.0,Ya,3.17,Normal
+2100489,Siti Masdin,Perempuan,18,Ilmu Komputer,2020,Manado,SNBP,Penuh Waktu,13.2,83.0,,76.1,97,1504000.0,Tidak,3.56,Cumlaude
+2300942,Siti Pratama,Laki-laki,22,Manajemen,2022,Kendari,SNBP,Paruh Waktu,7.3,90.6,78.0,54.1,107,1339000.0,Ya,3.14,Normal
+2300581,Eka Nugroho,Perempuan,24,Ilmu Komputer,2020,Mamuju,SNBP,Tidak Bekerja,14.9,70.8,50.2,83.00157804198204,96,1560000.0,Tidak,3.0,Normal
+2400401,Wahyu Wijaya,Perempuan,21,Administrasi Bisnis,2020,Kendari,Beasiswa,Paruh Waktu,,100.0,,53.6,93,2226000.0,Ya,3.44,Normal
+2400698,Gita Lasari,Laki-laki,24,Ilmu Komputer,2022,Luwuk,Mandiri,,12.0,78.7,67.3,73.5,129,1641000.0,Tidak,2.99,Normal
+2400438,Sri Pratama,Perempuan,26,Manajemen,2021,Makassar,SNBP,Tidak Bekerja,8.5,82.9,78.2,59.2,120,1113000.0,Tidak,3.21,Normal
+2400527,Hasan Lapasere,Perempuan,21,Administrasi Bisnis,2024,Mamuju,Mandiri,Paruh Waktu,17.8,77.7,85.2,71.7,93,1666000.0,Ya,3.49,Normal
+2200716,Citra Kurniawan,Perempuan,23,Ilmu Komputer,2022,Tolitoli,SNBP,Tidak Bekerja,19.1,99.8,45.2,43.7,109,795000.0,Ya,2.58,Normal
+2400368,Hasan Daeng,Laki-laki,18,Manajemen,2020,Makassar,SNBT,Paruh Waktu,13.0,92.4,79.2,78.0,98,952000.0,Ya,3.85,Cumlaude
+2400151,Nur Pratama,Laki-laki,25,Administrasi Bisnis,2022,Gorontalo,SNBT,Paruh Waktu,16.6,96.7,71.5,68.1,133,1232000.0,Ya,3.39,Normal
+2400944,Taufik Hidayat,Perempuan,20,Akuntansi,2020,Makassar,SNBT,Paruh Waktu,9.9,75.8,68.1,67.2120575866615,80,1579000.0,Ya,2.99,Normal
+2300883,Budi Sulistyo,Laki-laki,24,Administrasi Publik,2023,Luwuk,SNBP,,16.7,74.2,78.0,71.1,125,1157000.0,Tidak,3.48,Normal
+2300029,Eka Wijaya,Laki-laki,22,Ilmu Komp.,2024,Mamuju,SNBT,Paruh Waktu,18.7,76.6,75.6,88.1,104,2433000.0,Tidak,3.54,Cumlaude
+2200878,Andi Kurniawan,Perempuan,19,Administrasi Bisnis,2024,Makassar,SNBP,Tidak Bekerja,17.2,70.65864032559753,71.9,60.2,119,1095000.0,Ya,3.0,Normal
+2500238,Kurnia Masdin,Laki-laki,26,Akuntansi,2022,Palu,Mandiri,Tidak Bekerja,15.1,80.92265986068207,68.8,80.6,118,1881000.0,Ya,3.49,Normal
+2200024,Sri Masdin,Laki-laki,23,Ilmu Komputer,2020,Tolitoli,Mandiri,Paruh Waktu,22.1,76.8,66.7,66.3,123,1121000.0,Tidak,3.27,Normal
+2400943,Citra Pakaya,Perempuan,21,Ilmu Komputer,2023,Manado,SNBT,Tidak Bekerja,12.1,83.3,52.8,77.8,83,1590000.0,Ya,3.06,Normal
+2100723,Dewi Pakaya,Perempuan,22,Manajemen,2023,Tolitoli,SNBT,Tidak Bekerja,12.0,86.2,68.0,78.9,101,1.186.000,Ya,3.36,Normal
+2300323,Agus Kurniawan,Perempuan,22,Akuntansi,2024,Donggala,SNBP,,17.8,90.63148008647433,48.2,72.6,129,2509000.0,Ya,3.04,Normal
+2400628,Rahmat Nugroho,Perempuan,25,Ilmu Komputer,2023,Luwuk,Mandiri,Tidak Bekerja,23.0,93.1,69.8,82.5,126,2356000.0,Ya,3.72,Cumlaude
+2300933,Indah Rahman,Laki-laki,24,Manajemen,2024,Manado,Beasiswa,,19.6,89.9,82.9,76.3,95,1085000.0,Tidak,3.62,Cumlaude
+2500848,Rizky Pratama,L,23,Akuntansi,2024,Luwuk,Mandiri,Tidak Bekerja,15.3,89.0,86.1,86.71279516079919,97,,Ya,3.79,Cumlaude
+2200379,Dewi Lamato,PEREMPUAN,23,Ilmu Komputer,2024,Kendari,SNBT,Tidak Bekerja,20.9,100.0,67.6,76.8575857686494,83,864000.0,Ya,3.24,Normal
+2500558,Dewi Daeng,Perempuan,23,Manajemen,2022,Luwuk,SNBT,Tidak Bekerja,16.5,64.1928085767488,71.6,45.88544759268082,133,1828000.0,Tidak,2.77,Normal
+2500515,Kurnia Nugroho,perempuan,25,Ilmu Komputer,2022,Donggala,Mandiri,Tidak Bekerja,7.9,82.7,,65.7,135,991000.0,Ya,3.1,Normal
+2400030,Siti Pratama,Laki-laki,22,Manajemen,2022,Poso,SNBP,,7.0,98.2023843488361,64.3,65.5,81,2709000.0,Tidak,3.16,Normal
+2300666,Siti Wijaya,Perempuan,22,Manajemen,2021,Kendari,Mandiri,Paruh Waktu,9.3,90.4,90.1,64.9748234533793,93,1872000.0,Ya,3.98,Cumlaude
+2500968,Indah Lamato,Perempuan,21,Akuntansi,2021,Manado,Mandiri,Paruh Waktu,19.0,79.3,79.3,74.4,104,1227000.0,Ya,3.63,Cumlaude
+2300350,Siti Wijaya,Perempuan,23,Akuntansi,2024,Makassar,SNBT,,,88.81496278830758,100.0,68.6,108,,Tidak,3.96,Cumlaude
+2200939,Fajar Pratama,Perempuan,18,Ilmu Komputer,2021,Donggala,Mandiri,Tidak Bekerja,15.2,80.3,51.9,64.1,138,1443000.0,Ya,2.76,Normal
+2200754,Gita Kurniawan,Perempuan,18,Administrasi Publik,2024,Tolitoli,SNBT,Tidak Bekerja,11.5,81.7,60.2,70.6,113,1109000.0,Ya,3.08,Normal
+2200051,Putri Pratama,Wanita,24,Administrasi Bisnis,2023,Manado,Beasiswa,Tidak Bekerja,17.1,80.71771803290108,60.9,46.216056007080894,97,2290000.0,Ya,2.74,Normal
+2500507,Yusuf Kurniawan,Laki-laki,22,Ilmu Komputer,2021,Palu,SNBT,,12.0,76.8,73.9,59.8,93,1858000.0,Tidak,2.95,Normal
+2100036,Siti Pakaya,Laki-laki,19,Ilmu Komputer,2021,Mamuju,SNBP,Tidak Bekerja,11.4,80.3,62.2,45.5,126,1158000.0,Ya,2.34,Normal
+2100609,Taufik Pakaya,Perempuan,20,Administrasi Publik,2024,NA,SNBT,,27.7,82.6,72.5,60.4,99,1135000.0,Ya,3.03,Normal
+2100078,Muh. Hidayat,Perempuan,23,Administrasi Bisnis,2020,Manado,SNBP,Tidak Bekerja,17.6,83.78333480414588,79.6,59.9,121,1250000.0,Tidak,3.42,Normal
+2500013,Lestari Sulistyo,Laki-laki,26,Akuntansi,2024,Luwuk,Mandiri,Penuh Waktu,9.2,65.2,78.0,67.0937530768325,137,1085000.0,Tidak,3.19,Normal
+2300675,Sri Hidayat,Laki-laki,19,Akuntansi,2021,Kendari,SNBT,Tidak Bekerja,17.9,72.5,76.9,100.0,90,1107000.0,Ya,4.0,Cumlaude
+2400058,Agus Tandiari,Perempuan,19,Akuntansi,2022,Makassar,SNBP,Tidak Bekerja,9.3,69.9,79.8,57.6,126,1418000.0,Tidak,3.13,Normal
+2500575,Putri Tandiari,PEREMPUAN,19,Administrasi Bisnis,2022,Makassar,Mandiri,Tidak Bekerja,16.9,79.5,82.7,57.0,94,1732000.0,Ya,3.31,Normal
+2100233,Lestari Lamato,Laki-laki,24,Administrasi Bisnis,2022,Manado,Mandiri,Paruh Waktu,12.2,96.0,61.8,70.1,106,1022000.0,Ya,3.27,Normal
+2200984,Budi Lapasere,Laki-laki,25,Akuntansi,2020,Luwuk,SNBP,Tidak Bekerja,7.8,86.8,74.7,56.2,97,1648000.0,Tidak,3.03,Normal
+2500859,Muh. Daeng,Laki-laki,23,Ilmu Komputer,2022,Palu,SNBT,Paruh Waktu,17.1,82.3,90.9,61.9,100,1555000.0,Tidak,3.55,Cumlaude
+2300412,Andi Wijaya,Perempuan,21,Administrasi Bisnis,2023,Kendari,Mandiri,Paruh Waktu,17.5,83.6,59.5,55.3,121,1288000.0,Tidak,2.74,Normal
+2200478,Ayu Lasari,Perempuan,20,Manajemen,2024,Makassar,SNBP,Tidak Bekerja,9.8,88.3,83.3,64.4,109,1371000.0,Tidak,3.4,Normal
+2300193,Siti Mardani,Laki-laki,21,Akuntansi,2024,Poso,SNBP,Tidak Bekerja,13.8,89.5,,86.9,143,2357000.0,Ya,3.73,Cumlaude
+2100384,Andi Hidayat,Perempuan,19,Ilmu Komputer,2022,Gorontalo,Mandiri,Paruh Waktu,16.8,88.5,72.6,84.4,127,963000.0,Tidak,3.8,Cumlaude
+2100404,Muh. Nugroho,Perempuan,22,Administrasi Bisnis,2021,Poso,SNBT,Tidak Bekerja,15.3,69.94771973539052,92.6,81.5,135,3374000.0,Tidak,3.6,Cumlaude
+2500590,Agus Pratama,Perempuan,19,Administrasi Bisnis,2021,Makassar,Mandiri,Paruh Waktu,20.2,100.0,80.5,75.50211345834015,123,968000.0,Tidak,3.54,Cumlaude
+2400045,Sri Masdin,Perempuan,19,Administrasi Publik,2022,Luwuk,SNBP,Tidak Bekerja,12.6,82.6,68.5,53.4,143,1567000.0,Tidak,3.01,Normal
+2300487,Eka Saputra,Laki-laki,24,Administrasi Publik,2020,Kendari,SNBP,Paruh Waktu,18.8,75.2,56.3,90.9,108,1618000.0,Ya,3.4,Normal
+2400669,Rizky Nugroho,Perempuan,26,Administrasi Bisnis,2021,Gorontalo,Mandiri,Paruh Waktu,9.2,72.9,83.9,73.38228455236484,96,1243000.0,Ya,3.62,Cumlaude
+2200024,Sri Masdin,Laki-laki,23,Ilmu Komputer,2020,Tolitoli,Mandiri,Paruh Waktu,22.1,76.8,66.7,66.3,123,1121000.0,Tidak,3.27,Normal
+2400789,Andi Kurniawan,Perempuan,18,Administrasi Publik,2020,Manado,SNBT,Tidak Bekerja,18.9,88.1,83.2,71.2,127,1419000.0,Ya,3.62,Cumlaude
+2200471,Andi Tandiari,Laki-laki,20,Ilmu Komputer,2022,Manado,SNBP,Paruh Waktu,19.9,82.1,69.7,72.8,131,758000.0,Tidak,3.32,Normal
+2200256,Fajar Rahman,Perempuan,26,Akuntansi,2022,Palu,Beasiswa,Tidak Bekerja,16.9,99.0,64.8,66.8,110,1069000.0,Tidak,3.28,Normal
+2300560,Rizky Sulistyo,Perempuan,26,Ilmu Komputer,2023,Poso,SNBT,Paruh Waktu,17.5,73.6,77.7,79.89132231336515,102,1340000.0,Tidak,3.5,Cumlaude
+2500820,Citra Lamato,Laki-laki,24,Administrasi Bisnis,2023,Gorontalo,Mandiri,Tidak Bekerja,8.6,89.7,63.5,105.53761594305408,82,1559000.0,Ya,3.67,Cumlaude
+2300912,Gita Pakaya,Perempuan,22,Ilmu Komputer,2024,Gorontalo,SNBP,Tidak Bekerja,20.8,95.0,73.5,78.5,110,1319000.0,Ya,3.78,Cumlaude
+2100491,Rahmat Lapasere,Laki-laki,23,Ilmu Komputer,2020,Tolitoli,SNBP,Tidak Bekerja,1.0,78.8,,64.9,142,1286000.0,Tidak,3.21,Normal
+2400547,Taufik Kurniawan,Laki-laki,22,Manajemen,2024,Donggala,Mandiri,Tidak Bekerja,15.2,82.0,79.7,73.01976260607105,114,844000.0,Tidak,3.39,Normal
+2400246,Lestari Nugroho,PEREMPUAN,22,AKUNTANSI,2023,Kendari,Mandiri,Tidak Bekerja,20.1,71.2,83.0,100.0,139,1656000.0,Ya,4.0,Cumlaude
+2400122,Taufik Rahman,Perempuan,26,Akuntansi,2024,Mamuju,SNBP,Tidak Bekerja,14.3,86.6,79.1,68.1,108,1407000.0,Tidak,3.72,Cumlaude
+2400578,Kurnia Lasari,Perempuan,21,Administrasi Publik,2022,Luwuk,Mandiri,Paruh Waktu,16.9,90.0,67.1,64.9,90,1931000.0,Ya,3.44,Normal
+2400706,Joko Hidayat,Perempuan,20,Administrasi Bisnis,2021,Manado,SNBT,Paruh Waktu,21.6,70.6,75.7,59.1,85,973000.0,Tidak,2.96,Normal
+2400689,Siti Daeng,Laki-laki,20,Ilmu Komputer,2024,Palu,Mandiri,Penuh Waktu,9.2,91.5,78.1,58.4791676424243,86,1285000.0,Ya,3.58,Cumlaude
+2100206,Citra Kurniawan,Laki-laki,23,Akuntansi ,2023,Manado,SNBT,Paruh Waktu,11.0,73.9,79.1,59.37014794485878,92,633000.0,Tidak,3.16,Normal
+2100639,Taufik Wijaya,L,26, Manajemen ,2024,Kendari,SNBT,Tidak Bekerja,12.1,76.9,81.2,74.37267641185407,91,,Ya,3.48,Normal
+2300176,Taufik Saputra,Perempuan,25,Akuntansi,2022,NA,SNBP,,18.2,92.6,77.9,62.6,136,1664000.0,Ya,3.23,Normal
+2300776,Ayu Wijaya,Laki-laki,22,Manajemen,2024,Gorontalo,Mandiri,Paruh Waktu,19.2,88.3,83.8,70.0,130,861000.0,Tidak,3.62,Cumlaude
+2400816,Nur Sulistyo,perempuan,18,Akuntansi,2024,Kendari,SNBT,Tidak Bekerja,13.7,78.6,67.2,68.0,84,1293000.0,Tidak,3.21,Normal
+2500000,Dewi Lapasere,Perempuan,26,Manajemen,2020,Poso,SNBP,Tidak Bekerja,12.3,90.8,75.2,90.5,117,1594000.0,Tidak,4.0,Cumlaude
+2500226,Nur Mardani,Perempuan,24,Ilmu Komputer,2023,Manado,SNBP,,18.2,83.7,64.6,71.2,133,1.603.000,Tidak,3.02,Normal
+2500947,Joko Pratama,P,21,Ilmu Komputer,2022,Kendari,Beasiswa,Paruh Waktu,10.7,85.3,68.3,56.6,144,,Tidak,2.86,Normal
+2100760,Muh. Sulistyo,Perempuan,19,Manajemen,2021,Mamuju,SNBT,,15.7,99.0,75.1,80.3,108,1882000.0,Ya,3.74,Cumlaude
+2200249,Citra Masdin,Perempuan,19,Ilmu Komputer,2020,Manado,SNBT,Paruh Waktu,14.8,76.7236427632031,49.1,67.2,94,2309000.0,Ya,3.03,Normal
+2300469,Putri Lamato,Laki-laki,20,Ilmu Komputer,2023,Palu,Beasiswa,Tidak Bekerja,8.2,84.8,67.7,72.7,120,1168000.0,Ya,3.18,Normal
+2500108,Indah Nugroho,Laki-laki,21,Manajemen,2020,Makassar,SNBP,Tidak Bekerja,25.0,76.5,94.3,56.8,140,1633000.0,Ya,3.57,Cumlaude
+2400426,Putri Rahman,Laki-laki,22,Administrasi Bisnis,2024,Tolitoli,SNBT,Penuh Waktu,13.9,79.0,80.3,69.4,125,2283000.0,Ya,3.65,Cumlaude
+2100705,Rizky Wijaya,Laki-laki,22,Ilmu Komputer,2020,Kendari,SNBT,Paruh Waktu,17.0,87.6,59.6,71.1086552117196,134,1199000.0,Tidak,3.2,Normal
+2300005,Hasan Saputra,Laki-laki,26,Adm. Publik,2020,Palu,Mandiri,,15.7,82.6,78.0,75.2,139,937000.0,Tidak,3.41,Normal
+2100260,Wahyu Sulistyo,Perempuan,26,Manajemen,2024,Luwuk,Mandiri,Paruh Waktu,7.5,81.8,72.7,43.7,83,,Ya,2.58,Normal
+2500940,Lestari Lasari,Laki-laki,18,Administrasi Publik,2021,Luwuk,Beasiswa,Paruh Waktu,10.9,72.4,,65.0,130,1775000.0,Tidak,3.28,Normal
+2400313,Kurnia Pakaya,Laki-laki,25,Administrasi Publik,2020,Mamuju,SNBT,Tidak Bekerja,9.7,89.1,52.2,64.1,85,913000.0,Tidak,2.58,Normal
+2200596,Lestari Lasari,Laki-laki,26,administrasi bisnis,2024,Luwuk,Mandiri,Paruh Waktu,5.2,82.8,65.0,82.7,115,1920000.0,Tidak,3.31,Normal
+2200739,Ayu Wijaya,Laki-laki,20,Administrasi Publik,2021,Donggala,SNBT,Paruh Waktu,22.9,85.9,67.0,78.6,86,,Ya,3.65,Cumlaude
+2200059,Eka Nugroho,Perempuan,21,Akuntansi,2024,Manado,SNBT,Tidak Bekerja,19.1,75.1,65.1,74.5,105,1892000.0,Ya,3.16,Normal
+2300345,Indah Kurniawan,Perempuan,23,Administrasi Bisnis,2023,Manado,SNBP,Tidak Bekerja,7.3,84.9,70.4,75.8,92,,Tidak,3.59,Cumlaude
+2100047,Indah Masdin,Perempuan,25,Akuntansi,2022,Gorontalo,SNBP,Paruh Waktu,14.5,80.9,77.3,54.9,101,1257000.0,Tidak,3.02,Normal
+2500872,Sri Lasari,Perempuan,20,Manajemen,2022,Makassar,Mandiri,Paruh Waktu,15.7,89.3,66.3,79.9,112,1362000.0,Tidak,3.21,Normal
+2200302,Siti Kurniawan,Laki-laki,20,Manajemen,2021,Palu,SNBT,Paruh Waktu,13.6,70.8,69.6,63.9,137,2263000.0,Ya,3.15,Normal
+2200810,Hasan Wijaya,Perempuan,26,Akuntansi,2024,Palu,SNBP,Paruh Waktu,13.7,70.2,65.0,57.7,108,3486000.0,Ya,2.87,Normal
+2100632,Lestari Sulistyo,Perempuan,23,Manajemen,2024,Gorontalo,SNBT,Tidak Bekerja,21.4,86.56112612510947,85.7,89.1,133,1625000.0,Ya,4.0,Cumlaude
+2100286,Wahyu Tandiari,Perempuan,23,Administrasi Bisnis,2022,Mamuju,SNBP,,5.5,98.7,74.6,76.42228604705855,93,1790000.0,Tidak,3.61,Cumlaude
+2200929,Kurnia Mardani,Perempuan,23,Administrasi Bisnis,2023,Tolitoli,Mandiri,Tidak Bekerja,14.0,88.79348099651331,78.7,56.5,104,1408000.0,Tidak,3.06,Normal
+2500758,Taufik Tandiari,Perempuan,18,Ilmu Komputer,2024,Gorontalo,Mandiri,Tidak Bekerja,,81.8,69.4,80.8,116,1111000.0,Tidak,3.52,Cumlaude
+2100855,Rizky Lapasere,Laki-laki,18,Administrasi Bisnis,2022,Kendari,SNBP,Penuh Waktu,11.7,88.6,81.3,83.2,83,2127000.0,Tidak,3.89,Cumlaude
+2500678,Andi Pratama,Laki-laki,25,Administrasi Bisnis,2022,Kendari,Mandiri,Tidak Bekerja,18.2,79.1,82.7,67.6,140,933000.0,Ya,3.74,Cumlaude
+2200312,Indah Masdin,Perempuan,22,Administrasi Bisnis,2022,Kendari,SNBT,Tidak Bekerja,6.3,73.0,69.4,56.46125641382347,115,,Ya,2.73,Normal
+2100969,Ayu Lasari,Perempuan,20,Administrasi Publik,2021,Mamuju,SNBP,Paruh Waktu,26.5,75.3,86.2,73.3,103,2905000.0,Tidak,3.73,Cumlaude
+2400721,Gita Saputra,Perempuan,22,Administrasi Publik,2023,Mamuju,Mandiri,,12.3,68.5,67.1,79.1,104,1522000.0,Tidak,3.31,Normal
+2300967,Putri Tandiari,Perempuan,26,Ilmu Komputer,2022,Poso,SNBP,Tidak Bekerja,10.5,83.3,67.4,59.9,123,,Ya,3.15,Normal
+2500836,Eka Tandiari,Laki-laki,20,Manajemen,2023,Makassar,SNBP,Paruh Waktu,13.0,86.4232324527919,74.6,52.8,80,,Tidak,3.24,Normal
+2300734,Taufik Mardani,Laki-laki,20,Akuntansi,2022,Gorontalo,SNBP,Tidak Bekerja,1.0,91.3,64.1,66.5,82,1952000.0,Ya,3.19,Normal
+2400725,Rahmat Lapasere,Perempuan,19,Administrasi Publik,2024,Donggala,Mandiri,Tidak Bekerja,16.9,90.1,65.2,70.5,117,720000.0,Tidak,3.43,Normal
+2500459,Ayu Lamato,Laki-laki,18,Akuntansi,2024,Donggala,Beasiswa,Penuh Waktu,26.5,98.9,,78.4,123,1819000.0,Ya,3.33,Normal
+2400876,Siti Kurniawan,Laki-laki,18,Manajemen,2022,Tolitoli,Mandiri,Tidak Bekerja,16.3,98.9,50.8,69.5,127,1211000.0,Ya,2.9,Normal
+2400460,Indah Rahman,Perempuan,24,Administrasi Bisnis,2023,Palu,SNBT,Paruh Waktu,15.0,91.6,80.2,82.0,107,1776000.0,Ya,3.73,Cumlaude
+2300383,Gita Tandiari,PEREMPUAN,25,Ilmu Komputer,2021,Manado,SNBT,Tidak Bekerja,,84.1,71.4,85.1,93,982000.0,Tidak,3.48,Normal
+2400017,Joko Nugroho,Perempuan,24,Administrasi Bisnis,2023,Luwuk,SNBT,Paruh Waktu,14.6,82.9,85.5,55.5,119,575000.0,Tidak,3.27,Normal
+2300808,Gita Hidayat,Perempuan,19,Administrasi Publik,2022,Donggala,SNBP,Tidak Bekerja,13.2,83.3,61.9,59.4,99,1708000.0,Tidak,2.95,Normal
+2100042,Indah Saputra,Laki-laki,18,Administrasi Bisnis,2024,Gorontalo,Mandiri,Tidak Bekerja,9.1,96.7,60.7,52.8,137,1197000.0,Ya,2.63,Normal
+2300880,Fajar Daeng,Laki-laki,23,Administrasi Publik,2024,Luwuk,SNBP,Tidak Bekerja,17.9,88.4,51.4,77.1,115,2170000.0,Tidak,2.9,Normal
+2500924,Citra Pratama,Laki-laki,24,Akuntansi,2020,Palu,SNBT,Tidak Bekerja,12.5,100.0,,57.9,104,1632000.0,Ya,3.46,Normal
+2100892,Kurnia Lasari,Laki-laki,18,Administrasi Bisnis,2021,Donggala,SNBT,,3.1,81.3,58.5,93.3,84,1288000.0,Ya,3.67,Cumlaude
+2500959,Rizky Sulistyo,Perempuan,25,Akuntansi,2021,Tolitoli,Mandiri,Paruh Waktu,17.0,90.0,85.3,100.0,87,1009000.0,Ya,4.0,Cumlaude
+2400511,Eka Sulistyo,Laki-laki,24,Akuntansi,2024,Mamuju,SNBP,Tidak Bekerja,14.2,93.9,59.8,55.7,116,637000.0,Tidak,3.0,Normal
+2300076,Eka Kurniawan,Perempuan,22,Administrasi Bisnis,2023,Kendari,Mandiri,,7.3,71.41909897589949,77.3,74.3,117,1007000.0,Ya,3.58,Cumlaude
+2300141,Andi Wijaya,Laki-laki,21,Administrasi Bisnis,2023,Gorontalo,SNBT,Penuh Waktu,17.1,97.26081189362743,68.6,72.1,123,2583000.0,Ya,3.51,Cumlaude
+2100945,Yusuf Pakaya,Laki-laki,25,IlKom,2023,Manado,SNBP,Tidak Bekerja,9.0,72.6,80.0,52.5,114,1284000.0,Ya,3.32,Normal
+2500585,Andi Nugroho,Laki-laki,20,Administrasi Bisnis,2023,Gorontalo,SNBT,Penuh Waktu,12.4,92.8,84.6,69.1,87,1946000.0,Ya,3.78,Cumlaude
+2200851,Taufik Pratama,Perempuan,20,Akuntansi,2020,NA,Mandiri,Tidak Bekerja,18.4,77.6,86.2,61.3,113,1960000.0,Tidak,3.4,Normal
+2200787,Hasan Pakaya,Laki-laki,20,Administrasi Bisnis,2024,Makassar,Mandiri,Tidak Bekerja,22.0,90.6,65.7,84.5,93,1481000.0,Tidak,3.61,Cumlaude
+2300922,Agus Masdin,Wanita,19,Akuntansi,2023,Poso,SNBT,Paruh Waktu,4.7,88.65019272735874,68.3,79.2,130,1771000.0,Ya,3.54,Cumlaude
+2200152,Rahmat Mardani,Perempuan,22,Akuntansi,2022,Mamuju,SNBT,Tidak Bekerja,14.0,100.0,60.7,54.4,115,1509000.0,Tidak,2.96,Normal
+2400032,Rizky Hidayat,Laki2,20,Manajemen,2023,Donggala,SNBP,Paruh Waktu,11.8,99.9,70.4,87.9,107,1529000.0,Tidak,3.69,Cumlaude
+2100015,Agus Lapasere,Laki-laki,25,akuntansi,2024,NA,Beasiswa,Tidak Bekerja,7.8,84.7,79.3,74.2,132,789000.0,Tidak,3.56,Cumlaude
+2500435,Indah Tandiari,Perempuan,26,Manajemen,2024,Luwuk,SNBP,Tidak Bekerja,7.8,89.4,90.3,95.9,131,2410000.0,Ya,4.0,Cumlaude
+2200498,Joko Saputra,Laki-laki,23,Ilmu Komputer,2021,Kendari,Mandiri,Paruh Waktu,,77.0,57.8,100.0,110,,Ya,3.83,Cumlaude
+2100619,Yusuf Lapasere,Laki-laki,23,Akuntansi,2024,Gorontalo,SNBP,Tidak Bekerja,2.5,75.3,62.4,83.3,133,1140000.0,Ya,3.21,Normal
+2100505,Dewi Lamato,Perempuan,19,Akuntansi,2024,Manado,SNBP,Tidak Bekerja,12.6,77.9,42.3,78.3,105,1528000.0,Tidak,3.05,Normal
+2200528,Fajar Pratama,Perempuan,22,Akuntansi,2024,Poso,Beasiswa,Tidak Bekerja,13.8,94.3,88.8,74.2,134,641.000,Tidak,3.92,Cumlaude
+2400403,Wahyu Pratama,Laki-laki,26,Administrasi Bisnis,2023,Manado,SNBP,Tidak Bekerja,17.6,86.7,79.8,85.2,116,1726000.0,Tidak,4.0,Cumlaude
+2500659,Joko Tandiari,Perempuan,23,Akuntansi,2020,Makassar,SNBP,Paruh Waktu,15.5,77.2,85.2,72.3,111,1821000.0,Tidak,3.66,Cumlaude
+2300450,Indah Lasari,Perempuan,25,Ilmu Komputer,2021,Donggala,Mandiri,Tidak Bekerja,9.8,89.45959371607962,69.1,69.8963134834618,111,895000.0,Tidak,3.19,Normal
+2100766,Taufik Lamato,Perempuan,19,Administrasi Bisnis,2020,Manado,Mandiri,Tidak Bekerja,23.7,81.80666053472517,82.6,64.1,106,1724000.0,Tidak,3.47,Normal
+2200035,Rahmat Masdin,Laki-laki,24,Akuntansi,2020,Luwuk,SNBT,Tidak Bekerja,2.6,90.8,72.2,58.94894525258283,132,2127000.0,Tidak,3.04,Normal
+2400225,Yusuf Masdin,Laki-laki,18,Administrasi Bisnis,2020,Kendari,SNBT,Tidak Bekerja,8.7,75.49894739338991,91.4,85.6,120,979000.0,Ya,3.87,Cumlaude
+2500172,Muh. Sulistyo,Laki-laki,25,Akuntansi,2023,Poso,Mandiri,Tidak Bekerja,17.0,90.0,72.0,78.0,138,1912000.0,Ya,3.52,Cumlaude
+2400241,Yusuf Kurniawan,Laki-laki,23,Administrasi Bisnis,2024,Palu,Mandiri,Paruh Waktu,15.5,81.5,69.2,71.8,107,1228000.0,Tidak,3.32,Normal
+2400529,Hasan Sulistyo,Laki-laki,24,Ilmu Komputer,2020,Mamuju,SNBT,Paruh Waktu,21.1,81.8,61.7,73.6,99,1.248.000,Ya,3.1,Normal
+2200343,Eka Wijaya,Laki-laki,19,Akuntansi,2021,Gorontalo,SNBT,Tidak Bekerja,11.4,92.62168353308196,82.2,53.6,139,1186000.0,Tidak,3.35,Normal
+2200156,Agus Tandiari,perempuan,24,Administrasi Publik,2024,Donggala,SNBT,Paruh Waktu,19.3,87.3,73.9,69.76988707111309,85,1285000.0,Ya,3.49,Normal
+2100979,Rahmat Mardani,Perempuan,23,Manajemen,2020,Palu,SNBP,Tidak Bekerja,13.1,88.9,72.1,79.1,86,1441000.0,Tidak,3.53,Cumlaude
+2200748,Indah Rahman,P,21,Administrasi Publik,2024,Poso,Beasiswa,Tidak Bekerja,15.0,69.7,76.4,60.3,111,1.178.000,Ya,3.14,Normal
+2300882,Rahmat Mardani,Perempuan,18,Administrasi Bisnis,2022,Palu,SNBT,Paruh Waktu,5.5,102.98460110946203,79.7,81.03840331060808,115,1299000.0,Ya,3.48,Normal
+2200889,Taufik Wijaya,Laki2,26,Ilmu Komputer,2024,NA,SNBT,Tidak Bekerja,19.6,84.56870495860466,53.2,50.1,95,828000.0,Tidak,2.73,Normal
+2100506,Eka Saputra,Perempuan,25,Administrasi Publik,2021,Tolitoli,SNBP,Paruh Waktu,18.9,87.7,85.7,77.95957610978789,112,1749000.0,Ya,3.94,Cumlaude
+2500977,Yusuf Daeng,Laki-laki,19,Akuntansi,2021,Kendari,Beasiswa,Paruh Waktu,1.9,93.2,74.1,77.0,128,1591000.0,Tidak,3.52,Cumlaude
+2100555,Muh. Mardani,Laki-laki,20,Manajemen,2023,Palu,SNBT,Tidak Bekerja,6.8,100.0,67.0,70.0,132,3.241.000,Ya,3.12,Normal
+2500215,Citra Hidayat,Perempuan,21,Administrasi Publik,2022,Palu,SNBP,Tidak Bekerja,8.9,84.0,70.1,74.6,104,3080000.0,Tidak,3.56,Cumlaude
+2100208,Eka Pratama,Perempuan,18,Akuntansi,2020,Gorontalo,Mandiri,,5.4,78.8,58.4,48.9,100,1666000.0,Ya,2.29,Normal
+2500064,Hasan Pratama,Laki-laki,23,Administrasi Publik,2022,Gorontalo,SNBT,Paruh Waktu,14.5,65.6,78.0,75.3,91,796000.0,Tidak,3.4,Normal
+2500010,Rahmat Lapasere,Laki-laki,22,Manajemen,2024,Kendari,Beasiswa,Tidak Bekerja,2.5,93.23265431843382,80.4,86.1,131,2122000.0,Ya,3.93,Cumlaude
+2300928,Citra Tandiari,Perempuan,20,Administrasi Publik,2021,Tolitoli,Mandiri,Paruh Waktu,,85.0,63.4,53.0,97,1145000.0,Ya,3.0,Normal
+2500623,Muh. Tandiari,Laki-laki,20,Manajemen,2022,Tolitoli,Mandiri,Paruh Waktu,7.7,85.8,49.8,58.402305916877836,121,2.272.000,Tidak,2.9,Normal
+2100980,Kurnia Saputra,Perempuan,20,Administrasi Bisnis,2023,NA,SNBT,Tidak Bekerja,10.5,91.1,73.9,75.47443386759718,119,1304000.0,Tidak,3.85,Cumlaude
+2300178,Indah Hidayat,Laki-laki,25,Administrasi Bisnis,2021,Mamuju,SNBT,Paruh Waktu,13.4,72.7,85.3,74.7,94,2933000.0,Ya,3.6,Cumlaude
+2300252,Fajar Lapasere,Laki-laki,24,Manajemen ,2024,Gorontalo,SNBP,Paruh Waktu,11.1,63.819929845594054,64.1,78.9,104,953.000,Ya,3.22,Normal
+2100605,Yusuf Kurniawan,pria,20,Administrasi Publik,2020,Gorontalo,SNBP,Tidak Bekerja,12.3,76.2,73.5,51.2,144,1172000.0,Tidak,2.84,Normal
+2200603,Wahyu Pakaya,Perempuan,24,Akuntansi,2024,Manado,SNBP,Tidak Bekerja,12.7,75.0,73.7,57.4,99,2166000.0,Tidak,3.02,Normal
+2200805,Rizky Wijaya,Laki-laki,24,Akuntansi,2020,Manado,Beasiswa,Tidak Bekerja,6.6,94.7,67.2,80.1,124,1396000.0,Tidak,3.52,Cumlaude
+2500261,Gita Hidayat,L,21,Administrasi Publik,2021,Mamuju,SNBP,Tidak Bekerja,21.0,77.8,58.4,60.90033491204402,98,1196000.0,Tidak,3.06,Normal
+2300100,Eka Rahman,Perempuan,24,Akuntansi,2020,Donggala,SNBT,Tidak Bekerja,19.5,70.1,45.7,58.4,114,1006000.0,Tidak,2.45,Normal
+2100167,Eka Mardani,Laki-laki,18,Administrasi Publik,2022,NA,SNBT,Paruh Waktu,7.1,86.2,71.5,70.8,85,2354000.0,Ya,3.36,Normal
+2300577,Gita Masdin,P,21,Ilmu Komputer,2021,NA,Mandiri,Paruh Waktu,20.4,93.6,73.7,77.6,91,,Tidak,3.51,Cumlaude
+2200314,Budi Masdin,Laki-laki,20,Administrasi Publik,2024,Donggala,Mandiri,Paruh Waktu,2.5,91.53759759302902,92.1,71.0,132,150000000.0,Ya,3.84,Cumlaude
+2500753,Muh. Hidayat,Perempuan,23,AP,2023,Tolitoli,SNBT,Paruh Waktu,5.7,90.1,55.8,54.0,133,2146000.0,Tidak,2.67,Normal
+2300518,Putri Kurniawan,laki laki,21,Administrasi Bisnis,2020,Mamuju,SNBP,Tidak Bekerja,14.3,89.57485589463215,60.9,68.6,111,2107000.0,Tidak,2.98,Normal
+2100871,Muh. Hidayat,Perempuan,18,Akuntansi,2023,NA,SNBT,Paruh Waktu,13.8,85.4,60.9,78.2,88,2652000.0,Tidak,3.41,Normal
+2200661,Gita Wijaya,Perempuan,25,Manajemen,2020,Poso,SNBT,Penuh Waktu,13.7,86.8,59.4,51.8,89,2208000.0,Tidak,2.72,Normal
+2300975,Agus Nugroho,Perempuan,19,Manajemen,2021,Luwuk,SNBP,Paruh Waktu,13.4,97.3,77.6,71.5,143,1.381.000,Tidak,3.4,Normal
+2200644,Andi Rahman,Laki2,19,Manajemen,2024,Kendari,SNBP,Tidak Bekerja,15.7,97.7,78.2,54.3,132,1585000.0,Ya,3.21,Normal
+2500446,Gita Wijaya,PEREMPUAN,24,Administrasi Publik,2024,Donggala,SNBP,Tidak Bekerja,12.5,100.0,54.8,71.9,94,1677000.0,Tidak,3.4,Normal
+2300927,Ayu Mardani,Perempuan,26,Administrasi Bisnis,2022,Donggala,Mandiri,Tidak Bekerja,13.8,78.4,54.2,69.4,118,907000.0,Ya,2.82,Normal
+2500367,Gita Lasari,Laki-laki,18,Akuntansi,2021,Kendari,SNBT,Tidak Bekerja,15.5,82.1,71.9,58.6,140,1352000.0,Ya,2.94,Normal
+2400145,Rahmat Mardani,Perempuan,24,Ilmu Komputer,2021,Luwuk,SNBT,Paruh Waktu,22.0,91.4,61.8,60.8034409130536,81,1217000.0,Ya,3.29,Normal
+2100362,Lestari Pakaya,Perempuan,26,Administrasi Bisnis,2023,Palu,SNBP,Paruh Waktu,16.0,94.7,86.0,88.7,117,1089000.0,Ya,4.0,Cumlaude
+2300660,Lestari Nugroho,Laki-laki,26,Ilmu Komputer,2022,Donggala,Mandiri,Paruh Waktu,,79.2,84.3,73.49603053450056,98,1158000.0,Ya,3.64,Cumlaude
+2400884,Budi Pratama,Laki-laki,25,Ilmu Komputer,2024,Luwuk,SNBP,Tidak Bekerja,7.0,95.0,,85.7,85,1131000.0,Tidak,3.72,Cumlaude
+2100919,Dewi Wijaya,Perempuan,23,Administrasi Bisnis,2024,Luwuk,SNBT,Tidak Bekerja,22.6,89.0,56.1,59.4,126,2535000.0,Ya,2.56,Normal
+2500764,Siti Daeng,Perempuan,25,Ilmu Komputer,2022,Donggala,Mandiri,Paruh Waktu,16.5,78.0,78.4,78.6,131,2901000.0,Tidak,3.65,Cumlaude
+2300321,Wahyu Wijaya,Perempuan,5,Akuntansi,2024,Makassar,Mandiri,Paruh Waktu,18.7,69.71222863345942,67.9,75.1,105,1176000.0,Ya,3.21,Normal
+2500185,Fajar Wijaya,Laki-laki,18,Manajemen ,2024,Gorontalo,Mandiri,Paruh Waktu,29.5,70.4,80.7,79.5,121,866000.0,Tidak,3.44,Normal
+2200653,Hasan Pratama,Perempuan,26,Administrasi Publik,2024,Luwuk,SNBP,Tidak Bekerja,,92.22698623784858,59.7,72.0,140,1.644.000,Ya,3.29,Normal
+2200132,Lestari Lasari,Perempuan,24,Akuntansi,2024,Manado,Beasiswa,Tidak Bekerja,9.2,72.2,51.3,74.6,130,2810000.0,Tidak,2.98,Normal
+2300868,Rahmat Lasari,Laki-laki,25,Administrasi Publik,2023,Palu,SNBP,Tidak Bekerja,12.6,84.4,55.6,73.9,122,3285000.0,Tidak,3.02,Normal
+2100630,Wahyu Sulistyo,Perempuan,20,Administrasi Bisnis,2020,Donggala,SNBT,Paruh Waktu,13.2,88.17269231418034,80.7,73.9,128,1131000.0,Ya,3.74,Cumlaude
+2500756,Nur Kurniawan,Perempuan,24,Akuntansi,2022,Donggala,SNBP,Paruh Waktu,23.5,77.8,79.1,67.2,134,1217000.0,Ya,3.84,Cumlaude
+2400799,Agus Saputra,Laki-laki,22,Manajemen,2021,Kendari,Mandiri,Paruh Waktu,15.6,87.0889645502168,56.8,61.7,128,1730000.0,Ya,2.92,Normal
+2100886,Andi Kurniawan,Perempuan,25,Manajemen,2024,Palu,SNBP,Penuh Waktu,20.1,90.7,66.1,51.7,91,1815000.0,Ya,2.88,Normal
+2400119,Nur Lasari,Laki-laki,25,Administrasi Bisnis ,2021,Gorontalo,Beasiswa,Paruh Waktu,16.8,70.4,49.2,54.5,121,2619000.0,Ya,2.44,Normal
+2100978,Muh. Wijaya,Perempuan,23,Administrasi Bisnis ,2021,Manado,Mandiri,Tidak Bekerja,16.4,100.0,84.7,73.9,139,1588000.0,Tidak,3.91,Cumlaude
+2100038,Rahmat Kurniawan,Laki-laki,22,Administrasi Publik,2021,Makassar,Beasiswa,Paruh Waktu,5.6,97.1,90.4,72.7,98,1031000.0,Ya,3.95,Cumlaude
+2300840,Rizky Saputra,Perempuan,23,Ilmu Komputer,2024,Makassar,Mandiri,Penuh Waktu,24.6,87.9,73.5,46.55892902273577,120,2102000.0,Ya,3.2,Normal
+2300493,Citra Saputra,Perempuan,26,Administrasi Bisnis,2023,Poso,SNBP,Tidak Bekerja,14.1,81.8,54.7,66.5,99,1578000.0,Tidak,3.11,Normal
+2500918,Agus Mardani,Laki-laki,18,Administrasi Bisnis,2021,Manado,Mandiri,Paruh Waktu,7.9,80.4,96.2,68.1,130,1877000.0,Ya,3.7,Cumlaude
+2400338,Eka Lapasere,perempuan,25,Administrasi Bisnis,2023,Tolitoli,Beasiswa,Paruh Waktu,13.0,100.0,,56.9,111,1663000.0,Tidak,3.07,Normal
+2200818,Joko Sulistyo,Perempuan,24, Akuntansi ,2022,Kendari,Beasiswa,Tidak Bekerja,12.4,67.89829437516784,62.4,72.7,127,2648000.0,Tidak,3.45,Normal
+2100084,Andi Saputra,Perempuan,19,Administrasi Bisnis,2023,Mamuju,Mandiri,Penuh Waktu,13.3,100.0,65.8,55.5,132,1468000.0,Ya,3.04,Normal
+2300224,Agus Saputra,Perempuan,23,Manajemen,2020,Mamuju,SNBT,Paruh Waktu,12.4,82.0,,69.0,121,1442000.0,Ya,3.66,Cumlaude
+2200019,Andi Mardani,Perempuan,19,Akuntansi,2020,Donggala,Mandiri,Tidak Bekerja,12.0,86.2,61.1,62.149991592031924,137,,Ya,2.88,Normal
+2400072,Rizky Hidayat,L,19,Ilmu Komputer,2022,Gorontalo,Mandiri,Paruh Waktu,28.9,93.5,48.3,80.3,139,1372000.0,Tidak,2.93,Normal
+2200418,Hasan Lapasere,Laki-laki,23,Manajemen,2021,Poso,SNBP,Tidak Bekerja,17.9,78.7,62.2,89.5,124,1560000.0,Ya,3.45,Normal
+2300075,Rahmat Lasari,Laki-laki,20,Akuntansi,2023,Luwuk,Mandiri,Tidak Bekerja,20.7,69.4,52.4,78.2,93,1745000.0,Ya,2.85,Normal
+2300380,Lestari Lasari,Perempuan,20,Administrasi Bisnis,2020,Poso,Mandiri,,15.4,89.9,64.3,74.55852509254169,122,1827000.0,Ya,3.52,Cumlaude
+2400873,Wahyu Saputra,Laki-laki,22,Manajemen,2021,Tolitoli,SNBT,Tidak Bekerja,12.3,100.0,69.7,53.7,82,888000.0,Ya,2.93,Normal
+2300385,Ayu Pakaya,Perempuan,22,Manajemen,2022,Manado,SNBP,Tidak Bekerja,5.4,77.1,76.9,72.5,114,1411000.0,Ya,3.66,Cumlaude
+2300452,Siti Pratama,P,22,Administrasi Publik,2024,Poso,SNBT,Tidak Bekerja,14.8,84.3,,82.5730012280265,87,1365000.0,Tidak,3.76,Cumlaude
+2300264,Kurnia Pratama,Perempuan,24,Akuntansi,2021,Poso,Mandiri,Paruh Waktu,15.5,81.5,65.2,90.9,103,1274000.0,Ya,3.67,Cumlaude
+2500040,Muh. Tandiari,Perempuan,18,Administrasi Bisnis,2021,Gorontalo,Beasiswa,Tidak Bekerja,19.4,82.4,68.1,57.2,96,1629000.0,Tidak,2.94,Normal
+2400428,Wahyu Sulistyo,Laki-laki,25,Ilmu Komputer,2024,Kendari,SNBT,Paruh Waktu,13.5,90.4,69.8,75.5,124,1103000.0,Ya,3.45,Normal
+2500160,Joko Tandiari,Perempuan,22,Administrasi Bisnis,2020,Mamuju,SNBT,Tidak Bekerja,16.8,64.6,70.6,82.5,107,1037000.0,Ya,3.46,Normal
+2100110,Joko Nugroho,Laki-laki,20,Akuntansi,2023,NA,Mandiri,Tidak Bekerja,11.7,82.8,51.2,78.6,86,871000.0,Tidak,2.98,Normal
+2200303,Citra Tandiari,Perempuan,23,Administrasi Publik,2021,Palu,Mandiri,Penuh Waktu,21.9,90.9,86.1,65.7,111,1426000.0,Tidak,3.75,Cumlaude
+2500108,Indah Nugroho,Laki-laki,21,Manajemen,2020,Makassar,SNBP,Tidak Bekerja,25.0,76.5,94.3,56.8,140,1633000.0,Ya,3.57,Cumlaude
+2300048,Putri Masdin,pria,22,Ilmu Komputer,2023,Makassar,SNBP,Tidak Bekerja,12.8,86.1,75.0,74.5,100,1889000.0,Ya,3.6,Cumlaude
+2400509,Indah Saputra,Perempuan,23,Ilmu Komputer,2020,NA,SNBP,Paruh Waktu,13.3,71.5,78.2,59.8,89,992000.0,Ya,3.18,Normal
+2100018,Eka Kurniawan,Laki-laki,26,Administrasi Publik,2020,Poso,Mandiri,Tidak Bekerja,14.1,95.1,64.7,75.8,82,2042000.0,Ya,3.18,Normal
+2300043,Budi Hidayat,P,26,Administrasi Publik,2020,Mamuju,SNBT,Tidak Bekerja,19.6,74.2,84.4,63.9,124,1375000.0,Tidak,3.45,Normal
+2400273,Muh. Saputra,Perempuan,18,Manajemen,2023,Manado,SNBP,Tidak Bekerja,5.6,86.8,64.8,83.58712480598703,110,912000.0,Ya,3.44,Normal
+2300443,Dewi Pratama,Laki-laki,18,Akuntansi,2024,Manado,SNBT,Paruh Waktu,12.7,92.1,63.6,61.1,117,,Ya,2.92,Normal
+2300090,Eka Rahman,Laki-laki,21,Manajemen,2022,Kendari,SNBP,Tidak Bekerja,16.8,87.7,74.3,76.1,86,1593000.0,Tidak,3.39,Normal
+2500885,Taufik Nugroho,Perempuan,26,Akuntansi,2022,Gorontalo,SNBP,Tidak Bekerja,18.1,87.2,92.5,66.3,120,1302000.0,Tidak,3.63,Cumlaude
+2500275,Rahmat Tandiari,Perempuan,26,Ilmu Komputer,2022,Mamuju,SNBT,Tidak Bekerja,19.1,88.1,59.0,54.8,141,1386000.0,Tidak,2.7,Normal
+2200846,Gita Masdin,Laki-laki,19,Akuntansi,2022,Manado,SNBP,Tidak Bekerja,14.6,88.0,73.6,87.8,84,1504000.0,Ya,3.73,Cumlaude
+2500672,Dewi Hidayat,PEREMPUAN,23,Akuntansi,2022,Kendari,SNBT,Tidak Bekerja,18.0,77.79417279731062,73.0,63.7,80,1952000.0,Ya,3.43,Normal
+2500114,Sri Pakaya,Perempuan,19,Ilmu Komputer,2024,Poso,SNBT,Paruh Waktu,,97.3,94.1,58.3,114,1750000.0,Tidak,3.53,Cumlaude
+2200328,Lestari Lasari,Perempuan,23,Adm. Publik,2022,Gorontalo,Mandiri,Tidak Bekerja,10.9,88.4,61.6,70.09181543379219,96,823000.0,Tidak,3.16,Normal
+2200580,Lestari Daeng,Perempuan,23,Administrasi Publik,2022,Donggala,SNBP,Tidak Bekerja,12.0,94.4,70.0,84.73181342544191,83,1519000.0,Tidak,3.76,Cumlaude
+2500465,Taufik Daeng,Perempuan,20,Manajemen,2022,Luwuk,SNBP,Tidak Bekerja,11.0,92.3,91.6,68.98046094626447,121,1251000.0,Tidak,3.81,Cumlaude
+2400727,Budi Mardani,Perempuan,20,Akuntansi,2024,Luwuk,Mandiri,Tidak Bekerja,15.1,86.3,86.3,60.5,110,1783000.0,Ya,3.31,Normal
+2500904,Gita Mardani,pria,24,Administrasi Bisnis,2022,Mamuju,Mandiri,Tidak Bekerja,20.6,88.3,69.1,102.44367173897732,95,2.750.000,Tidak,3.55,Cumlaude
+2500131,Rahmat Wijaya,Perempuan,18,Adm. Publik,2021,Manado,Mandiri,Tidak Bekerja,17.5,81.1,74.9,75.3,103,1004000.0,Tidak,3.67,Cumlaude
+2100001,Sri Pratama,Perempuan,25,Administrasi Bisnis,2023,Gorontalo,SNBT,Tidak Bekerja,,75.66656584698538,75.2,69.8,143,2011000.0,Tidak,3.3,Normal
+2400699,Lestari Masdin,Laki-laki,19,Manajemen,2023,Manado,SNBP,Paruh Waktu,22.3,94.6,62.2,50.6,84,1142000.0,Ya,3.03,Normal
+2100227,Taufik Lasari,Laki-laki,25,Ilmu Komputer,2020,Palu,SNBP,Paruh Waktu,11.2,90.9,,67.5,136,,Tidak,3.28,Normal
+2400690,Putri Mardani,Laki-laki,18,Ilmu Komputer,2023,Donggala,Mandiri,Tidak Bekerja,14.1,92.3,85.1,72.7,85,531000.0,Ya,3.71,Cumlaude
+2300839,Eka Nugroho,PEREMPUAN,22,Administrasi Bisnis,2021,Tolitoli,SNBT,Tidak Bekerja,14.4,99.7,71.9,60.3,131,1127000.0,Tidak,3.33,Normal
+2300693,Taufik Pakaya,PEREMPUAN,25,Akuntansi,2022,Makassar,Beasiswa,Tidak Bekerja,6.5,89.99833199999253,76.4,63.3,86,,Tidak,3.35,Normal
+2100133,Ayu Pratama,Laki-laki,21,Ilmu Komputer,2021,Tolitoli,SNBP,Penuh Waktu,14.5,90.3,79.5,63.2,112,1463000.0,Ya,3.67,Cumlaude
+2100735,Muh. Lamato,Laki-laki,21, Administrasi Bisnis ,2020,Mamuju,Mandiri,Paruh Waktu,11.4,84.3,77.8,75.5,84,1065000.0,Tidak,3.66,Cumlaude
+2500248,Citra Lamato,Laki-laki,24,Adm. Publik,2022,Makassar,Mandiri,Tidak Bekerja,18.3,78.5,84.4,86.7,130,1301000.0,Ya,3.91,Cumlaude
+2300283,Andi Pakaya,Laki-laki,22,ilmu komputer,2022,Poso,Mandiri,Tidak Bekerja,12.2,78.6,65.5,69.1,127,990000.0,Tidak,3.01,Normal
+2500496,Muh. Daeng,Perempuan,20,Ilmu Komputer,2020,Makassar,Mandiri,Tidak Bekerja,13.0,79.6,68.5,85.0,129,2060000.0,Ya,3.88,Cumlaude
+2200680,Muh. Lamato,Laki-laki,18,Manajemen,2020,Mamuju,SNBP,Paruh Waktu,15.1,73.79634547430103,85.5,78.9,84,658000.0,Tidak,3.92,Cumlaude
+2100335,Nur Hidayat,PEREMPUAN,24,Ilmu Komputer,2020,Mamuju,SNBP,Paruh Waktu,8.7,94.5,80.6,39.0,106,,Tidak,2.85,Normal
+2100439,Wahyu Mardani,Laki-laki,19,Administrasi Bisnis,2023,Donggala,Mandiri,Paruh Waktu,16.2,85.95226900016041,51.6,64.9,126,1596000.0,Tidak,2.96,Normal
+2400263,Nur Pakaya,Perempuan,19,Administrasi Bisnis,2022,Palu,SNBP,Penuh Waktu,20.5,73.9,67.0,70.4,80,2123000.0,Tidak,3.05,Normal
+2400142,Dewi Daeng,P,99,Administrasi Publik,2022,Gorontalo,SNBT,Paruh Waktu,17.2,87.1,58.1,63.4,84,1673000.0,Tidak,2.98,Normal
+2200245,Taufik Daeng,Perempuan,19,Administrasi Bisnis,2023,Makassar,SNBP,Tidak Bekerja,22.5,76.3,,70.8,105,840000.0,Tidak,3.27,Normal
+2200812,Budi Rahman,Perempuan,24,Administrasi Bisnis,2020,Palu,Mandiri,Tidak Bekerja,18.0,78.6,68.5,78.2,105,2221000.0,Tidak,3.15,Normal
+2400027,Sri Saputra,Laki-laki,20,Administrasi Bisnis,2024,Gorontalo,SNBP,Tidak Bekerja,10.5,86.8,70.4,78.08098446406966,90,699000.0,Ya,3.39,Normal
+2300441,Taufik Lasari,PEREMPUAN,24,Manajemen,2023,Luwuk,Beasiswa,Tidak Bekerja,,82.2,84.3,61.75132187305531,140,1412000.0,Ya,3.36,Normal
+2400138,Indah Lamato,Laki-laki,20,Manajemen,2024,Makassar,SNBP,Tidak Bekerja,11.0,72.4,88.7,56.2,112,2684000.0,Tidak,3.23,Normal
+2400363,Kurnia Saputra,Perempuan,20,Administrasi Bisnis,2020,Makassar,Beasiswa,Penuh Waktu,15.8,96.2,68.9,76.2,110,1589000.0,Tidak,3.26,Normal
+2200089,Putri Lasari,Perempuan,24,Administrasi Bisnis,2022,Donggala,SNBT,Tidak Bekerja,13.4,79.0,76.0,78.7,90,2891000.0,Tidak,3.74,Cumlaude
+2200838,Sri Lamato,Laki-laki,26,Administrasi Publik,2020,Donggala,SNBP,Paruh Waktu,18.6,91.8,65.0,59.9,94,903.000,Tidak,2.9,Normal
+2300923,Citra Masdin,Perempuan,26,Akuntansi,2020,Manado,SNBP,Tidak Bekerja,13.1,91.9923838174077,83.7,72.5,89,2379000.0,Tidak,3.8,Cumlaude
+2500023,Dewi Tandiari,L,25,Administrasi Publik,2021,Makassar,Mandiri,Tidak Bekerja,12.8,82.3,76.5,76.2,90,1302000.0,Tidak,3.54,Cumlaude
+2300608,Indah Wijaya,Laki-laki,21,Administrasi Bisnis,2024,Manado,SNBT,Paruh Waktu,9.5,93.9,79.1,69.8,139,1822000.0,Tidak,3.79,Cumlaude
+2200079,Sri Rahman,Perempuan,20,Administrasi Bisnis,2024,Gorontalo,Beasiswa,Paruh Waktu,21.0,81.5,60.2,78.8,115,944000.0,Ya,3.24,Normal
+2300125,Wahyu Kurniawan,Perempuan,18,Administrasi Bisnis,2022,Palu,SNBP,Penuh Waktu,16.0,81.4,74.6,54.0,99,1884000.0,Tidak,3.1,Normal
+2100704,Hasan Pakaya,Wanita,23,Administrasi Publik,2024,Kendari,Mandiri,Paruh Waktu,9.7,81.0,78.9,53.2,129,4074000.0,Ya,3.02,Normal
+2500242,Ayu Pratama,Perempuan,23,Administrasi Bisnis,2020,Donggala,SNBP,Tidak Bekerja,12.6,91.9,64.9,52.4,94,1025000.0,Ya,2.89,Normal
+2500370,Gita Mardani,Laki-laki,23,Ilmu Komp.,2024,Gorontalo,SNBT,Tidak Bekerja,26.0,89.8,84.8,73.5,102,1069000.0,Tidak,3.67,Cumlaude
+2500683,Lestari Lamato,laki laki,19,Administrasi Bisnis,2022,Poso,Mandiri,Tidak Bekerja,13.4,72.6,76.7,67.1,128,2201000.0,Tidak,3.36,Normal
+2300326,Rizky Lapasere,Laki-laki,25,Ilmu Komputer,2023,Manado,SNBP,Penuh Waktu,13.5,68.0,67.1,66.0,101,2143000.0,Tidak,2.85,Normal
+2400579,Dewi Lamato,Laki-laki,26,Administrasi Publik,2020,Makassar,SNBT,Tidak Bekerja,6.9,90.2,100.0,75.3,124,1045000.0,Ya,-1.0,Cumlaude
+2500657,Budi Hidayat,Laki-laki,20,MANAJEMEN,2024,Palu,SNBP,Tidak Bekerja,,79.5,67.9,39.590867235444044,121,1929000.0,Tidak,2.6,Normal
+2200504,Fajar Masdin,Perempuan,19,Akuntansi,2020,Luwuk,SNBP,Tidak Bekerja,9.1,86.5,78.4,70.7,90,1621000.0,Tidak,3.57,Cumlaude
+2300408,Eka Saputra,PEREMPUAN,21,Ilmu Komputer,2024,NA,Mandiri,Paruh Waktu,17.8,83.1,70.8,88.7,141,2141000.0,Tidak,3.64,Cumlaude
+2100937,Eka Lasari,Perempuan,19,Manajemen,2020,Kendari,Mandiri,Tidak Bekerja,13.3,98.9,59.0,48.2,106,1249000.0,Ya,2.77,Normal
+2400081,Dewi Sulistyo,P,19,Ilmu Komputer,2021,Luwuk,Mandiri,Tidak Bekerja,13.0,90.4,70.7,66.9,128,1542000.0,Tidak,3.18,Normal
+2400468,Hasan Sulistyo,Perempuan,21,Ilmu Komputer,2020,Mamuju,Beasiswa,Tidak Bekerja,20.9,79.9,56.1,80.3,101,1.418.000,Ya,3.17,Normal
+2100231,Fajar Saputra,Laki-laki,22,Ilmu Komputer,2022,Mamuju,Mandiri,Tidak Bekerja,14.6,95.7,81.0,82.6,138,1602000.0,Ya,3.91,Cumlaude
+2500501,Siti Nugroho,Laki-laki,20,Manajemen,2020,Palu,SNBP,Tidak Bekerja,17.5,84.1,71.1,76.3,129,1259000.0,Tidak,3.91,Cumlaude
+2200037,Taufik Sulistyo,Laki-laki,23,Manajemen,2021,Manado,Mandiri,Tidak Bekerja,7.6,86.7,93.6,70.348472090221,131,857000.0,Ya,3.74,Cumlaude
+2100842,Yusuf Lasari,Laki-laki,25,Akuntansi,2020,Mamuju,SNBT,,21.4,83.4,73.7,79.40718051699056,84,1549000.0,Ya,3.33,Normal
+2400897,Sri Hidayat,Laki-laki,19,Akuntansi,2023,Luwuk,Beasiswa,Tidak Bekerja,19.0,96.38297923933465,64.1,71.1,122,2780000.0,Ya,3.38,Normal
+2200140,Indah Tandiari,Laki-laki,23,Manajemen,2024,Poso,SNBT,Tidak Bekerja,13.6,90.95654699099806,58.2,73.4,144,833000.0,Ya,3.47,Normal
+2400546,Yusuf Lapasere,Perempuan,26,Administrasi Publik,2023,Makassar,Beasiswa,Tidak Bekerja,15.8,76.45098328578645,64.7,89.9,107,1675000.0,Ya,3.36,Normal
+2200900,Ayu Hidayat,Perempuan,18,Administrasi Publik,2023,Poso,SNBT,Tidak Bekerja,7.1,68.3,85.4,74.2,90,641000.0,Ya,3.84,Cumlaude
+2100637,Budi Saputra,Perempuan,26,Ilmu Komputer,2023,Mamuju,Mandiri,Paruh Waktu,15.4,95.9,46.6,82.5,92,1155000.0,Ya,3.09,Normal
+2300236,Yusuf Daeng,perempuan,20,AKUNTANSI,2023,Donggala,SNBP,Tidak Bekerja,9.5,81.1,76.2,78.9,82,1722000.0,Tidak,3.63,Cumlaude
+2200813,Budi Kurniawan,Perempuan,23,Akuntansi,2021,Manado,SNBT,Paruh Waktu,14.6,77.8,72.0,63.9,86,1515000.0,Ya,3.15,Normal
+2500416,Siti Hidayat,Laki-laki,19,Ilmu Komputer,2020,Manado,SNBP,Tidak Bekerja,17.2,93.2,,50.7,81,1601000.0,Ya,3.35,Normal
+2300765,Agus Lapasere,Perempuan,19,Administrasi Bisnis,2022,Palu,Mandiri,Tidak Bekerja,,80.34701530034903,93.4,93.8841173920699,80,1741000.0,Ya,4.0,Cumlaude
+2200688,Taufik Lamato,Perempuan,18,Administrasi Bisnis,2021,Mamuju,SNBP,Tidak Bekerja,15.1,84.1,78.1,72.6,109,1.779.000,Tidak,3.19,Normal
+2500604,Kurnia Tandiari,Perempuan,26,ADMINISTRASI BISNIS,2023,Gorontalo,Mandiri,Tidak Bekerja,16.5,83.3,72.3,69.6,94,2507000.0,Ya,3.32,Normal
+2100621,Agus Pratama,Perempuan,23,Manajemen,2020,Manado,Mandiri,Tidak Bekerja,,71.2,68.5,75.6,141,2355000.0,Ya,3.15,Normal
+2100792,Putri Lamato,Perempuan,25,Manajemen,2021,Palu,Beasiswa,Tidak Bekerja,14.6,90.4,78.6,58.5,81,896000.0,Tidak,3.26,Normal
+2500850,Dewi Mardani,Perempuan,19,Manajemen,2024,Tolitoli,SNBP,Tidak Bekerja,22.4,100.0,65.1,82.8,106,2058000.0,Tidak,3.54,Cumlaude
+2200583,Taufik Tandiari,Perempuan,19,Administrasi Bisnis,2020,Mamuju,SNBP,Paruh Waktu,8.5,86.2,89.2,57.4,81,1056000.0,Ya,3.43,Normal
+2500673,Nur Rahman,perempuan,26,Manajemen,2023,Makassar,SNBP,Paruh Waktu,12.3,70.1,62.8,57.7,89,1323000.0,Tidak,2.7,Normal
+2300332,Yusuf Rahman,Perempuan,25,Administrasi Publik,2021,Makassar,SNBT,Tidak Bekerja,20.0,73.5,95.6,71.6,93,1491000.0,Tidak,3.8,Cumlaude
+2200269,Eka Pratama,Perempuan,24,Akuntansi ,2021,Tolitoli,Mandiri,,4.9,88.4,80.3,53.3,108,3.766.000,Ya,3.11,Normal
+2500951,Agus Lamato,Perempuan,23,Administrasi Publik,2022,Gorontalo,SNBT,Tidak Bekerja,10.0,84.6,87.5,66.0,98,2008000.0,Tidak,3.76,Cumlaude
+2100337,Indah Masdin,Laki-laki,26,Ilmu Komputer,2022,Mamuju,Mandiri,Penuh Waktu,10.7,93.2,61.1,86.67695608786329,84,1813000.0,Ya,3.45,Normal
+2300091,Nur Lapasere,Laki-laki,20,Administrasi Publik,2020,Donggala,SNBT,Tidak Bekerja,11.0,98.3,,72.0,113,1494000.0,Ya,3.4,Normal
+2300080,Muh. Saputra,L,20,Administrasi Bisnis,2021,Makassar,Mandiri,Tidak Bekerja,,78.4,75.0,72.6,84,2243000.0,Tidak,3.64,Cumlaude
+2400703,Taufik Mardani,Laki-laki,22,Akuntansi,2020,Mamuju,Mandiri,Tidak Bekerja,,74.72603651405613,71.1,54.8,115,1219000.0,Ya,2.69,Normal
+2500921,Nur Rahman,Wanita,23,Administrasi Bisnis,2021,Gorontalo,Mandiri,Paruh Waktu,8.8,80.0,56.8,64.25590457949166,111,1254000.0,Ya,2.45,Normal
